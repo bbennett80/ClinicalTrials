@@ -33,8 +33,12 @@ def nct_nums():
         r = requests.get(api_call)                                                  
         text = r.text                                                               
         data = json.loads(text)
-        with open('studies.json', 'w+') as outfile:
-            json.dump(data, outfile, sort_keys=True, indent=2)
+        for ID in data['StudyFieldsResponse']['StudyFields']:
+            ID = ID['NCTId']
+                for NCTId in ID:
+                    with open(f'nctid.txt', 'a+') as outfile:
+                        outfile.write(f'{NCTId},\n')
+
     else:
         print('Downloading NCT numbers from clinicaltrials.gov.\n This might take a while, coffee break...')
         for i in trange(1, n_studies, 19):
