@@ -2,8 +2,6 @@
 
 import requests
 import json
-from tqdm import trange
-
 
 # construct nctid url 
 base_url = 'https://clinicaltrials.gov/api/query/field_values?'
@@ -17,21 +15,19 @@ fmt = 'fmt=json'# format set to json, available: xml, csv
 
 nctid_api_call = f'{base_url}{expr}{location}{status}{study_type}{age}{field}{fmt}'
 
-def data_studies():
+def nctids():
     # """gathers NCT ID for all studies in url construct"""
-    r = requests.get(nctid_api_call)
-    text = r.text
-    data = json.loads(text)
-    return data
+    nctids = requests.get(nctid_api_call).json()
+    return nctids
 
-data = data_studies()
+nctid = nctids()
 
-def n_studies(data):
+def n_studies(nctid):
     # """returns number of studies which match url construct criteria"""
     n_studies = data['FieldValuesResponse']['NUniqueValuesFound']
     return n_studies
 
-n_studies = n_studies(data)
+n_studies = n_studies(nctid)
 
 print(f'Found {n_studies} studies \n')
 
@@ -40,11 +36,11 @@ def download_studies(data):
     for ID in data['FieldValuesResponse']['FieldValues']:
         ID = ID['FieldValue']
         full_study = f'https://clinicaltrials.gov/api/query/full_studies?expr={ID}&min_rnk=1&max_rnk=&fmt=json'
-        r = requests.get(full_study)                                                  
-        text = r.text                                                               
-        data = json.loads(text)
+        study = requests.get(full_study).json()                                                
         with open(f'{ID}.json', 'w+') as f:
-            json.dump(data, f, sort_keys=True, indent=2)
+            json.dump(study, f, sort_keys=True, indent=2)
+
+
 
 if __name__=='__main__':
     download_studies(data)
