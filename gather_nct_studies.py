@@ -1,5 +1,3 @@
-# expr query: Cancer AND SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MinimumAge]18 Years AND AREA[StudyType]Interventional
-
 import glob
 import json
 import os
@@ -8,7 +6,6 @@ import requests
 from tqdm import trange
 
 trial_type = 'Interventional'
-
 
 def build_url():
     # construct nctid url 
@@ -26,6 +23,8 @@ def build_url():
     api_csv = f'{base_url}{expr}{location}{status}{study_type}{age}{field}{fmt_csv}'
     return api_json, api_csv
 
+api_json = build_url()[0]
+api_csv = build_url()[1]
 
 def studies(json_url, csv_url):
     r = requests.get(api_json)
@@ -37,24 +36,20 @@ def studies(json_url, csv_url):
         df = pd.read_csv(api_csv, skiprows=9)
         return df.to_csv(f'{trial_type}_clinical_trials.csv', index=False)
     else:        
-        for trial in trange(1, n_studies, 19):
+        for trial in trange(1, 100, 19):
             urls = f'https://clinicaltrials.gov/api/query/study_fields?expr=cancer+AND+SEARCH%5BLocation%5D%28AREA%5BLocationCountry%5DUnited+States+AND+AREA%5BLocationStatus%5DRecruiting%29+AND+AREA%5BMinimumAge%5D18+Years+AND+AREA%5BStudyType%5DObservational&fields=StudyType%2C+NCTId%2COfficialTitle%2C+StartDate%2C+PrimaryCompletionDate%2C+LastUpdatePostDate%2C+Condition%2C+Gender%2C+MaximumAge%2C+EligibilityCriteria%2C+CentralContactName%2C+CentralContactPhone%2C+CentralContactEMail%2C+LocationFacility%2C+LocationCity%2C+LocationState%2C+LocationZip%2C+LeadSponsorName&min_rnk={trial}&max_rnk=&fmt=csv'
             df = pd.read_csv(urls, skiprows=9)
             df = df.drop(columns=['Rank', 'StudyType'])
             dfs = df.to_csv(f'{trial_type}_clinical_trials_{trial}.csv', index=False)
-    all_files = glob.glob(f'{trial_type}_clinical_trials_*.csv') 
-
-
+    
+    all_files = glob.glob(f'{trial_type}_clinical_trials_*.csv')
     df = pd.concat((pd.read_csv(f) for f in all_files))
     df = df.sort_values(by='NCTId', ascending=True)
     return df.to_csv(f'{trial_type}_clinical_trials.csv', index=False)
 
-
 def clean_up():
 
     all_files = glob.glob(f'./{trial_type}_clinical_trials_*.csv', recursive=True)
-    
-    
     if not all_files:
         print('Files cleaned up. Trials downloaded.')
     else:
@@ -68,18 +63,16 @@ def clean_up():
             
 def map_zipcode():
     df_ct = pd.read_csv('Interventional_clinical_trials.csv', dtype='object')
-    df_ct['LocationZip'] = df_ct['LocationZip'].str[:5]
     df_zipcodes = pd.read_csv('zipcodes.csv', dtype='object')
+
+    df_ct.LocationZip = df_ct.LocationZip.str.split('|')
+    df_ct = df_ct.explode('LocationZip')
+    df_ct['LocationZip'] = df_ct['LocationZip'].str[:5]
+
     df = pd.merge(df_ct, df_zipcodes, how='left', on='LocationZip')
-    df.LocationZip = df.LocationZip.str.split('|')
-    df = df.explode('LocationZip')
     return df.to_csv('clinical_trials_db.csv', index=False)
-            
+
 def main():
-    """Gathers recruiting, interventional, oncology clinical trials from 
-    clinicaltrials.gov. Saves to .csv for use with Datasette by Simon Willison
-    """
-    build_url()
     studies(api_json, api_csv)
     clean_up()
     map_zipcode()
