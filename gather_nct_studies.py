@@ -36,7 +36,7 @@ def studies(json_url, csv_url):
         df = pd.read_csv(api_csv, skiprows=9)
         return df.to_csv(f'{trial_type}_clinical_trials.csv', index=False)
     else:        
-        for trial in trange(1, 100, 19):
+        for trial in trange(1, n_studies, 19):
             urls = f'https://clinicaltrials.gov/api/query/study_fields?expr=cancer+AND+SEARCH%5BLocation%5D%28AREA%5BLocationCountry%5DUnited+States+AND+AREA%5BLocationStatus%5DRecruiting%29+AND+AREA%5BMinimumAge%5D18+Years+AND+AREA%5BStudyType%5DObservational&fields=StudyType%2C+NCTId%2COfficialTitle%2C+StartDate%2C+PrimaryCompletionDate%2C+LastUpdatePostDate%2C+Condition%2C+Gender%2C+MaximumAge%2C+EligibilityCriteria%2C+CentralContactName%2C+CentralContactPhone%2C+CentralContactEMail%2C+LocationFacility%2C+LocationCity%2C+LocationState%2C+LocationZip%2C+LeadSponsorName&min_rnk={trial}&max_rnk=&fmt=csv'
             df = pd.read_csv(urls, skiprows=9)
             df = df.drop(columns=['Rank', 'StudyType'])
