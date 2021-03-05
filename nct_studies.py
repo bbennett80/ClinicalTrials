@@ -23,9 +23,6 @@ def build_url():
     api_csv = f'{base_url}{expr}{location}{status}{study_type}{age}{field}{fmt_csv}'
     return api_json, api_csv
 
-api_json = build_url()[0]
-api_csv = build_url()[1]
-
 def studies(json_url, csv_url):
     r = requests.get(api_json)
     data = json.loads(r.text)
@@ -45,7 +42,7 @@ def studies(json_url, csv_url):
     all_files = glob.glob(f'{trial_type}_clinical_trials_*.csv')
     df = pd.concat((pd.read_csv(f) for f in all_files))
     df = df.sort_values(by='NCTId', ascending=True)
-    return df.to_csv(f'{trial_type}_clinical_trials.csv', index=False)
+    df.to_csv(f'{trial_type}_clinical_trials.csv', index=False)
 
 def clean_up():
 
@@ -70,9 +67,11 @@ def map_zipcode():
     df_ct['LocationZip'] = df_ct['LocationZip'].str[:5]
 
     df = pd.merge(df_ct, df_zipcodes, how='left', on='LocationZip')
-    return df.to_csv('clinical_trials_db.csv', index=False)
+    df.to_csv('clinical_trials_db.csv', index=False)
 
 def main():
+    api_json = build_url()[0]
+    api_csv = build_url()[1]
     studies(api_json, api_csv)
     clean_up()
     map_zipcode()
