@@ -24,11 +24,11 @@ def n_studies(url):
     n_studies = data['StudyFieldsResponse']['NStudiesFound']
     return n_studies   
 
-n_studies = n_studies(api_call)
-print(f'Found {n_studies} studies \n')
-
 def nct_nums():
     # gather NCTID's for all trials: cancer, US, interventional, recruiting
+    n_studies = n_studies(api_call)
+    print(f'Found {n_studies} studies \n')
+    
     if n_studies < 1000:
         r = requests.get(api_call)                                                  
         text = r.text                                                               
