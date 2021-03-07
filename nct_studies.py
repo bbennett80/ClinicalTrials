@@ -45,7 +45,6 @@ def studies(json_url, csv_url):
     df.to_csv(f'{trial_type}_clinical_trials.csv', index=False)
 
 def clean_up():
-
     all_files = glob.glob(f'./{trial_type}_clinical_trials_*.csv', recursive=True)
     if not all_files:
         print('Files cleaned up. Trials downloaded.')
