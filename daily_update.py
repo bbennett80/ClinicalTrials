@@ -27,7 +27,7 @@ def update_url():
         #choose to return json or csv. TODO: add command line/install prompt. JSON works with MatchaMiner, FYI
         id_json = f'{base_url}{expr}{field}{fmt_json}\n'
         #id_csv = f'{base_url}{expr}{field}{fmt_csv}\n'
-        print(id_jsom)
+        print(id_json)
     return id_json
 
 def main():
