@@ -37,7 +37,8 @@ def studies():
     r = requests.get(api_json)
     data = json.loads(r.text)
     n_studies = data['StudyFieldsResponse']['NStudiesFound']
-    print(f'There were {n_studies} studies found.')
+    print(f'There were {n_studies} studies found.\n')
+    print('Downloading clinical trials...')
 
     if n_studies < 1000:
         df = pd.read_csv(api_csv, skiprows=9)
@@ -59,20 +60,20 @@ def clean_up():
     if not all_files:
         print('Files cleaned up. Trials downloaded.')
     else:
-        for file_batch in all_files:
-            print(f'Cleaning up files: {file_batch}')
         try:
+            print('Files cleaned up. Trials downloaded.')
             for files in all_files:
                 os.remove(files)
         except OSError as e:
             print(f'Error: {file_path} : {e.strerror}')
             
 def explode_zipcode():
-    df_ct = pd.read_csv('Interventional_clinical_trials.csv', dtype='object')
+    df_ct = pd.read_csv('Interventional_clinical_trials.csv', dtype={'LocationZip':str})
     df_ct.LocationZip = df_ct.LocationZip.str.split('|')
     df_ct = df_ct.explode('LocationZip')
     df_ct['LocationZip'] = df_ct['LocationZip'].str[:5]
     df_ct.to_csv('clinical_trials_db.csv', index=False)
+    print('\nCombining all trials into one file.\n\nProcess completed.')
     
 def map_zipcode():
     pass
@@ -82,4 +83,4 @@ def map_zipcode():
 #     df.to_csv('clinical_trials_db.csv', index=False)
     
 if __name__=='__main__':
-    main()         
+    main()
