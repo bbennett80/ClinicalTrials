@@ -29,26 +29,16 @@ def first_posted():
 
 def write_nctids():
     nctids_first_posted = first_posted()
-    with open('first_posted.txt', 'w+') as f:
+    with open('update/first_posted.txt', 'w+') as f:
         for trial in nctids_first_posted:
             f.write(f'{trial},\n')
 
 def write_updated_nctids():
     last_update = last_updated()
-    with open('last_updated.txt', 'w+') as f:
+    with open('update/last_updated.txt', 'w+') as f:
         for trial in last_update:
             f.write(f'{trial},\n')
 
 if __name__=='__main__':
     write_nctids()
     write_updated_nctids()
-
-
-
-
-
-
-
-
-
-
