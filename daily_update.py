@@ -18,18 +18,19 @@ def update_url():
     studies = rss_feed()
     print(f'Found {len(studies)} studies to update.\n')
 
+    updated_study_urls = []
     for ID in studies:
         base_url = 'https://clinicaltrials.gov/api/query/study_fields?'
-        expr = f'expr={ID}&' # change expression to search for disease, device, etc.
+        expr = f'expr={ID}&'
         field = 'fields=StudyType%2C+NCTId%2COfficialTitle%2C+StartDate%2C+PrimaryCompletionDate%2C+LastUpdatePostDate%2C+Condition%2C+Gender%2C+MaximumAge%2C+EligibilityCriteria%2C+CentralContactName%2C+CentralContactPhone%2C+CentralContactEMail%2C+LocationFacility%2C+LocationCity%2C+LocationState%2C+LocationZip%2C+LeadSponsorName&'
-        fmt_json = 'min_rnk=1&max_rnk=1&fmt=json'
+        #fmt_json = 'min_rnk=1&max_rnk=1&fmt=json'
         fmt_csv = 'min_rnk=1&max_rnk=1&fmt=csv'
         
         #choose to return json or csv. TODO: add command line/install prompt. JSON works with MatchaMiner, FYI
-        id_json = f'{base_url}{expr}{field}{fmt_json}\n'
-        #id_csv = f'{base_url}{expr}{field}{fmt_csv}\n'
-        print(id_json)
-    return id_json
+        #id_json = f'{base_url}{expr}{field}{fmt_json}\n'
+        id_csv = f'{base_url}{expr}{field}{fmt_csv}\n'
+        updated_studies.append(id_csv)
+    return updated_study_urls
 
 def main():
     update_url()
