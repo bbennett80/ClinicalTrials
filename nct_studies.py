@@ -5,6 +5,13 @@ import pandas as pd
 import requests
 from tqdm import trange
 
+def main():
+    """These functions download available clinical trials from clinicaltrials.gov as described in build_url()."""
+    studies()
+    clean_up()
+    explode_zipcode()
+    map_zipcode()
+
 trial_type = 'Interventional'
 
 def build_url():
@@ -23,7 +30,9 @@ def build_url():
     api_csv = f'{base_url}{expr}{location}{status}{study_type}{age}{field}{fmt_csv}'
     return api_json, api_csv
 
-def studies(json_url, csv_url):
+def studies():
+    api_json = build_url()[0]
+    api_csv = build_url()[1]
     r = requests.get(api_json)
     data = json.loads(r.text)
     n_studies = data['StudyFieldsResponse']['NStudiesFound']
@@ -57,23 +66,19 @@ def clean_up():
         except OSError as e:
             print(f'Error: {file_path} : {e.strerror}')
             
-def map_zipcode():
+def explode_zipcode():
     df_ct = pd.read_csv('Interventional_clinical_trials.csv', dtype='object')
-    df_zipcodes = pd.read_csv('zipcodes.csv', dtype='object')
-
     df_ct.LocationZip = df_ct.LocationZip.str.split('|')
     df_ct = df_ct.explode('LocationZip')
     df_ct['LocationZip'] = df_ct['LocationZip'].str[:5]
-
-    df = pd.merge(df_ct, df_zipcodes, how='left', on='LocationZip')
-    df.to_csv('clinical_trials_db.csv', index=False)
-
-def main():
-    api_json = build_url()[0]
-    api_csv = build_url()[1]
-    studies(api_json, api_csv)
-    clean_up()
-    map_zipcode()
+    df_ct.to_csv('clinical_trials_db.csv', index=False)
+    
+def map_zipcode():
+    pass
+#     df_ct = pd.read_csv('Interventional_clinical_trials.csv', dtype='object')
+#     df_zipcodes = pd.read_csv('zipcodes.csv', dtype='object')
+#     df = pd.merge(df_ct, df_zipcodes, how='left', on='LocationZip')
+#     df.to_csv('clinical_trials_db.csv', index=False)
     
 if __name__=='__main__':
     main()         
