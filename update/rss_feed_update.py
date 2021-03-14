@@ -7,11 +7,8 @@ def last_updated():
     url = 'https://clinicaltrials.gov/ct2/results/rss.xml?lup_d=2&sel_rss=mod2&recrs=a&type=Intr&cond=Cancer&cntry=US&count=10000'
     d = fp.parse(url)
     
-    updated_nctids = []
+    updated_nctids = [item.id for item in d.entries]
 
-    for item in d.entries:
-        nctid = item.id
-        updated_nctids.append(nctid)
     return updated_nctids
 
 def first_posted():
@@ -20,11 +17,8 @@ def first_posted():
     url = 'https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=2&sel_rss=mod2&recrs=a&type=Intr&cond=Cancer&cntry=US&count=10000'
     d = fp.parse(url)
 
-    new_nctids = []
+    new_nctids = [item.id for item in d.entries]
 
-    for item in d.entries:
-        nctid = item.id
-        new_nctids.append(nctid)
     return new_nctids
 
 def write_nctids():
