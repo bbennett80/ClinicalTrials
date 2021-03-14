@@ -1,3 +1,4 @@
+import csv
 import feedparser as fp
 import requests
 
@@ -29,15 +30,15 @@ def first_posted():
 
 def write_nctids():
     nctids_first_posted = first_posted()
-    with open('update/first_posted.txt', 'w+') as f:
-        for trial in nctids_first_posted:
-            f.write(f'{trial},\n')
+    with open('first_posted.csv', 'w+', newline='') as f:
+        first = csv.writer(f, delimiter='\n')
+        first.writerow(nctids_first_posted)
 
 def write_updated_nctids():
     last_update = last_updated()
-    with open('update/last_updated.txt', 'w+') as f:
-        for trial in last_update:
-            f.write(f'{trial},\n')
+    with open('last_updated.csv', 'w+', newline='') as f:
+        last = csv.writer(f, delimiter='\n')
+        last.writerow(last_update)
 
 if __name__=='__main__':
     write_nctids()
