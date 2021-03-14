@@ -30,14 +30,14 @@ def first_posted():
 
 def write_nctids():
     nctids_first_posted = first_posted()
-    with open('first_posted.csv', 'w+', newline='') as f:
-        first = csv.writer(f, delimiter='\n')
+    with open('/update/first_posted.csv', 'w+', newline='') as f:
+        first = csv.writer(f, delimiter=',')
         first.writerow(nctids_first_posted)
 
 def write_updated_nctids():
     last_update = last_updated()
-    with open('last_updated.csv', 'w+', newline='') as f:
-        last = csv.writer(f, delimiter='\n')
+    with open('/update/last_updated.csv', 'w+', newline='') as f:
+        last = csv.writer(f, delimiter=',')
         last.writerow(last_update)
 
 if __name__=='__main__':
