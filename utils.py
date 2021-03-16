@@ -8,11 +8,11 @@ def build_url(expr: str='Cancer',
                                  'CentralContactName','CentralContactPhone','CentralContactEMail',
                                  'LocationFacility','LocationCity','LocationState',
                                  'LocationZip','LeadSponsorName'],
+              max_rnk: str='1000',
               fmt: str='csv'
              ) -> str:
     
-    """
-    returns api url for the study fields api on clinicaltrials.gov (https://clinicaltrials.gov/api/gui/demo/simple_study_fields).
+    """returns api url for the study fields api on clinicaltrials.gov (https://clinicaltrials.gov/api/gui/demo/simple_study_fields).
     expr -  defaults to Cancer trials. However, any expression one might consider for clinicaltrials.gov.
     country -  defaults to The United States. However, any country can be entered.
     status - defaults to Recruiting. However, the following status can also be passed:
@@ -26,7 +26,9 @@ def build_url(expr: str='Cancer',
         Withdrawn: Study halted prematurely, prior to enrollment of first participant
     study_type -  defaults to Interventional trials. However, Observational can also be passed.
     field_names - a list of data elements and their corresponding API fields as described in the crosswalk documentation. (https://clinicaltrials.gov/api/gui/ref/crosswalks)
+    max_rnk - defaults to 1000 records. Can range from 1 - 1000.
     fmt - defaults to csv. However, json and xml can also be passed.
+    
     """
     
     base_url = 'https://clinicaltrials.gov/api/query/study_fields?'
@@ -39,7 +41,7 @@ def build_url(expr: str='Cancer',
     if not status:
         status = ''
     else:
-        status = f"{status.replace(' ', '+')}+"
+        status = f"{status.replace(' ', '+')}"
     
     if study_type is 'Observational' or study_type is 'Interventional':
         study_type = study_type
@@ -52,8 +54,7 @@ def build_url(expr: str='Cancer',
 
     age = 'AND+AREA%5BMinimumAge%5D18+Years&'
     fields =  "%2C+".join(field_names)
-    rank = 'min_rnk=1&max_rnk=1000&'
     
-    api_url = f'{base_url}expr={expr}SEARCH%5BLocation%5D%28AREA%5BLocationCountry%5D{country}+AND+AREA%5BLocationStatus%5D{status}%29+AND+AREA%5BStudyType%5D{study_type}+{age}fields={fields}&{rank}fmt={fmt}'
+    api_url = f'{base_url}expr={expr}SEARCH%5BLocation%5D%28AREA%5BLocationCountry%5D{country}+AND+AREA%5BLocationStatus%5D{status}%29+AND+AREA%5BStudyType%5D{study_type}+{age}fields={fields}&min_rnk=1&max_rnk={max_rnk}&fmt={fmt}'
 
     return api_url
