@@ -76,11 +76,10 @@ def explode_zipcode():
     print('\nCombining all trials into one file.\n\nProcess completed.')
     
 def map_zipcode():
-    pass
-#     df_ct = pd.read_csv('Interventional_clinical_trials.csv', dtype='object')
-#     df_zipcodes = pd.read_csv('zipcodes.csv', dtype='object')
-#     df = pd.merge(df_ct, df_zipcodes, how='left', on='LocationZip')
-#     df.to_csv('clinical_trials_db.csv', index=False)
+    df_ct = pd.read_csv('Interventional_clinical_trials.csv', dtype='object')
+    df_zipcodes = pd.read_csv('zipcodes.csv', dtype='object')
+    df = pd.merge(df_ct, df_zipcodes, how='left', on='LocationZip')
+    df.to_csv('clinical_trials_db.csv', index=False)
     
 if __name__=='__main__':
     main()
