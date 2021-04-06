@@ -113,7 +113,7 @@ def full_study_by_nct(trial_number: str):
         
 
 def download_trials():
-    url = build_url(expr='Cancer', field_names=['NCTId'], max_rnk=10)
+    url = build_url(expr='Cancer', field_names=['NCTId'])
 
     r = requests.get(url)
     
