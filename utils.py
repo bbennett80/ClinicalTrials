@@ -29,7 +29,7 @@ def build_url(expr: str='Cancer',
     field_names - a list of data elements and their corresponding API fields as described in the crosswalk documentation. (https://clinicaltrials.gov/api/gui/ref/crosswalks)
     min_rnk = defaults to 1. Can be any interger.
     max_rnk - defaults to 1000 records. Can range from 1 - 1000.
-    fmt - defaults to csv. However, json and xml can also be passed.
+    fmt - defaults to json. However, csv and xml can also be passed.
     
     """
     
