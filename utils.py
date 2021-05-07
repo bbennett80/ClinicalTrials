@@ -1,4 +1,4 @@
-def build_url(expr: str='Cancer',
+ def build_url(expr: str='Cancer',
               country: str='United States',
               status: str='Recruiting',
               study_type: str='Interventional',
@@ -9,10 +9,10 @@ def build_url(expr: str='Cancer',
                                  'LocationFacility','LocationCity','LocationState',
                                  'LocationZip','LeadSponsorName'],
               min_rnk: int=1,
-              max_rnk: int=1000,
-              fmt: str='json'
+              max_rnk: int=999,
+              fmt: str='csv'
              ) -> str:
-    
+
     """returns api url for the study fields api on clinicaltrials.gov (https://clinicaltrials.gov/api/gui/demo/simple_study_fields).
     expr -  defaults to Cancer trials. However, any expression one might consider for clinicaltrials.gov.
     country -  defaults to The United States. However, any country can be entered.
@@ -31,32 +31,31 @@ def build_url(expr: str='Cancer',
     max_rnk - defaults to 1000 records. Can range from 1 - 1000.
     fmt - defaults to json. However, csv and xml can also be passed.
     
-    """
-    
+    """ 
     base_url = 'https://clinicaltrials.gov/api/query/study_fields?'
     
     if not expr:
-        expr = ''
+        expr = f'expr='
     else:
-        expr = f"{expr.replace(' ', '+')}+AND+"
+        expr = f"expr={expr.replace(' ', '+')}+AND+"
         
     if not status:
         status = ''
     else:
-        status = f"{status.replace(' ', '+')}"
+        status = f"+AND+AREA%5BLocationStatus%5D{status.replace(' ', '+')}"
     
     if study_type == 'Observational' or study_type == 'Interventional':
-        study_type = study_type
+        study_type = f"%29+AND+AREA%5BStudyType%5D{study_type}+"
     else:
         print("""        This paramater only accepts Observational or Interventional.
         The url will not build if other parameters are entered.
         """)
     
-    country = country.replace(' ', '+')
+    country = f"SEARCH%5BLocation%5D%28AREA%5BLocationCountry%5D{country.replace(' ', '+')}"
 
     age = 'AND+AREA%5BMinimumAge%5D18+Years&'
     fields =  "%2C+".join(field_names)
     
-    api_url = f'{base_url}expr={expr}SEARCH%5BLocation%5D%28AREA%5BLocationCountry%5D{country}+AND+AREA%5BLocationStatus%5D{status}%29+AND+AREA%5BStudyType%5D{study_type}+{age}fields={fields}&min_rnk={min_rnk}&max_rnk={max_rnk}&fmt={fmt}'
+    api_url = f'{base_url}{expr}{country}{status}{study_type}{age}fields={fields}&min_rnk={min_rnk}&max_rnk={max_rnk}&fmt={fmt}'
 
     return api_url
