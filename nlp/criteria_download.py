@@ -11,6 +11,7 @@ def main():
     download_trials()
     write_txt()
 
+
 def folder_setup():
     """Makes directory 'Full_Studies' to which trial files are downloaded."""
     current_directory = Path.cwd()
@@ -34,7 +35,7 @@ def folder_setup():
         pass
     else:
         Path.unlink(criteria_file)
-
+    return
 
 def build_url(expr: str='Cancer',
               country: str='United States',
@@ -95,7 +96,7 @@ def build_url(expr: str='Cancer',
     age = 'AND+AREA%5BMinimumAge%5D18+Years&'
     fields =  "%2C+".join(field_names)
     
-    api_url = f'{base_url}expr={expr}SEARCH%5BLocation%5D%28AREA%5BLocationCountry%5D{country}+AND+AREA%5BLocationStatus%5D{status}%29+AND+AREA%5BStudyType%5D{study_type}+{age}fields={fields}&min_rnk={min_rnk}&max_rnk={max_rnk}&fmt={fmt}'
+    api_url = f'{base_url}expr={expr}AREA%5BLocationCountry%5D{country}+AND+AREA%5BLocationStatus%5D{status}+AND+AREA%5BStudyType%5D{study_type}+{age}fields={fields}&min_rnk={min_rnk}&max_rnk={max_rnk}&fmt={fmt}'
 
     return api_url
 
@@ -104,7 +105,6 @@ def generate_urls():
     """Gathers clinical trials from clinicaltrials.gov for search term
        defined in build_url() function and downloads to specified file format.
     """
-    urls = []
     
     api_call = build_url(expr='Cancer', max_rnk=1, fmt='json')
     r = requests.get(api_call)
@@ -113,16 +113,15 @@ def generate_urls():
     print(f'{n_studies} studies found.\n')
     print('\nGenerating request urls...')
 
-    for i in range(1, n_studies, 1000):
+    urls = []
 
+    for i in range(1, n_studies, 1000):
         url = build_url(expr='Cancer', field_names=['EligibilityCriteria'],
                         min_rnk=f'{i}', max_rnk=f'{i+999}',
                         fmt='csv')
-        
         urls.append(url)
     
     return urls
-
 
 
 def download_trials():
@@ -136,6 +135,7 @@ def download_trials():
         df.to_csv(f'{studies_directory}/trial_set_{i}.csv', index=False)
 
     print('\n-----Downloads complete-----\n')
+    
 
 def write_txt():
     all_files = glob(f'{studies_directory}/*.csv')
@@ -156,6 +156,7 @@ def write_txt():
                 f.write(item)  
 
     print('\n-----Process complete-----')
+
             
 if __name__=='__main__':
     main()
