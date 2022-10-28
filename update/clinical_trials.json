@@ -2156,58 +2156,58 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://www.thewisdomstudy.org/\">Women Informed to Screen Depending on Measures of Risk (Wisdom Study)*</a>",
+        "Title": "<a target=\"_blank\" href=\"https://www.thewisdomstudy.org/\">Women Informed to Screen Depending on Measures of Risk (Wisdom Study)</a>",
         "Disease Type": "Breast Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://mbcproject.org/\">Metastatic Breast Cancer Project*</a>",
+        "Title": "<a target=\"_blank\" href=\"https://mbcproject.org/\">Metastatic Breast Cancer Project</a>",
         "Disease Type": "Metastatic Breast Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://mpcproject.org/\">Metastatic Prostate Cancer Project*</a>",
+        "Title": "<a target=\"_blank\" href=\"https://mpcproject.org/\">Metastatic Prostate Cancer Project</a>",
         "Disease Type": "Metastatic Prostate Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://escproject.org/\">Esophageal and Stomach Cancer Project*</a>",
+        "Title": "<a target=\"_blank\" href=\"https://escproject.org/\">Esophageal and Stomach Cancer Project</a>",
         "Disease Type": "Esophageal and Stomach Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://braintumorproject.org/\">Brain Tumor Project*</a>",
+        "Title": "<a target=\"_blank\" href=\"https://braintumorproject.org/\">Brain Tumor Project</a>",
         "Disease Type": "Primary Brain Tumor",
-        "Protocol Status": "Active",
+        "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://ascproject.org/\">Angiosarcoma Project*</a>",
+        "Title": "<a target=\"_blank\" href=\"https://ascproject.org/\">Angiosarcoma Project</a>",
         "Disease Type": "Angiosarcoma",
-        "Protocol Status": "Active",
+        "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://inheritedcancer.net/\">Inherited Cancer Registry - Hereditary Cancers Inherited Cancer - Genetics*</a>",
+        "Title": "<a target=\"_blank\" href=\"https://inheritedcancer.net/\">Inherited Cancer Registry - Hereditary Cancers Inherited Cancer - Genetics</a>",
         "Disease Type": "Inherited Cancer - Genetics",
-        "Protocol Status": "Active",
+        "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04214262\">A Randomized Phase III Trial of Induction/Consolidation Atezolizumab (NSC #783608) + SBRT Versus SBRT Alone in High Risk, Early Stage NSCLC*</a>",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04214262\">A Randomized Phase III Trial of Induction/Consolidation Atezolizumab (NSC #783608) + SBRT Versus SBRT Alone in High Risk, Early Stage NSCLC</a>",
         "Disease Type": "Non-small Cell Lung Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Active*",
         "Phase": "III",
         "Trial Type": "INTERVENTIONAL"
     }
