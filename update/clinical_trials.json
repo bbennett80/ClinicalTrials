@@ -21,13 +21,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04514484\">Pilot Trial of Nivolumab Plus Cabozantinib for Advanced Solid Tumors in Patients with HIV Infection</a>",
-        "Disease Type": "AIDS-related Malignancy and Condition;Solid Tumor",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04535401\">Phase I/Ib Trial of ATR Inhibitor BAY 1895344 in Combination with FOLFIRI in GI Malignancies with a Focus on Metastatic Colorectal and Gastric/Gastroesophageal Cancers</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -308,13 +301,6 @@
         "Trial Type": "SCREENING, INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03816332\">Immune Checkpoint Blockade for Kidney Transplant Recipients with Selected Unresectable or Metastatic Cancers</a>",
-        "Disease Type": "Gastrointestinal Cancer;Skin Cancer;Solid Tumor",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Phase II Multi-Institutional Trial to Evaluate Prostate Specific Membrane Antigen (PSMA)-Based PET Imaging of High Risk Prostate Cancer</a>",
         "Disease Type": "Male Reproductive System Cancer",
         "Protocol Status": "Active",
@@ -331,6 +317,13 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04301076\">A Phase 1 Study of Lenalidomide in Combination with EPOCH Chemotherapy for HTLV-Associated Adult T-Cell Leukemia-Lymphoma (ATLL)</a>",
         "Disease Type": "Leukemia;Lymphoma",
+        "Protocol Status": "Active",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04514484\">Pilot Trial of Nivolumab Plus Cabozantinib for Advanced Solid Tumors in Patients with HIV Infection</a>",
+        "Disease Type": "AIDS-related Malignancy and Condition;Solid Tumor",
         "Protocol Status": "Active",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
@@ -597,6 +590,13 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04595747\">Phase 2 Study of Rogaratinib (BAY 1163877) in the Treatment of Patients with Sarcoma Harboring Alterations in Fibroblast Growth Factor Receptor (FGFR) 1-4 and SDH-Deficient Gastrointestinal Stromal Tumor (GIST)</a>",
         "Disease Type": "Soft Tissue Cancer/Sarcoma",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04802161\">Randomized Phase 2 Study of Daunorubicin and Cytarabine Liposome + Pomalidomide Versus Daunorubicin and Cytarabine Liposome in Newly Diagnosed AML with MDS-Related Changes</a>",
+        "Disease Type": "Leukemia",
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
@@ -1145,13 +1145,6 @@
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
         "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04802161\">Randomized Phase 2 Study of CPX-351 + Pomalidomide Versus CPX-351 in Newly Diagnosed AML with MDS-Related Changes</a>",
-        "Disease Type": "Leukemia",
-        "Protocol Status": "Active",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1932,13 +1925,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02375204\">A Randomized Phase III Trial Comparing Conventional-Dose Chemotherapy Using Paclitaxel, Ifosfamide, and Cisplatin (TIP) with High-Dose Chemotherapy Using Mobilizing Paclitaxel Plus Ifosfamide Followed by High-Dose Carboplatin and Etoposide (TI-CE) as First Salvage Treatment in Relapsed or Refractory Germ Cell Tumors</a>",
-        "Disease Type": "CNS Cancer (Primary tumor);Germ Cell Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04164082\">Phase II Trial of Intravesical Gemcitabine and MK-3475 (Pembrolizumab) in the Treatment of Patients with BCG-Unresponsive Non-Muscle Invasive Bladder Cancer</a>",
         "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -2170,59 +2156,59 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://www.thewisdomstudy.org/\">Women Informed to Screen Depending on Measures of Risk (Wisdom Study)</a>",
+        "Title": "<a target=\"_blank\" href=\"https://www.thewisdomstudy.org/\">Women Informed to Screen Depending on Measures of Risk (Wisdom Study)*</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://mbcproject.org/\">Metastatic Breast Cancer Project</a>",
+        "Title": "<a target=\"_blank\" href=\"https://mbcproject.org/\">Metastatic Breast Cancer Project*</a>",
         "Disease Type": "Metastatic Breast Cancer",
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://mpcproject.org/\">Metastatic Prostate Cancer Project</a>",
+        "Title": "<a target=\"_blank\" href=\"https://mpcproject.org/\">Metastatic Prostate Cancer Project*</a>",
         "Disease Type": "Metastatic Prostate Cancer",
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://escproject.org/\">Esophageal and Stomach Cancer Project</a>",
+        "Title": "<a target=\"_blank\" href=\"https://escproject.org/\">Esophageal and Stomach Cancer Project*</a>",
         "Disease Type": "Esophageal and Stomach Cancer",
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://braintumorproject.org/\">Brain Tumor Project</a>",
+        "Title": "<a target=\"_blank\" href=\"https://braintumorproject.org/\">Brain Tumor Project*</a>",
         "Disease Type": "Primary Brain Tumor",
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://ascproject.org/\">Angiosarcoma Project</a>",
+        "Title": "<a target=\"_blank\" href=\"https://ascproject.org/\">Angiosarcoma Project*</a>",
         "Disease Type": "Angiosarcoma",
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://inheritedcancer.net/\">Inherited Cancer Registry - Hereditary Cancers Inherited Cancer - Genetics</a>",
+        "Title": "<a target=\"_blank\" href=\"https://inheritedcancer.net/\">Inherited Cancer Registry - Hereditary Cancers Inherited Cancer - Genetics*</a>",
         "Disease Type": "Inherited Cancer - Genetics",
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04761783\">BESPOKE Study of ctDNA Guided Immunotherapy (BESPOKE IO)</a>",
-        "Disease Type": "Colorectal Cancer, Melanoma, Non-small Cell Lung Cancer",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04214262\">A Randomized Phase III Trial of Induction/Consolidation Atezolizumab (NSC #783608) + SBRT Versus SBRT Alone in High Risk, Early Stage NSCLC*</a>",
+        "Disease Type": "Non-small Cell Lung Cancer",
         "Protocol Status": "Active",
-        "Phase": "Other",
-        "Trial Type": "OBSERVATIONAL"
+        "Phase": "III",
+        "Trial Type": "INTERVENTIONAL"
     }
 ]
