@@ -2156,6 +2156,139 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=Tumor-Agnostic+Precision+Immunooncology+and+Somatic+Targeting+Rational+for+You+(TAPISTRY)+Phase+II+Platform+Trial&cntry=US\">Tumor-Agnostic Precision Immunooncology and Somatic Targeting Rational for You (TAPISTRY) Phase II Platform Trial</a>",
+        "Disease Type": "NTRK, ROS1, ALK, AKT, PIK3CA, BRAF II/III, RET",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+First-in-human+Study+of+Highly+Selective+FGFR2+Inhibitor,+RLY-4008,+in+Patients+with+Intrahepatic+Cholangiocarcinoma+(ICC)+and+Other+Advanced+Solid+Tumors&cntry=US\">A First-in-human Study of Highly Selective FGFR2 Inhibitor, RLY-4008, in Patients with Intrahepatic Cholangiocarcinoma (ICC) and Other Advanced Solid Tumors</a>",
+        "Disease Type": "FGFR2 alterations",
+        "Protocol Status": "Active",
+        "Phase": "1",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Randomized+Phase+3+Study+of+MRTX849+in+Combination+with+Cetuximab+Versus+Chemotherapy+in+Patients+with+Advanced+Colorectal+Cancer+with+KRAS+G12C+Mutation+with+Disease+Progression+On+or+After+Standard+First-Line+Therapy&cntry=US\">A Randomized Phase 3 Study of MRTX849 in Combination with Cetuximab Versus Chemotherapy in Patients with Advanced Colorectal Cancer with KRAS G12C Mutation with Disease Progression On or After Standard First-Line Therapy</a>",
+        "Disease Type": "KRAS G12C",
+        "Protocol Status": "Active",
+        "Phase": "3",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1+Open-label+Dose+Escalation+Study+of+CGX1321+Subjects+with+Advanced+Solid+Tumors+with+Expansion+in+Advanced+Gastrointestinal+Tumors+and+Phase+1b+Study+of+CGX1321+in+Combination+with+Pembrolizumab+in+Subjects+with+Advanced+Colorectal+Cancer+or+in+Combination+with+Encorafenib+++Cetuximab+in+Subjects+with+BRAF+V600E+Mutated+Advanced+Colorectal+Cancer&cntry=US\">A Phase 1 Open-label Dose Escalation Study of CGX1321 Subjects with Advanced Solid Tumors with Expansion in Advanced Gastrointestinal Tumors and Phase 1b Study of CGX1321 in Combination with Pembrolizumab in Subjects with Advanced Colorectal Cancer or in Combination with Encorafenib + Cetuximab in Subjects with BRAF V600E Mutated Advanced Colorectal Cancer</a>",
+        "Disease Type": "RSPO2, RSPO3, RNF43, BRAF V600E",
+        "Protocol Status": "Active",
+        "Phase": "1",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/1b+Open-label,+Multicenter+Study+to+Investigate+the+Safety,+Tolerability,+Pharmacokinetics,+and+Antitumor+Activity+of+KIN-2787+in+Participants+with+BRAF+and/or+NRAS+Mutation-positive+Solid+Tumors&cntry=US\">A Phase 1/1b Open-label, Multicenter Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Antitumor Activity of KIN-2787 in Participants with BRAF and/or NRAS Mutation-positive Solid Tumors</a>",
+        "Disease Type": "BRAF Class I, II, and III; Melanoma NRAS",
+        "Protocol Status": "Active",
+        "Phase": "1",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/2+Multicenter+Study+of+the+Safety,+Pharmacokinetics,+and+Preliminary+Efficacy+of+APL-101+in+Subjects+with+Non-Small+Cell+Lung+Cancer+with+c-Met+EXON+14+Skip+Mutations+and+c-Met+Dysregulation+Advanced+Solid+Tumors&cntry=US\">A Phase 1/2 Multicenter Study of the Safety, Pharmacokinetics, and Preliminary Efficacy of APL-101 in Subjects with Non-Small Cell Lung Cancer with c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors</a>",
+        "Disease Type": "c-Met",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1b/2,+Open+Label+Study+of+DAY101+Monotherapy+or+Combination+with+Other+Therapies+for+Patients+with+Recurrent,+Progressive,+or+Refractory+Solid+Tumors+and+MAPK+Pathway+Aberrations&cntry=US\">A Phase 1b/2, Open Label Study of DAY101 Monotherapy or Combination with Other Therapies for Patients with Recurrent, Progressive, or Refractory Solid Tumors and MAPK Pathway Aberrations</a>",
+        "Disease Type": "BRAF Fusions, CRAF/RAF1 Fusions and Amplifications",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Multi-arm,+Phase+II,+Open-Label,+Multicentre+Study+to+Assess+the+Preliminary+Efficacy+of+RXC004+in+Monotherapy+and+in+Combination+with+Nivolumab,+in+Patients+with+Ring+Finger+Protein+43+(RNF43)+or+R-spondin+(RSPO)+Aberrated,+Metastatic,+Microsatellite+Stable,+Colorectal+Cancer+who+have+Progressed+following+Therapy+with+Current+Standard+of+Care&cntry=US\">A Multi-arm, Phase II, Open-Label, Multicentre Study to Assess the Preliminary Efficacy of RXC004 in Monotherapy and in Combination with Nivolumab, in Patients with Ring Finger Protein 43 (RNF43) or R-spondin (RSPO) Aberrated, Metastatic, Microsatellite Stable, Colorectal Cancer who have Progressed following Therapy with Current Standard of Care</a>",
+        "Disease Type": "RNF43 or RSPO2, RSPO3",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+Trial+of+MRTX849+in+Combination+with+Pembrolizumab+in+Patients+with+Advanced+Non-Small+Cell+Lung+Cancer+with+KRAS+G12C+Mutation&cntry=US\">A Phase 2 Trial of MRTX849 in Combination with Pembrolizumab in Patients with Advanced Non-Small Cell Lung Cancer with KRAS G12C Mutation</a>",
+        "Disease Type": "KRAS G12C",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+multi-center+open-label+basket+trial+of+nab-sirolimus+for+adult+and+adolescent+patients+with+malignant+solid+tumors+harboring+pathogenic+inactivating+alterations+in+TSC1+or+TSC2+genes&cntry=US\">A Phase 2 multi-center open-label basket trial of nab-sirolimus for adult and adolescent patients with malignant solid tumors harboring pathogenic inactivating alterations in TSC1 or TSC2 genes</a>",
+        "Disease Type": "TSC1; TSC2",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+I/II+Study+of+MCLA-128,+a+full+length+IgG1+Bispecific+Antibody+Targeting+HER2+and+HER3,+in+Patients+with+Solid+Tumors&cntry=US\">A Phase I/II Study of MCLA-128, a full length IgG1 Bispecific Antibody Targeting HER2 and HER3, in Patients with Solid Tumors</a>",
+        "Disease Type": "NRG1",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+phase+1/2+study+of+IDE196+in+patients+with+solid+tumors+harboring+GNAQ/11+mutations+or+PRKC+fusions&cntry=US\">A phase 1/2 study of IDE196 in patients with solid tumors harboring GNAQ/11 mutations or PRKC fusions</a>",
+        "Disease Type": "GNAQ, GNA11",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/2+Multiple+Expansion+Cohort+Trial+of+MRTX849+in+Patients+with+Advanced+Solid+Tumors+with+KRAS+G12C+Mutation&cntry=US\">A Phase 1/2 Multiple Expansion Cohort Trial of MRTX849 in Patients with Advanced Solid Tumors with KRAS G12C Mutation</a>",
+        "Disease Type": "KRAS G12C, STK 11",
+        "Protocol Status": "Active",
+        "Phase": "1/2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/2a+Study+to+Assess+the+Safety,+Pharmacokinetics,+and+Pharmacodynamics+of+PLX8394+in+Patients+with+Advanced,+Unresectable+Solid+Tumors&cntry=US\">A Phase 1/2a Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of PLX8394 in Patients with Advanced, Unresectable Solid Tumors</a>",
+        "Disease Type": "BRAF",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+Basket+Study+of+Milademetan+in+Advanced/Metastatic+Solid+Tumors&cntry=US\">A Phase 2 Basket Study of Milademetan in Advanced/Metastatic Solid Tumors</a>",
+        "Disease Type": "Wild-type (WT) TP53 and MDM2",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=PBI-200-101+A+Phase+1/2+Study+of+PBI-200+in+Subjects+with+NTRK-Fusion-Positive+Advanced+or+Metastatic+Solid+Tumors&cntry=US\">PBI-200-101 A Phase 1/2 Study of PBI-200 in Subjects with NTRK-Fusion-Positive Advanced or Metastatic Solid Tumors</a>",
+        "Disease Type": "NTRK-fusion-positive or NTRK-amplified, EWSR1-WT1-fusion-positive",
+        "Protocol Status": "Active",
+        "Phase": "1/2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+PHASE+1/2,+OPEN-LABEL,+SAFETY,+TOLERABILITY,+PHARMACOKINETICS,+AND+ANTI-TUMOR+ACTIVITY+STUDY+OF+REPOTRECTINIB+IN+PEDIATRIC+AND+YOUNG+ADULT+SUBJECTS+WITH+ADVANCED+OR+METASTATIC+MALIGNANCIES+HARBORING+ALK,+ROS1,+OR+NTRK1-3+ALTERATIONS&cntry=US\">A PHASE 1/2, OPEN-LABEL, SAFETY, TOLERABILITY, PHARMACOKINETICS, AND ANTI-TUMOR ACTIVITY STUDY OF REPOTRECTINIB IN PEDIATRIC AND YOUNG ADULT SUBJECTS WITH ADVANCED OR METASTATIC MALIGNANCIES HARBORING ALK, ROS1, OR NTRK1-3 ALTERATIONS</a>",
+        "Disease Type": "NTRK/ALK/ROS1 fusions, NTRK/ALK/ROS1 mutations or amplifications",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=Assessment+of+prospective+real-world+outcomes+based+on+single-patient+protocol+data+collection+of+afatinib+(GILOTRIF\u00ae)+use+in+patients+with+solid+tumors+harboring+NRG1+gene+fusions&cntry=US\">Assessment of prospective real-world outcomes based on single-patient protocol data collection of afatinib (GILOTRIF\u00ae) use in patients with solid tumors harboring NRG1 gene fusions</a>",
+        "Disease Type": "NRG1 gene fusions",
+        "Protocol Status": "Active",
+        "Phase": "",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2,+Multi-Center+Study+Evaluating+the+Safety+and+Efficacy+of+ENV-101+(Taladegib)+in+Patients+with+Advanced+Solid+Tumors+Harboring+PTCH1+Loss+of+Function+Mutations&cntry=US\">A Phase 2, Multi-Center Study Evaluating the Safety and Efficacy of ENV-101 (Taladegib) in Patients with Advanced Solid Tumors Harboring PTCH1 Loss of Function Mutations</a>",
+        "Disease Type": "PTCH1",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://www.thewisdomstudy.org/\">Women Informed to Screen Depending on Measures of Risk (Wisdom Study)</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active*",
