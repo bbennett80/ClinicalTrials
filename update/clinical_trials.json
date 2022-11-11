@@ -42,13 +42,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05272384\">A Phase 1 Study of Nivolumab in Combination with ASTX727 in B-cell Lymphoma (NHL or HL) with an Expansion Cohort in Relapsed or Refractory Diffuse Large B-Cell Lymphoma (DLBCL)</a>",
-        "Disease Type": "Lymphoma",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05564416\">An Open Label, Randomized Phase II Study Neoadjuvant Erdafitinib with or Without Atezolizumab in Cisplatin-Ineligible Patients with Muscle Invasive Bladder Cancer (NERA)</a>",
         "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -158,13 +151,6 @@
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">EA5163/S1709 INSIGNA : A Randomized, Phase III Study of Firstline Immunotherapy Alone or in Combination with Chemotherapy in Induction/Maintenance or Postprogression in Advanced Nonsquamous Non-Small Cell Lung Cancer (NSCLC) with Immunobiomarker SIGNature-Driven Analysis</a>",
-        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -301,13 +287,6 @@
         "Trial Type": "SCREENING, INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Phase II Multi-Institutional Trial to Evaluate Prostate Specific Membrane Antigen (PSMA)-Based PET Imaging of High Risk Prostate Cancer</a>",
-        "Disease Type": "Male Reproductive System Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04250545\">A Phase I Trial of MLN0128 (Sapanisertib) and Telaglenastat (CB-839) HCL in Advanced NSCLC Patients</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Temporarily Closed to Accrual",
@@ -336,17 +315,17 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04633239\">A Phase 1/1b Dose Escalation Study of Abemaciclib and Olaparib for Recurrent Platinum-Resistant Ovarian Cancer</a>",
-        "Disease Type": "Female Reproductive System Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05172258\">A Phase 2 Study of Ipatasertib in Combination with Pembrolizumab for First Line Treatment of Recurrent or Metastatic Squamous Cell Cancer of the Head and Neck</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05272384\">A Phase 1 Study of Nivolumab in Combination with ASTX727 in B-cell Lymphoma (NHL or HL) with an Expansion Cohort in Relapsed or Refractory Diffuse Large B-Cell Lymphoma (DLBCL)</a>",
+        "Disease Type": "Lymphoma",
+        "Protocol Status": "Active",
+        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -602,6 +581,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05411094\">A Phase 1 Study of Olaparib in Combination with Durvalumab (MEDI4736) and Concurrent Radiation Therapy Following First-Line Chemotherapy in Locally Advanced Unresectable Pancreatic Cancer</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05198843\">Phase Ib/II Study of EPA-Based EphA2 Targeted Therapy for Patients with Metastatic Triple-Negative Inflammatory Breast Cancer</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
@@ -686,13 +672,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">STAMP: Surgically Treated Adjuvant Merkel cell carcinoma with Pembrolizumab, a Phase III Trial</a>",
-        "Disease Type": "Skin Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04708418\">Phase II Randomized Study of Neoadjuvant Pembrolizumab Alone or in Combination with CMP-001 in Patients with Operable Melanoma: Efficacy and Biomarker Study</a>",
         "Disease Type": "Skin Cancer",
         "Protocol Status": "Active",
@@ -728,7 +707,7 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Phase III Randomized, Placebo-Controlled Study of Pembrolizumab (MK-3475, NSC #776864) in Addition to Paclitaxel and Carboplatin for Measurable Stage III or IVA, Stage IVB or Recurrent Endometrial Cancer</a>",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03914612\">A Phase III Randomized, Placebo-Controlled Study of Pembrolizumab (MK-3475, NSC #776864) in Addition to Paclitaxel and Carboplatin for Measurable Stage III or IVA, Stage IVB or Recurrent Endometrial Cancer</a>",
         "Disease Type": "Female Reproductive System Cancer",
         "Protocol Status": "Active",
         "Phase": "III",
@@ -875,6 +854,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05610163\">The Janus Rectal Cancer Trial: A Randomized Phase II Trial Testing the Efficacy of Triplet Versus Doublet Chemotherapy to Achieve Clinical Complete Response in Patients with Locally Advanced Rectal Cancer</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04936230\">Phase II Randomized Trial of Atezolizumab Versus Atezolizumab and Radiation Therapy for Platinum Ineligible/Refractory Metastatic Urothelial Cancer (ART)</a>",
         "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -928,6 +914,13 @@
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
         "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03712605\">STAMP: Surgically Treated Adjuvant Merkel cell carcinoma with Pembrolizumab, a Phase III Trial</a>",
+        "Disease Type": "Skin Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1463,6 +1456,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03793179\">EA5163/S1709 INSIGNA : A Randomized, Phase III Study of Firstline Immunotherapy Alone or in Combination with Chemotherapy in Induction/Maintenance or Postprogression in Advanced Nonsquamous Non-Small Cell Lung Cancer (NSCLC) with Immunobiomarker SIGNature-Driven Analysis</a>",
+        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Randomized Phase III Trial of MEDI4736 (Durvalumab) as Concurrent and Consolidative Therapy or Consolidative Therapy Alone for Unresectable Stage 3 NSCLC</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
@@ -1642,6 +1642,13 @@
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
         "Phase": "I/II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04633239\">A Phase 1/1b Dose Escalation Study of Abemaciclib and Olaparib for Recurrent Platinum-Resistant Ovarian Cancer</a>",
+        "Disease Type": "Female Reproductive System Cancer",
+        "Protocol Status": "Active",
+        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2342,6 +2349,20 @@
         "Disease Type": "Non-small Cell Lung Cancer",
         "Protocol Status": "Active*",
         "Phase": "III",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://www.joinallofus.org/\">All of Us Research Program</a>",
+        "Disease Type": "Healthy Volunteers",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
+        "Trial Type": "SCREENING"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://www.adventisthealth.org/bakersfield/services/cancer-center/\">Aromatherapy in patients receiving chemotherapy in the outpatient setting</a>",
+        "Disease Type": "All Cancer Types",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
         "Trial Type": "INTERVENTIONAL"
     }
 ]
