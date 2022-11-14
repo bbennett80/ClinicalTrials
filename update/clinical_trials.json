@@ -1288,6 +1288,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Myopenia and Mechanisms of Chemotherapy Toxicity in Older Adults with Colorectal Cancer: The M&M Study</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active",
+        "Phase": "Other",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Phase 2 Study of the PARP Inhibitor Olaparib (AZD2281) in IDH1 and IDH2 Mutant Advanced Solid Tumors</a>",
         "Disease Type": "CNS Cancer (Primary tumor);Gastrointestinal Cancer;Solid Tumor",
         "Protocol Status": "Active",
@@ -2363,6 +2370,13 @@
         "Disease Type": "All Cancer Types",
         "Protocol Status": "Active*",
         "Phase": "Other",
+        "Trial Type": "INTERVENTIONAL"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05174169\">Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease (CIRCULATE-US)</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active*",
+        "Phase": "II/III",
         "Trial Type": "INTERVENTIONAL"
     }
 ]
