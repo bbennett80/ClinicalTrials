@@ -1,9 +1,12 @@
-def query_params(disease: str) -> str:
+def query_params(disease: str, 
+                 country: str="United States", 
+                 trial_status: str="Recruiting", 
+                 study_type: str="Interventional"):
 
     api_endpoint = 'https://clinicaltrials.gov/api/query/study_fields'
 
     query_params = {
-        "expr": f"{disease} SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[StudyType]Interventional AND AREA[MinimumAge]18 Years",
+        "expr": f"{disease} SEARCH[Location](AREA[LocationCountry]{country} AND AREA[LocationStatus]{trial_status}) AND AREA[StudyType]{study_type} AND AREA[MinimumAge]18 Years",
         "fields": "NCTId, OfficialTitle, StartDate, Condition, Gender, MaximumAge, EligibilityCriteria, LocationCountry, LocationFacility, LocationCity, LocationState, LocationZip",
         "min_rnk": 1,
         "max_rnk": 999,
@@ -11,8 +14,10 @@ def query_params(disease: str) -> str:
     }
 
     r = requests.get(api_endpoint, params=query_params, verify=True)
-    data = r.json()
     
-    return data, r.request.url, data['StudyFieldsResponse']['NStudiesFound']
-
-data, url_string, n_studies_found = query_params("breast adenocarcinoma")
+    data = r.json()
+    trials = data['StudyFieldsResponse']['StudyFields'][0]
+    url = r.request.url
+    n_studies_found = data['StudyFieldsResponse']['NStudiesFound']
+    
+    return data, trials, url, n_studies_found
