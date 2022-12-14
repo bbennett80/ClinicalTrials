@@ -154,6 +154,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Phase II Study of AZD9291 (Osimertinib) in Advanced NSCLC Patients with Exon 20 Insertion Mutations in EGFR</a>",
+        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02339571\">Randomized Phase II/III Study of Nivolumab Plus Ipilimumab Plus Sargramostim Versus Nivolumab Plus Ipilimumab in Patients with Unresectable Stage III or Stage IV Melanoma</a>",
         "Disease Type": "Skin Cancer",
         "Protocol Status": "Active",
@@ -462,13 +469,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05136196\">Biomarker Stratified CaboZantinib (NSC#761968) and NivOlumab (NSC#748726) (BiCaZO) - A Phase II Study of Combining Cabozantinib and Nivolumab in Participants with Advanced Solid Tumors (IO Refractory Melanoma or HNSCC) Stratified by Tumor Biomarkers - an immunoMATCH Pilot Study</a>",
-        "Disease Type": "Head and Neck Cancer;Skin Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "SCREENING, INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Internet-delivered Management of Pain Among Cancer Treatment Survivors (IMPACTS)</a>",
         "Disease Type": "Hematopoietic Neoplasm (excluding Leukemia, Lymphoma and Myeloma);Solid Tumor",
         "Protocol Status": "Active",
@@ -700,13 +700,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03914612\">A Phase III Randomized, Placebo-Controlled Study of Pembrolizumab (MK-3475, NSC #776864) in Addition to Paclitaxel and Carboplatin for Measurable Stage III or IVA, Stage IVB or Recurrent Endometrial Cancer</a>",
-        "Disease Type": "Female Reproductive System Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04095364\">A Randomized Phase III, Two-Arm Trial of Paclitaxel/Carboplatin/Maintenance Letrozole Versus Letrozole Monotherapy in Patients with Stage II-IV, Primary Low-Grade Serous Carcinoma of the Ovary or Peritoneum</a>",
         "Disease Type": "Female Reproductive System Cancer",
         "Protocol Status": "Active",
@@ -774,6 +767,13 @@
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
         "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04652960\">A Phase I Study with an Expansion Cohort of Duvelisib and Nivolumab in Mycosis Fungoides (MF) and S\u00e9zary Syndrome (SS)</a>",
+        "Disease Type": "Lymphoma",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1092,13 +1092,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04652960\">A Phase I Study with an Expansion Cohort of Duvelisib and Nivolumab in Mycosis Fungoides (MF) and S\u00e9zary Syndrome (SS)</a>",
-        "Disease Type": "Lymphoma",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04550494\">A Pharmacodynamics-Driven Trial of Talazoparib, an Oral PARP Inhibitor, in Patients with Advanced Solid Tumors and Aberrations in Genes Involved in DNA Damage Response</a>",
         "Disease Type": "Breast Cancer;Female Reproductive System Cancer;Gastrointestinal Cancer;Male Reproductive System Cancer;Solid Tumor",
         "Protocol Status": "Active",
@@ -1162,6 +1155,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05432791\">A Randomized Phase 2/3 Study of Olaparib Plus Temozolomide Versus Investigator's Choice for the Treatment of Patients with Advanced Uterine Leiomyosarcoma After Progression on Prior Chemotherapy</a>",
+        "Disease Type": "Female Reproductive System Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Tomosynthesis Mammographic Imaging Screening Trial (TMIST)</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
@@ -1186,13 +1186,6 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05211323\">A Randomized Phase II Trial Evaluating Chemotherapy vs Chemotherapy Plus Bevacizumab and Atezolizumab in Advanced Combined Hepatocellular Carcinoma-Cholangiocarcinoma</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Phase II Study of AZD9291 (Osimertinib) in Advanced NSCLC Patients with Exon 20 Insertion Mutations in EGFR</a>",
-        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
@@ -1246,6 +1239,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05136196\">Biomarker Stratified CaboZantinib (NSC#761968) and NivOlumab (NSC#748726) (BiCaZO) - A Phase II Study of Combining Cabozantinib and Nivolumab in Participants with Advanced Solid Tumors (IO Refractory Melanoma or HNSCC) Stratified by Tumor Biomarkers - an immunoMATCH Pilot Study</a>",
+        "Disease Type": "Head and Neck Cancer;Skin Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "SCREENING"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Single Arm, Pilot Study of Ramipril for Preventing Radiation- Induced Cognitive Decline in Glioblastoma (GBM) Patients Receiving Brain Radiotherapy</a>",
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
@@ -1277,6 +1277,13 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04704661\">Phase 1/1B Study of DS-8201a in Combination with ATR Inhibition (AZD6738) in Advanced Solid Tumors with HER2 Expression (DASH Trial)</a>",
         "Disease Type": "Gastrointestinal Cancer;Solid Tumor",
         "Protocol Status": "Active",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04190550\">A Phase 1b Study with Expansion Cohort of Escalating Doses of KRT-232 (AMG 232) Administered in Combination with Standard Induction Chemotherapy (Cytarabine and Idarubicin) in Newly Diagnosed Acute Myelogenous Leukemia (AML)</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
@@ -1851,13 +1858,6 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04197713\">Phase I Sequential Trial of Agents Against DNA Repair (STAR)</a>",
         "Disease Type": "Solid Tumor",
         "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04190550\">A Phase 1b Study with Expansion Cohort of Escalating Doses of KRT-232 (AMG 232) Administered in Combination with Standard Induction Chemotherapy (Cytarabine and Idarubicin) in Newly Diagnosed Acute Myelogenous Leukemia (AML)</a>",
-        "Disease Type": "Leukemia",
-        "Protocol Status": "Active",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
