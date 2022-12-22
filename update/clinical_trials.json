@@ -1,5 +1,12 @@
 [
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02879695\">A Phase 1 Study of Blinatumomab in Combination with Checkpoint Inhibitor(s) of PD-1 (Nivolumab) or Both PD-1 (Nivolumab) and CTLA-4 (Ipilimumab) in Patients with Poor-Risk, Relapsed or Refractory CD19+ Precursor B-Lymphoblastic Leukemia</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03030378\">A Phase 1 Study of Pembrolizumab (MK-3475) in Combination with Recombinant Interleukin-12 in Patients with Solid Tumors</a>",
         "Disease Type": "Solid Tumor",
         "Protocol Status": "Active",
@@ -56,13 +63,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02595931\">Phase I Clinical Trial of M6620 (VX-970, Berzosertib) in Combination with the Topoisomerase I Inhibitor Irinotecan in Patients with Advanced Solid Tumors</a>",
-        "Disease Type": "Solid Tumor",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04340141\">A Phase III Trial of Perioperative Versus Adjuvant Chemotherapy for Resectable Pancreatic Cancer</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -72,13 +72,6 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04665739\">Randomized Phase II Trial of Lutetium Lu 177 Dotatate Versus Everolimus in Somatostatin Receptor Positive Bronchial Neuroendocrine Tumors</a>",
         "Disease Type": "Endocrine Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03739814\">A Phase II Study of Inotuzumab Ozogamicin Followed by Blinatumomab for Ph-Negative, CD22-Positive B-Lineage Acute Lymphoblastic Leukemia in Newly Diagnosed Older Adults or Adults with Relapsed or Refractory Disease</a>",
-        "Disease Type": "Leukemia",
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
@@ -289,7 +282,7 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04250545\">A Phase I Trial of MLN0128 (Sapanisertib) and Telaglenastat (CB-839) HCL in Advanced NSCLC Patients</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
+        "Protocol Status": "Active",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
@@ -336,13 +329,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04094688\">Randomized Double-Blind Phase III Trial of Vitamin D3 Supplementation in Patients with Previously Untreated Metastatic Colorectal Cancer (SOLARIS)</a>",
-        "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04394858\">A Prospective, Multi-Institutional Phase II Trial Evaluating Temozolomide vs. Temozolomide and Olaparib for Advanced Pheochromocytoma and Paraganglioma</a>",
         "Disease Type": "Endocrine Cancer",
         "Protocol Status": "Active",
@@ -355,13 +341,6 @@
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "SCREENING, INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04546399\">A Phase 2 Study of Blinatumomab (NSC# 765986) in Combination with Nivolumab (NSC # 748726), a Checkpoint Inhibitor of PD-1, in B-ALL Patients Aged >/= 1 to < 31 Years Old with First Relapse</a>",
-        "Disease Type": "Leukemia",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05235165\">A Phase 3 Randomized Controlled Trial Comparing Open vs Thoracoscopic Management of Pulmonary Metastases in Patients with Osteosarcoma</a>",
@@ -467,6 +446,13 @@
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05136196\">Biomarker Stratified CaboZantinib (NSC#761968) and NivOlumab (NSC#748726) (BiCaZO) - A Phase II Study of Combining Cabozantinib and Nivolumab in Participants with Advanced Solid Tumors (IO Refractory Melanoma or HNSCC) Stratified by Tumor Biomarkers - an immunoMATCH Pilot Study</a>",
+        "Disease Type": "Head and Neck Cancer;Skin Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "SCREENING, INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Internet-delivered Management of Pain Among Cancer Treatment Survivors (IMPACTS)</a>",
@@ -606,13 +592,6 @@
         "Disease Type": "Leukemia",
         "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II/III",
-        "Trial Type": "SCREENING, INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02443077\">A Randomized Double-Blind Phase III Study of Ibrutinib During and Following Autologous Stem Cell Transplantation Versus Placebo in Patients with Relapsed or Refractory Diffuse Large B-Cell Lymphoma of the Activated B-Cell Subtype</a>",
-        "Disease Type": "Lymphoma",
-        "Protocol Status": "Active",
-        "Phase": "III",
         "Trial Type": "SCREENING, INTERVENTION"
     },
     {
@@ -847,6 +826,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03739814\">A Phase II Study of Inotuzumab Ozogamicin Followed by Blinatumomab for Ph-Negative, CD22-Positive B-Lineage Acute Lymphoblastic Leukemia in Newly Diagnosed Older Adults or Adults with Relapsed or Refractory Disease</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05001880\">Phase 2 Randomized Trial of Neoadjuvant or Palliative Chemotherapy with or Without Immunotherapy for Peritoneal Mesothelioma</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
@@ -1043,13 +1029,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02879695\">A Phase 1 Study of Blinatumomab in Combination with Checkpoint Inhibitor(s) of PD-1 (Nivolumab) or Both PD-1 (Nivolumab) and CTLA-4 (Ipilimumab) in Patients with Poor-Risk, Relapsed or Refractory CD19+ Precursor B-Lymphoblastic Leukemia</a>",
-        "Disease Type": "Leukemia",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03816345\">A Phase Ib Study of Nivolumab in Patients with Autoimmune Disorders and Advanced Malignancies (AIM-NIVO)</a>",
         "Disease Type": "Female Reproductive System Cancer;Hematopoietic Neoplasm (excluding Leukemia, Lymphoma and Myeloma);Kidney Cancer;Lung, Mediastinal, and Pleural Cancer;Lymphoma;Skin Cancer;Solid Tumor;Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -1239,13 +1218,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05136196\">Biomarker Stratified CaboZantinib (NSC#761968) and NivOlumab (NSC#748726) (BiCaZO) - A Phase II Study of Combining Cabozantinib and Nivolumab in Participants with Advanced Solid Tumors (IO Refractory Melanoma or HNSCC) Stratified by Tumor Biomarkers - an immunoMATCH Pilot Study</a>",
-        "Disease Type": "Head and Neck Cancer;Skin Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "SCREENING"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Single Arm, Pilot Study of Ramipril for Preventing Radiation- Induced Cognitive Decline in Glioblastoma (GBM) Patients Receiving Brain Radiotherapy</a>",
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
@@ -1365,6 +1337,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04546399\">A Phase 2 Study of Blinatumomab (NSC# 765986) in Combination with Nivolumab (NSC # 748726), a Checkpoint Inhibitor of PD-1, in B-ALL Patients Aged >/= 1 to < 31 Years Old with First Relapse</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04759586\">A Randomized Phase 3 Trial of Nivolumab (NSC# 748726) in Combination with Chemo-Immunotherapy for the Treatment of Newly Diagnosed Primary Mediastinal B-Cell Lymphoma</a>",
         "Disease Type": "Lymphoma",
         "Protocol Status": "Active",
@@ -1418,6 +1397,13 @@
         "Disease Type": "Lymphoma",
         "Protocol Status": "Active",
         "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04115631\">A Randomized 3-Arm Phase II Study Comparing 1.) Bendamustine, Rituximab and High Dose Cytarabine (BR/CR) 2.) Bendamustine, Rituximab, High Dose Cytarabine and Acalabrutinib (BR/CR-A), and 3.) Bendamustine, Rituximab and Acalabrutinib (BR-A) in Patients <= 70 Years Old with Untreated Mantle Cell Lymphoma</a>",
+        "Disease Type": "Lymphoma",
+        "Protocol Status": "Active",
+        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1970,13 +1956,6 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04751370\">A Phase II Study of Neoadjuvant Nivolumab Plus Ipilimumab and Short-Course Radiation in MSI-H/dMMR Locally Advanced Rectal Adenocarcinoma</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04115631\">A Randomized 3-Arm Phase II Study Comparing 1.) Bendamustine, Rituximab and High Dose Cytarabine (BR/CR) 2.) Bendamustine, Rituximab, High Dose Cytarabine and Acalabrutinib (BR/CR-A), and 3.) Bendamustine, Rituximab and Acalabrutinib (BR-A) in Patients <= 70 Years Old with Untreated Mantle Cell Lymphoma</a>",
-        "Disease Type": "Lymphoma",
-        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
