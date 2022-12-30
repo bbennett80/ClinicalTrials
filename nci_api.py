@@ -1,6 +1,4 @@
 import requests
-import json
-from pprint import pprint
 from KEYS import API_KEY
 
 def disease_query(disease_keyword: str):
@@ -39,7 +37,7 @@ def disease_query(disease_keyword: str):
     
     return query_params
 
-def get_trial(nct_number: str):
+def get_trial_information(nct_number: str):
     """Uses GET method to API based on 'NCT#'"""
     
     api_endpoint = f"https://clinicaltrialsapi.cancer.gov/api/v2/trials/{nct_number}"
@@ -50,40 +48,37 @@ def get_trial(nct_number: str):
             verify=True
         )    
     
-    #TODO add error handling
-    if res.ok:
-        return res.json(), res.url
+    if res.status_code != 200:
+        raise ValueError("Failed to retrieve trial information. Check trial number.")
     else:
-        return res.raise_for_status(), res.url
-
-nct_number = "NCT04214262"
-trial, query_url = get_trial(nct_number)
-
-trial['eligibility']
-
-brief_summary = trial["brief_summary"]
-print(brief_summary)
-print("-----")
+        return res.json(), res.url
 
 
-structured_eligibility = trial['eligibility']['structured']
-gender = structured_eligibility['gender']
-min_age = structured_eligibility['min_age_in_years']
-max_age = structured_eligibility['max_age_in_years']
-print(f'\nGender: {gender}\n'
-      f'\nMininum Age: {min_age}\n'
-      f'\nMaximum Age: {max_age}\n')
+def parse_eligibility_criteria(trial_data):
+    """Parse trial data in to inclusion/exclusion criteria"""
+    inclusion_criteria = []
+    exclusion_criteria = []
+    
+    structured_criteria = trial_data['structured']
+    inclusion_criteria.append(int(structured_criteria['min_age_number']))
+    inclusion_criteria.append(int(structured_criteria['max_age_number']))
+    inclusion_criteria.append(structured_criteria['gender'])
+    
+    
+    unstructured_criteria = trial_data['unstructured']
+    
+    for criteria in unstructured_criteria:
+        if criteria['inclusion_indicator']:
+            inclusion_criteria.append(criteria['description'])
+        else:
+            exclusion_criteria.append(criteria['description'])
+
+    return inclusion_criteria, exclusion_criteria
 
 
-inclusion_criteria = []
-exclusion_criteria = []
-
-unstructured_eligibility = trial['eligibility']['unstructured']
-print(unstructured_eligibility)
-
-for item in unstructured_eligibility:
-    if item['inclusion_indicator'] is True:
-        inclusion_criteria.append(item['description'])
-    elif item['inclusion_indicator'] is False:
-        exclusion_criteria.append(item['description'])
-        
+if __name__ == "__main__":
+    nct_number = "NCT04214262"
+    trial, query_url = get_trial_information(nct_number)
+    inclusion_criteria, exclusion_criteria = parse_eligibility_criteria(trial['eligibility'])
+    print(inclusion_criteria)
+    print(exclusion_criteria)
