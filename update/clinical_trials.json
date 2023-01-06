@@ -42,6 +42,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05432804\">A Phase 1 and Randomized Phase 2 Trial of Selinexor and Temozolomide in Recurrent Glioblastoma</a>",
+        "Disease Type": "CNS Cancer (Primary tumor)",
+        "Protocol Status": "Active",
+        "Phase": "I/II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05019716\">A Phase 1/2 Study of the Bromodomain Inhibitor ZEN003694 in Combination with Etoposide/Platinum in Patients with NUT Carcinoma</a>",
         "Disease Type": "Miscellaneous and Metastatic Cancer",
         "Protocol Status": "Active",
@@ -140,6 +147,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03604991\">A Phase II/III Study of Peri-Operative Nivolumab and Ipilimumab in Patients with Locoregional Esophageal and Gastroesophageal Junction Adenocarcinoma</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04858334\">APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients with Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -222,6 +236,13 @@
         "Protocol Status": "Active",
         "Phase": "III",
         "Trial Type": "SCREENING, INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04315324\">A Phase I/II Study of AKR1C3-Activated Prodrug OBI-3424 (OBI-3424) In Patients with Relapsed/Refractory T-Cell Acute Lymphoblastic Leukemia (T-ALL)/T-Cell Lymphoblastic Lymphoma (T-LBL)</a>",
+        "Disease Type": "Leukemia;Lymphoma",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I/II",
+        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04310020\">A Pilot Study of Hypofractionated Radiotherapy Followed by Atezolizumab Consolidation in Stage II or III NSCLC Patients with Borderline Performance Status</a>",
@@ -388,6 +409,13 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04484818\">A Phase III Double Blinded Study of Early Intervention After RADICAl ProstaTEctomy with Androgen Deprivation Therapy with Darolutamide vs. Placebo in Men at Highest Risk of Prostate Cancer Metastasis by Genomic Stratification (ERADICATE)</a>",
         "Disease Type": "Male Reproductive System Cancer",
         "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "SCREENING, INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04530565\">A Phase III Randomized Trial of Steroids + Tyrosine Kinase Inhibitor (TKI) Induction with Chemotherapy or Blinatumomab for Newly Diagnosed BCR-ABL-Positive Acute Lymphoblastic Leukemia (ALL) in Adults</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "III",
         "Trial Type": "SCREENING, INTERVENTION"
     },
@@ -791,13 +819,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05432804\">A Phase 1/2 Trial of Selinexor and Temozolomide in Recurrent Glioblastoma</a>",
-        "Disease Type": "CNS Cancer (Primary tumor)",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02474160\">Patient-Derived Models Tissue Procurement Protocol for the National Cancer Institute (NCI)</a>",
         "Disease Type": "Hematopoietic Neoplasm (excluding Leukemia, Lymphoma and Myeloma);Solid Tumor",
         "Protocol Status": "Active",
@@ -900,13 +921,6 @@
         "Disease Type": "Myeloma",
         "Protocol Status": "Active",
         "Phase": "III",
-        "Trial Type": "SCREENING, INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02465060\">Molecular Analysis for Therapy Choice (MATCH)</a>",
-        "Disease Type": "Lymphoma;Myeloma;Solid Tumor",
-        "Protocol Status": "Active",
-        "Phase": "II",
         "Trial Type": "SCREENING, INTERVENTION"
     },
     {
@@ -1442,13 +1456,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03808818\">Implementing a Virtual Tobacco Treatment in Community Oncology Practices: \"Smoke Free Support Study 2.0\"</a>",
-        "Disease Type": "Miscellaneous and Metastatic Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT00887146\">N0577 (CODEL): Phase III Intergroup Study of Radiotherapy with Concomitant and Adjuvant Temozolomide versus Radiotherapy with Adjuvant PCV Chemotherapy in Patients with 1p/19q Co-deleted Anaplastic Glioma or Low Grade Glioma</a>",
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
@@ -1537,13 +1544,6 @@
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04315324\">A Phase I/II Study of AKR1C3-Activated Prodrug OBI-3424 (OBI-3424) In Patients with Relapsed/Refractory T-Cell Acute Lymphoblastic Leukemia (T-ALL)/T-Cell Lymphoblastic Lymphoma (T-LBL)</a>",
-        "Disease Type": "Leukemia;Lymphoma",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1678,13 +1678,6 @@
         "Protocol Status": "Active",
         "Phase": "III",
         "Trial Type": "SCREENING, INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03604991\">A Phase II/III Study of Peri-Operative Nivolumab and Ipilimumab in Patients with Locoregional Esophageal and Gastroesophageal Junction Adenocarcinoma</a>",
-        "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II/III",
-        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Comparing the Clinical Impact of Pancreatic Cyst Surveillance Programs</a>",
@@ -1911,13 +1904,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04339738\">A Multicenter Phase II Trial of Paclitaxel with and Without Nivolumab in Taxane Na\u00efve, and Nivolumab and Cabozantinib in Taxane Pretreated Subjects with Angiosarcoma</a>",
-        "Disease Type": "Soft Tissue Cancer/Sarcoma",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Duloxetine to Prevent Oxaliplatin-Induced Chemotherapy-Induced Peripheral Neuropathy: A Randomized, Double-Blind, Placebo-Controlled Phase II to Phase III Study</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -1930,13 +1916,6 @@
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05099003\">A Phase 1/2 Trial of Selinexor (KPT-330) and Radiation Therapy in Newly-Diagnosed Pediatric Diffuse Intrinsic Pontine Glioma (DIPG) and High-Grade Glioma (HGG)</a>",
-        "Disease Type": "CNS Cancer (Primary tumor)",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
-        "Trial Type": "SCREENING, INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03067181\">A Phase 3 Study of Active Surveillance for Low Risk and a Randomized Trial of Carboplatin vs. Cisplatin for Standard Risk Pediatric and Adult Patients with Germ Cell Tumors</a>",
@@ -1979,13 +1958,6 @@
         "Protocol Status": "Active",
         "Phase": "III",
         "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04530565\">A Phase III Randomized Trial of Steroids + Tyrosine Kinase Inhibitor (TKI) Induction with Chemotherapy or Blinatumomab for Newly Diagnosed BCR-ABL-Positive Acute Lymphoblastic Leukemia (ALL) in Adults</a>",
-        "Disease Type": "Leukemia",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "SCREENING, INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05289687\">A Phase II Study of Daratumumab-Hyaluronidase for Chemotherapy-Relapsed/Refractory Minimal Residual Disease (MRD) in T Cell Acute Lymphoblastic Leukemia (T-ALL)</a>",
