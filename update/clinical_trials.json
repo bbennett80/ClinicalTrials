@@ -182,6 +182,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04628767\">A Phase II/III Trial of Durvalumab and Chemotherapy for Patients with High Grade Upper Tract Urothelial Cancer Prior to Nephroureterectomy</a>",
+        "Disease Type": "Urothelial/ Bladder Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05538663\">A Randomized Phase III Trial of Intravesical BCG VeRsus Intravesical Docetaxel and GEmcitabine Treatment in BCG Na\u00efve High Grade Non-Muscle Invasive Bladder Cancer (BRIDGE)</a>",
         "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -357,6 +364,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05673148\">A Pragmatic Randomized Phase III Trial Evaluating Total Ablative Therapy for Patients with Limited Metastatic Colorectal Cancer: Evaluating Radiation, Ablation, and Surgery (ERASur)</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04145115\">A Phase II Study of Checkpoint Blockade Immunotherapy in Patients with Somatically Hypermutated Recurrent WHO Grade 4 Glioma</a>",
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
@@ -432,6 +446,13 @@
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "SCREENING, INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04729959\">A Safety Run-In and Phase II Study Evaluating the Efficacy, Safety, and Impact on the Tumor Microenvironment of the Combination of Tocilizumab, Atezolizumab, and Fractionated Stereotactic Radiotherapy in Recurrent Glioblastoma</a>",
+        "Disease Type": "CNS Cancer (Primary tumor)",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05050084\">Parallel Phase III Randomized Trials of Genomic-Risk Stratified Unfavorable Intermediate Risk Prostate Cancer: De-Intensification And Intensification Clinical Trial Evaluation (GUIDANCE)</a>",
@@ -826,13 +847,6 @@
         "Trial Type": "OTHER"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02912559\">Randomized Trial of Standard Chemotherapy Alone or Combined with Atezolizumab as Adjuvant Therapy for Patients with Stage III Colon Cancer and Deficient DNA Mismatch Repair</a>",
-        "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05610163\">The Janus Rectal Cancer Trial: A Randomized Phase II Trial Testing the Efficacy of Triplet Versus Doublet Chemotherapy to Achieve Clinical Complete Response in Patients with Locally Advanced Rectal Cancer</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -1127,6 +1141,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05677490\">Randomized Phase III Trial of mFOLFIRINOX +/- Nivolumab vs. FOLFOX +/- Nivolumab for First-Line Treatment of Metastatic HER2-Negative Gastroesophageal Adenocarcinoma</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03224767\">Phase II Trial of BRAF/MEK Inhibitors in Papillary Craniopharyngiomas</a>",
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
@@ -1279,13 +1300,6 @@
         "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "I/II",
         "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04234568\">A Phase I Trial of Triapine and Lutetium Lu 177 Dotatate in Combination for Well-Differentiated Somatostatin Receptor-Positive Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)</a>",
-        "Disease Type": "Endocrine Cancer",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "SCREENING, INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04840589\">Phase I/Ib Trial Evaluating the Safety and Efficacy of BET Inhibitor, ZEN003694 with PD-1 Inhibitor, Nivolumab with or Without CTLA-4 Inhibitor, Ipilimumab in Solid Tumors</a>",
@@ -1449,25 +1463,11 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04628767\">A Phase II/III Trial of MED14736 (Durvalumab) and Chemotherapy for Patients with High Grade Upper Tract Urothelial Cancer Prior to Nephroureterectomy</a>",
-        "Disease Type": "Urothelial/ Bladder Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II/III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT00887146\">N0577 (CODEL): Phase III Intergroup Study of Radiotherapy with Concomitant and Adjuvant Temozolomide versus Radiotherapy with Adjuvant PCV Chemotherapy in Patients with 1p/19q Co-deleted Anaplastic Glioma or Low Grade Glioma</a>",
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
         "Phase": "III",
         "Trial Type": "SCREENING, INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04729959\">A Safety Run-In and Phase II Study Evaluating the Efficacy, Safety, and Impact on the Tumor Microenvironment of the Combination of Tocilizumab, Atezolizumab, and Fractionated Stereotactic Radiotherapy in Recurrent Glioblastoma</a>",
-        "Disease Type": "CNS Cancer (Primary tumor)",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05053152\">A Phase II Double-Blinded, Placebo-Controlled Trial of PROstate OligoMETastatic RadiotHErapy with or Without ANdrogen Deprivation Therapy in Oligometastatic Prostate Cancer (NRG Promethean)</a>",
@@ -1733,6 +1733,13 @@
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
         "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05538897\">A Phase IB and Randomized Phase II Trial of Megestrol Acetate with or Without Ipatasertib in Recurrent or Metastatic Endometrioid Endometrial Cancer</a>",
+        "Disease Type": "Female Reproductive System Cancer",
+        "Protocol Status": "Active",
+        "Phase": "I/II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2205,13 +2212,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+PHASE+1/2,+OPEN-LABEL,+SAFETY,+TOLERABILITY,+PHARMACOKINETICS,+AND+ANTI-TUMOR+ACTIVITY+STUDY+OF+REPOTRECTINIB+IN+PEDIATRIC+AND+YOUNG+ADULT+SUBJECTS+WITH+ADVANCED+OR+METASTATIC+MALIGNANCIES+HARBORING+ALK,+ROS1,+OR+NTRK1-3+ALTERATIONS&cntry=US\">A PHASE 1/2, OPEN-LABEL, SAFETY, TOLERABILITY, PHARMACOKINETICS, AND ANTI-TUMOR ACTIVITY STUDY OF REPOTRECTINIB IN PEDIATRIC AND YOUNG ADULT SUBJECTS WITH ADVANCED OR METASTATIC MALIGNANCIES HARBORING ALK, ROS1, OR NTRK1-3 ALTERATIONS</a>",
-        "Disease Type": "NTRK/ALK/ROS1 fusions, NTRK/ALK/ROS1 mutations or amplifications",
-        "Protocol Status": "Active",
-        "Phase": "2",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+Master+Protocol+to+assess+the+efficacy+and+safety+of+FORE8394,+an+inhibitor+of+BRAF+class+1+and+class+2+alterations,+in+participants+with+cancer+harboring+BRAF+alterations&cntry=US\">A Phase 2 Master Protocol to assess the efficacy and safety of FORE8394, an inhibitor of BRAF class 1 and class 2 alterations, in participants with cancer harboring BRAF alterations</a>",
         "Disease Type": "BRAF",
         "Protocol Status": "Active",
@@ -2298,6 +2298,20 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05174169\">Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease (CIRCULATE-US)</a>",
         "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active*",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05050084\">Parallel Phase III Randomized Trials of Genomic-Risk Stratified Unfavorable Intermediate Risk Prostate Cancer: De-Intensification and Intensification Clinical Trial Evaluation (GUIDANCE)</a>",
+        "Disease Type": "Prostate Cancer",
+        "Protocol Status": "Active*",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03952585\">De-intensified Radiation Therapy With Chemotherapy (Cisplatin) or Immunotherapy (Nivolumab) in Treating Patients With Early-Stage, HPV-Positive, Non-Smoking Associated Oropharyngeal Cancer</a>",
+        "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active*",
         "Phase": "II/III",
         "Trial Type": "INTERVENTION"
