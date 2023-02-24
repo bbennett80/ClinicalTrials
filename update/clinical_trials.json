@@ -1,12 +1,5 @@
 [
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02879695\">A Phase 1 Study of Blinatumomab in Combination with Checkpoint Inhibitor(s) of PD-1 (Nivolumab) or Both PD-1 (Nivolumab) and CTLA-4 (Ipilimumab) in Patients with Poor-Risk, Relapsed or Refractory CD19+ Precursor B-Lymphoblastic Leukemia</a>",
-        "Disease Type": "Leukemia",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03030378\">A Phase 1 Study of Pembrolizumab (MK-3475) in Combination with Recombinant Interleukin-12 in Patients with Solid Tumors</a>",
         "Disease Type": "Solid Tumor",
         "Protocol Status": "Active",
@@ -448,13 +441,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04484818\">A Phase III Double Blinded Study of Early Intervention After RADICAl ProstaTEctomy with Androgen Deprivation Therapy with Darolutamide vs. Placebo in Men at Highest Risk of Prostate Cancer Metastasis by Genomic Stratification (ERADICATE)</a>",
-        "Disease Type": "Male Reproductive System Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "SCREENING, INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04530565\">A Phase III Randomized Trial of Steroids + Tyrosine Kinase Inhibitor (TKI) Induction with Chemotherapy or Blinatumomab for Newly Diagnosed BCR-ABL-Positive Acute Lymphoblastic Leukemia (ALL) in Adults</a>",
         "Disease Type": "Leukemia",
         "Protocol Status": "Temporarily Closed to Accrual",
@@ -515,6 +501,13 @@
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Randomized Phase III Trial Comparing Active Symptom Monitoring Plus Patient Education Versus Patient Education Alone To Improve Persistence With Endocrine Therapy In Young Women With Stage I-III Breast Cancer (ASPEN)</a>",
+        "Disease Type": "Breast Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -742,13 +735,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03896503\">Randomized Phase II Trial of Topotecan Plus M6620 (VX-970, Berzosertib) Vs. Topotecan Alone in Patients with Relapsed Small-Cell Lung Cancer</a>",
-        "Disease Type": "Endocrine Cancer;Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04284787\">BLockade of PD-1 Added to Standard Therapy to Target Measurable Residual Disease in Acute Myeloid Leukemia 2 (BLAST MRD AML-2): A Randomized Phase 2 Study of the Venetoclax, Azacitadine, and Pembrolizumab (VAP) Versus Venetoclax and Azacitadine as First Line Therapy in Older Patients with Acute Myeloid Leukemia (AML) Who Are Ineligible or Who Refuse Intensive Chemotherapy</a>",
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
@@ -821,7 +807,7 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04936230\">Phase II Randomized Trial of Atezolizumab Versus Atezolizumab and Radiation Therapy for Platinum Ineligible/Refractory Metastatic Urothelial Cancer (ART)</a>",
         "Disease Type": "Urothelial/ Bladder Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
@@ -2072,6 +2058,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=Brightline+2-+A+Phase+II/III,+open-label,+single-arm,+multi-centre+trial+of+BI+907828+for+treatment+of+patients+with+locally+advanced/metastatic,+MDM2+amplified,+TP53+wild-type+solid+tumours-biliary+tract+adenocarcinoma,+pancreatic+ductal+adenocarcinoma,+or+other+selected+solid+tumors&cntry=US\">Brightline 2- A Phase II/III, open-label, single-arm, multi-centre trial of BI 907828 for treatment of patients with locally advanced/metastatic, MDM2 amplified, TP53 wild-type solid tumours-biliary tract adenocarcinoma, pancreatic ductal adenocarcinoma, or other selected solid tumors</a>",
+        "Disease Type": "MDM2 amplification",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+I/II+Study+of+the+SV-BR-1-GM+Regimen+in+Metastatic+or+Locally+Recurrent+Breast+Cancer+Patients+in+Combination+with+Retifanlimab&cntry=US\">A Phase I/II Study of the SV-BR-1-GM Regimen in Metastatic or Locally Recurrent Breast Cancer Patients in Combination with Retifanlimab</a>",
         "Disease Type": "HER2+, HER2-, ER+, PR+, ER-, PR-, TNBC",
         "Protocol Status": "Active",
@@ -2093,24 +2086,17 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=Brightline-1:+A+Phase+II/III,+randomized,+open-label,+multi-centre+study+of+BI+907828+compared+to+doxorubicin+as+first+line+treatment+of+patients+with+advanced+dedifferentiated+liposarcoma&cntry=US\">Brightline-1: A Phase II/III, randomized, open-label, multi-centre study of BI 907828 compared to doxorubicin as first line treatment of patients with advanced dedifferentiated liposarcoma</a>",
+        "Disease Type": "MDM2 amplifications",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1+Open-label+Dose+Escalation+Study+of+CGX1321+Subjects+with+Advanced+Solid+Tumors+with+Expansion+in+Advanced+Gastrointestinal+Tumors+and+Phase+1b+Study+of+CGX1321+in+Combination+with+Pembrolizumab+in+Subjects+with+Advanced+Colorectal+Cancer+or+in+Combination+with+Encorafenib+++Cetuximab+in+Subjects+with+BRAF+V600E+Mutated+Advanced+Colorectal+Cancer&cntry=US\">A Phase 1 Open-label Dose Escalation Study of CGX1321 Subjects with Advanced Solid Tumors with Expansion in Advanced Gastrointestinal Tumors and Phase 1b Study of CGX1321 in Combination with Pembrolizumab in Subjects with Advanced Colorectal Cancer or in Combination with Encorafenib + Cetuximab in Subjects with BRAF V600E Mutated Advanced Colorectal Cancer</a>",
         "Disease Type": "RSPO2, RSPO3, RNF43, BRAF V600E",
         "Protocol Status": "Active",
         "Phase": "1",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/1b+Open-label,+Multicenter+Study+to+Investigate+the+Safety,+Tolerability,+Pharmacokinetics,+and+Antitumor+Activity+of+KIN-2787+in+Participants+with+BRAF+and/or+NRAS+Mutation-positive+Solid+Tumors&cntry=US\">A Phase 1/1b Open-label, Multicenter Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Antitumor Activity of KIN-2787 in Participants with BRAF and/or NRAS Mutation-positive Solid Tumors</a>",
-        "Disease Type": "BRAF Class I, II, and III; Melanoma NRAS",
-        "Protocol Status": "Active",
-        "Phase": "1",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=Crestone:+A+Phase+2+Study+of+Seribantumab+in+Adult+Patients+with+Neuregulin-1+(NRG1)+Fusion+Positive+Locally+Advanced+or+Metastatic+Solid+Tumors&cntry=US\">Crestone: A Phase 2 Study of Seribantumab in Adult Patients with Neuregulin-1 (NRG1) Fusion Positive Locally Advanced or Metastatic Solid Tumors</a>",
-        "Disease Type": "NRG1",
-        "Protocol Status": "Active",
-        "Phase": "2",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2170,13 +2156,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/2a+Study+to+Assess+the+Safety,+Pharmacokinetics,+and+Pharmacodynamics+of+PLX8394+in+Patients+with+Advanced,+Unresectable+Solid+Tumors&cntry=US\">A Phase 1/2a Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of PLX8394 in Patients with Advanced, Unresectable Solid Tumors</a>",
-        "Disease Type": "BRAF",
-        "Protocol Status": "Active",
-        "Phase": "2",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+Basket+Study+of+Milademetan+in+Advanced/Metastatic+Solid+Tumors&cntry=US\">A Phase 2 Basket Study of Milademetan in Advanced/Metastatic Solid Tumors</a>",
         "Disease Type": "Wild-type (WT) TP53 and MDM2",
         "Protocol Status": "Active",
@@ -2188,6 +2167,13 @@
         "Disease Type": "NTRK-fusion-positive or NTRK-amplified, EWSR1-WT1-fusion-positive",
         "Protocol Status": "Active",
         "Phase": "1/2",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/1b+Open-label,+Multicenter+Study+to+Investigate+the+Safety,+Tolerability,+Pharmacokinetics,+and+Antitumor+Activity+of+KIN-2787+in+Participants+with+BRAF+and/or+NRAS+Mutation-positive+Solid+Tumors&cntry=US\">A Phase 1/1b Open-label, Multicenter Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Antitumor Activity of KIN-2787 in Participants with BRAF and/or NRAS Mutation-positive Solid Tumors</a>",
+        "Disease Type": "BRAF Class II and III; Melanoma NRAS mutations",
+        "Protocol Status": "Active",
+        "Phase": "1",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2205,8 +2191,57 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://www.adventisthealth.org/bakersfield/services/cancer-center/\">Aromatherapy in patients receiving chemotherapy in the outpatient setting</a>",
+        "Disease Type": "All Cancer Types",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://ascproject.org/\">Angiosarcoma Project</a>",
+        "Disease Type": "Angiosarcoma",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
+        "Trial Type": "SCREENING"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://www.thewisdomstudy.org/\">Women Informed to Screen Depending on Measures of Risk (Wisdom Study)</a>",
         "Disease Type": "Breast Cancer",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
+        "Trial Type": "SCREENING"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://escproject.org/\">Esophageal and Stomach Cancer Project</a>",
+        "Disease Type": "Esophageal and Stomach Cancer",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
+        "Trial Type": "SCREENING"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05174169\">Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease (CIRCULATE-US)</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active*",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03952585\">De-intensified Radiation Therapy With Chemotherapy (Cisplatin) or Immunotherapy (Nivolumab) in Treating Patients With Early-Stage, HPV-Positive, Non-Smoking Associated Oropharyngeal Cancer</a>",
+        "Disease Type": "Head and Neck Cancer",
+        "Protocol Status": "Active*",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://www.joinallofus.org/\">All of Us Research Program</a>",
+        "Disease Type": "Healthy Volunteers",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
+        "Trial Type": "SCREENING"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://inheritedcancer.net/\">Inherited Cancer Registry - Hereditary Cancers Inherited Cancer - Genetics</a>",
+        "Disease Type": "Inherited Cancer - Genetics",
         "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "SCREENING"
@@ -2226,11 +2261,11 @@
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://escproject.org/\">Esophageal and Stomach Cancer Project</a>",
-        "Disease Type": "Esophageal and Stomach Cancer",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04214262\">A Randomized Phase III Trial of Induction/Consolidation Atezolizumab (NSC #783608) + SBRT Versus SBRT Alone in High Risk, Early Stage NSCLC</a>",
+        "Disease Type": "Non-small Cell Lung Cancer",
         "Protocol Status": "Active*",
-        "Phase": "Other",
-        "Trial Type": "SCREENING"
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://braintumorproject.org/\">Brain Tumor Project</a>",
@@ -2240,59 +2275,10 @@
         "Trial Type": "SCREENING"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://ascproject.org/\">Angiosarcoma Project</a>",
-        "Disease Type": "Angiosarcoma",
-        "Protocol Status": "Active*",
-        "Phase": "Other",
-        "Trial Type": "SCREENING"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://inheritedcancer.net/\">Inherited Cancer Registry - Hereditary Cancers Inherited Cancer - Genetics</a>",
-        "Disease Type": "Inherited Cancer - Genetics",
-        "Protocol Status": "Active*",
-        "Phase": "Other",
-        "Trial Type": "SCREENING"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04214262\">A Randomized Phase III Trial of Induction/Consolidation Atezolizumab (NSC #783608) + SBRT Versus SBRT Alone in High Risk, Early Stage NSCLC</a>",
-        "Disease Type": "Non-small Cell Lung Cancer",
-        "Protocol Status": "Active*",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://www.joinallofus.org/\">All of Us Research Program</a>",
-        "Disease Type": "Healthy Volunteers",
-        "Protocol Status": "Active*",
-        "Phase": "Other",
-        "Trial Type": "SCREENING"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://www.adventisthealth.org/bakersfield/services/cancer-center/\">Aromatherapy in patients receiving chemotherapy in the outpatient setting</a>",
-        "Disease Type": "All Cancer Types",
-        "Protocol Status": "Active*",
-        "Phase": "Other",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05174169\">Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease (CIRCULATE-US)</a>",
-        "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active*",
-        "Phase": "II/III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05050084\">Parallel Phase III Randomized Trials of Genomic-Risk Stratified Unfavorable Intermediate Risk Prostate Cancer: De-Intensification and Intensification Clinical Trial Evaluation (GUIDANCE)</a>",
         "Disease Type": "Prostate Cancer",
         "Protocol Status": "Active*",
         "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03952585\">De-intensified Radiation Therapy With Chemotherapy (Cisplatin) or Immunotherapy (Nivolumab) in Treating Patients With Early-Stage, HPV-Positive, Non-Smoking Associated Oropharyngeal Cancer</a>",
-        "Disease Type": "Head and Neck Cancer",
-        "Protocol Status": "Active*",
-        "Phase": "II/III",
         "Trial Type": "INTERVENTION"
     }
 ]
