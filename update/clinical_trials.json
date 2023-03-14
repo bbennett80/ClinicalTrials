@@ -2308,5 +2308,12 @@
         "Protocol Status": "Active*",
         "Phase": "III",
         "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04000880\">Adapting MultiPLe Behavior Interventions That eFfectively Improve (AMPLIFI) Cancer Survivor Health</a>",
+        "Disease Type": "multiple myeloma, non-Hodgkin lymphoma, or localized kidney or ovarian cancer, breast, colorectum, endometrium, thyroid, or prostate cancer",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
+        "Trial Type": "INTERVENTION"
     }
 ]
