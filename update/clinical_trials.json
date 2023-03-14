@@ -77,13 +77,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02595879\">Phase I Dose-Escalation Bioavailability Study of Oral Triapine in Combination with Concurrent Chemoradiation for Locally Advanced Cervical Cancer (LACC) and Vaginal Cancer</a>",
-        "Disease Type": "AIDS-related Malignancy and Condition;Female Reproductive System Cancer",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04340141\">A Phase III Trial of Perioperative Versus Adjuvant Chemotherapy for Resectable Pancreatic Cancer</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -226,6 +219,20 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03937635\">Daratumumab to Enhance Therapeutic Effectiveness of Revlimid in Smoldering Myeloma (DETER-SMM)</a>",
         "Disease Type": "Myeloma",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05564377\">Molecular Analysis for Combination Therapy Choice (ComboMATCH)</a>",
+        "Disease Type": "Lymphoma;Solid Tumor",
+        "Protocol Status": "Active",
+        "Phase": "Other",
+        "Trial Type": "SCREENING"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05705401\">A Phase III Randomized Trial of Radiotherapy Optimization for Low-Risk HER2-Positive Breast Cancer (HERO*) *Her2 Radiation Optimization (HERO)</a>",
+        "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
         "Phase": "III",
         "Trial Type": "INTERVENTION"
@@ -476,13 +483,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05096663\">A Phase II/III Study of N-803 (ALT-803) Plus Pembrolizumab Versus Standard of Care in Participants with Stage IV or Recurrent Non-Small Cell Lung Cancer Previously Treated with Anti-PD-1 or Anti-PD-L1 Therapy (Lung-MAP Non-Match Sub-Study)</a>",
-        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II/III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/04496739\">Cluster Randomized Controlled Trial of Patient and Provider Decision Support to Increase Chemoprevention Informed Choice Among Women with Atypical Hyperplasia or Lobular Carcinoma In Situ - Making Informed Choices on Incorporating Chemoprevention Into Care (MiChoice)</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
@@ -693,6 +693,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05554380\">Phase 2 Study of Paclitaxel (NSC #673089) + Ipatasertib (NSC #781451) in Taxane-Refractory Participants with AKT-Altered Advanced Non-Breast Solid Tumors: A ComboMATCH Treatment Trial</a>",
+        "Disease Type": "Bone Cancer;CNS Cancer (Primary tumor);Endocrine Cancer;Female Reproductive System Cancer;Gastrointestinal Cancer;Germ Cell Cancer;Head and Neck Cancer;Kidney Cancer;Lung, Mediastinal, and Pleural Cancer;Male Reproductive System Cancer;Miscellaneous and Metastatic Cancer;Skin Cancer;Soft Tissue Cancer/Sarcoma;Solid Tumor;Urothelial/ Bladder Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04852887\">A Phase III Clinical Trial Evaluating De-Escalation of Breast Radiation for Conservative Treatment of Stage I, Hormone Sensitive, HER2-Negative, Oncotype Recurrence Score Less Than or Equal to 18 Breast Cancer (DEBRA)</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
@@ -704,6 +711,20 @@
         "Disease Type": "Female Reproductive System Cancer",
         "Protocol Status": "Active",
         "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03811002\">Limited Stage Small Cell Lung Cancer (LS-SCLC): A Phase III Randomized Study of Chemoradiation Versus Chemoradiation Plus Atezolizumab</a>",
+        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05071209\">A Phase 1/ 2 Study of BAY 1895344 (elimusertib, NSC#810486) in Pediatric Patients with Relapsed or Refractory Solid Tumors</a>",
+        "Disease Type": "Bone Cancer;Lymphoma;Soft Tissue Cancer/Sarcoma;Solid Tumor",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I/II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -725,13 +746,6 @@
         "Disease Type": "Skin Cancer",
         "Protocol Status": "Active",
         "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03253679\">A Phase 2 Study of AZD1775, a Wee1 Inhibitor, in Patients with CCNE1 Amplification</a>",
-        "Disease Type": "Solid Tumor",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -819,6 +833,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05303792\">A Randomized Phase II Study Comparing Inotuzumab Plus Chemotherapy Versus Standard Chemotherapy in Older Adults with Philadelphia-Chromosome-Negative B-Cell Acute Lymphoblastic Leukemia</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05001880\">Phase 2 Randomized Trial of Neoadjuvant or Palliative Chemotherapy with or Without Immunotherapy for Peritoneal Mesothelioma</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
@@ -837,6 +858,13 @@
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
         "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691478\">A Feasibility and Randomized Phase 2/3 Study of the VEFGR2/MET Inhibitor Cabozantinib in Combination with Cytotoxic Chemotherapy for Newly Diagnosed Osteosarcoma</a>",
+        "Disease Type": "Bone Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II/III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -887,13 +915,6 @@
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03941860\">Optimizing Prolonged Treatment In Myeloma Using MRD Assessment (OPTIMUM)</a>",
-        "Disease Type": "Myeloma",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "SCREENING, INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03851445\">A Master Protocol to Evaluate Biomarker-Driven Therapies and Immunotherapies in Previously-Treated Non-Small Cell Lung Cancer (Lung-MAP Screening Study)</a>",
@@ -977,13 +998,6 @@
         "Disease Type": "Leukemia;Lymphoma",
         "Protocol Status": "Active",
         "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04989283\">NASSIST (Neoadjuvant Chemoradiation +/- Immunotherapy Before Surgery for Superior Sulcus Tumors): A Randomized Phase II Trial of Trimodality +/- Atezolizumab in Resectable Superior Sulcus Non-Small Cell Lung Cancer</a>",
-        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1085,6 +1099,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02595879\">Phase I Dose-Escalation Bioavailability Study of Oral Triapine in Combination with Concurrent Chemoradiation for Locally Advanced Cervical Cancer (LACC) and Vaginal Cancer</a>",
+        "Disease Type": "AIDS-related Malignancy and Condition;Female Reproductive System Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03375320\">Randomized, Double-Blinded Phase III Study of CABozantinib Versus Placebo IN Patients with Advanced NEuroendocrine Tumors After Progression on Prior Therapy (CABINET)</a>",
         "Disease Type": "Endocrine Cancer",
         "Protocol Status": "Active",
@@ -1134,11 +1155,25 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05647265\">Multimodality Therapy with Immunotherapy in Stage I-IIIA Sarcomatoid Mesothelioma</a>",
+        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05432791\">A Randomized Phase 2/3 Study of Olaparib Plus Temozolomide Versus Investigator's Choice for the Treatment of Patients with Advanced Uterine Leiomyosarcoma After Progression on Prior Chemotherapy</a>",
         "Disease Type": "Female Reproductive System Cancer",
         "Protocol Status": "Active",
         "Phase": "II/III",
         "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Prospective Cohort Study to Evaluate Immunologic Response Following COVID-19 Vaccination in Children, Adolescents and Young Adults with Cancer</a>",
+        "Disease Type": "Miscellaneous and Metastatic Cancer",
+        "Protocol Status": "Active",
+        "Phase": "Other",
+        "Trial Type": "OTHER"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Tomosynthesis Mammographic Imaging Screening Trial (TMIST)</a>",
@@ -1157,6 +1192,20 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05211323\">A Randomized Phase II Trial Evaluating Chemotherapy vs Chemotherapy Plus Bevacizumab and Atezolizumab in Advanced Combined Hepatocellular Carcinoma-Cholangiocarcinoma</a>",
         "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05554354\">Phase 2 Trial of Fulvestrant and Binimetinib in Patients with Hormone Receptor-Positive Metastatic Breast Cancer with a Frameshift or Nonsense Mutation or Genomic Deletion in NF1: A ComboMATCH Treatment Trial</a>",
+        "Disease Type": "Breast Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05554328\">A Randomized Trial of Selumetinib and Olaparib or Selumetinib Alone in Patients with Recurrent or Persistent RAS Pathway Mutant Ovarian and Endometrial Cancers: A ComboMATCH Treatment Trial</a>",
+        "Disease Type": "Female Reproductive System Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
@@ -1208,6 +1257,13 @@
         "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05633602\">Pragmatica - Lung: A Prospective Randomized Study of Ramucirumab (LY3009806; NSC 749128) Plus Pembrolizumab (MK-3475; NSC 776864) Versus Standard of Care for Participants Previously Treated with Immunotherapy for Stage IV or Recurrent Non-Small Cell Lung Cancer</a>",
+        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1379,13 +1435,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04527549\">The BAMM2 (BRAF, Autophagy, MEK Inhibition in Melanoma) Study: A Randomized Double Blind Phase II Study of Dabrafenib and Trametinib with or Without Hydroxychloroquine in Advanced BRAF V600E/K Melanoma with Elevated LDH</a>",
-        "Disease Type": "Skin Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04462406\">A Phase II Study of Biomarker Driven Early Discontinuation of Anti-PD-1 Therapy in Patients with Advanced Melanoma (PET-Stop)</a>",
         "Disease Type": "Skin Cancer",
         "Protocol Status": "Active",
@@ -1442,13 +1491,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03811002\">Limited Stage Small Cell Lung Cancer (LS-SCLC): A Phase III Randomized Study of Chemoradiation Versus Chemoradiation Plus Atezolizumab</a>",
-        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II/III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Phase I/II Trial of Dabrafenib, Trametinib, and Hydroxychloroquine (HCQ) for BRAF V600E-Mutant or Trametinib and HCQ for BRAF Fusion/Duplication Positive or NF1-Associated Recurrent or Progressive Gliomas in Children and Young Adults</a>",
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
@@ -1460,13 +1502,6 @@
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
         "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05071209\">A Phase 1/ 2 Study of BAY 1895344 (elimusertib, NSC#810486) in Pediatric Patients with Relapsed or Refractory Solid Tumors</a>",
-        "Disease Type": "Bone Cancer;Lymphoma;Soft Tissue Cancer/Sarcoma;Solid Tumor",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1486,6 +1521,13 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05040360\">Randomized Phase II Trial of Postoperative Adjuvant Capecitabine and Temozolomide Versus Observation in High-Risk Pancreatic Neuroendocrine Tumors</a>",
         "Disease Type": "Endocrine Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05633615\">A Randomized Phase II Trial of Consolidation Therapy Following CD19 CAR T-Cell Treatment For Relapsed/Refractory Large B-Cell Lymphoma or Grade IIIB Follicular Lymphoma</a>",
+        "Disease Type": "Lymphoma",
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
@@ -1715,6 +1757,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03269669\">Randomized Phase II Trial in Early Relapsing or Refractory Follicular Lymphoma</a>",
+        "Disease Type": "Lymphoma",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03678025\">Phase III Randomized Trial of Standard Systemic Therapy (SST) Versus Standard Systemic Therapy Plus Definitive Treatment (Surgery or Radiation) of the Primary Tumor in Metastatic Prostate Cancer</a>",
         "Disease Type": "Male Reproductive System Cancer",
         "Protocol Status": "Active",
@@ -1803,13 +1852,6 @@
         "Disease Type": "Gastrointestinal Cancer;Solid Tumor",
         "Protocol Status": "Active",
         "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04197713\">Phase I Sequential Trial of Agents Against DNA Repair (STAR)</a>",
-        "Disease Type": "Solid Tumor",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2023,13 +2065,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03269669\">Randomized Phase II Trial in Early Relapsing or Refractory Follicular Lymphoma</a>",
-        "Disease Type": "Lymphoma",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Prospective Observational Cohort Study to Assess miRNA 371 For Outcome Prediction in Patients With Newly Diagnosed Germ Cell Tumors</a>",
         "Disease Type": "Germ Cell Cancer",
         "Protocol Status": "Active",
@@ -2093,13 +2128,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1+Open-label+Dose+Escalation+Study+of+CGX1321+Subjects+with+Advanced+Solid+Tumors+with+Expansion+in+Advanced+Gastrointestinal+Tumors+and+Phase+1b+Study+of+CGX1321+in+Combination+with+Pembrolizumab+in+Subjects+with+Advanced+Colorectal+Cancer+or+in+Combination+with+Encorafenib+++Cetuximab+in+Subjects+with+BRAF+V600E+Mutated+Advanced+Colorectal+Cancer&cntry=US\">A Phase 1 Open-label Dose Escalation Study of CGX1321 Subjects with Advanced Solid Tumors with Expansion in Advanced Gastrointestinal Tumors and Phase 1b Study of CGX1321 in Combination with Pembrolizumab in Subjects with Advanced Colorectal Cancer or in Combination with Encorafenib + Cetuximab in Subjects with BRAF V600E Mutated Advanced Colorectal Cancer</a>",
-        "Disease Type": "RSPO2, RSPO3, RNF43, BRAF V600E",
-        "Protocol Status": "Active",
-        "Phase": "1",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/2+Multicenter+Study+of+the+Safety,+Pharmacokinetics,+and+Preliminary+Efficacy+of+APL-101+in+Subjects+with+Non-Small+Cell+Lung+Cancer+with+c-Met+EXON+14+Skip+Mutations+and+c-Met+Dysregulation+Advanced+Solid+Tumors&cntry=US\">A Phase 1/2 Multicenter Study of the Safety, Pharmacokinetics, and Preliminary Efficacy of APL-101 in Subjects with Non-Small Cell Lung Cancer with c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors</a>",
         "Disease Type": "c-Met",
         "Protocol Status": "Active",
@@ -2128,6 +2156,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=An+open+label,+Phase+I+dose+escalation+trial,+with+dose+confirmation+and+expansion,+of+BI+1810631+as+monotherapy+in+patients+with+advanced+or+metastatic+solid+tumors+with+HER2+aberrations&cntry=US\">An open label, Phase I dose escalation trial, with dose confirmation and expansion, of BI 1810631 as monotherapy in patients with advanced or metastatic solid tumors with HER2 aberrations</a>",
+        "Disease Type": "HER2 TKD",
+        "Protocol Status": "Active",
+        "Phase": "1",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+multi-center+open-label+basket+trial+of+nab-sirolimus+for+adult+and+adolescent+patients+with+malignant+solid+tumors+harboring+pathogenic+inactivating+alterations+in+TSC1+or+TSC2+genes&cntry=US\">A Phase 2 multi-center open-label basket trial of nab-sirolimus for adult and adolescent patients with malignant solid tumors harboring pathogenic inactivating alterations in TSC1 or TSC2 genes</a>",
         "Disease Type": "TSC1; TSC2",
         "Protocol Status": "Active",
@@ -2137,13 +2172,6 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+I/II+Study+of+MCLA-128,+a+full+length+IgG1+Bispecific+Antibody+Targeting+HER2+and+HER3,+in+Patients+with+Solid+Tumors&cntry=US\">A Phase I/II Study of MCLA-128, a full length IgG1 Bispecific Antibody Targeting HER2 and HER3, in Patients with Solid Tumors</a>",
         "Disease Type": "NRG1",
-        "Protocol Status": "Active",
-        "Phase": "2",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+phase+1/2+study+of+IDE196+in+patients+with+solid+tumors+harboring+GNAQ/11+mutations+or+PRKC+fusions&cntry=US\">A phase 1/2 study of IDE196 in patients with solid tumors harboring GNAQ/11 mutations or PRKC fusions</a>",
-        "Disease Type": "GNAQ, GNA11",
         "Protocol Status": "Active",
         "Phase": "2",
         "Trial Type": "INTERVENTION"
@@ -2164,7 +2192,7 @@
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=PBI-200-101+A+Phase+1/2+Study+of+PBI-200+in+Subjects+with+NTRK-Fusion-Positive+Advanced+or+Metastatic+Solid+Tumors&cntry=US\">PBI-200-101 A Phase 1/2 Study of PBI-200 in Subjects with NTRK-Fusion-Positive Advanced or Metastatic Solid Tumors</a>",
-        "Disease Type": "NTRK-fusion-positive or NTRK-amplified, EWSR1-WT1-fusion-positive",
+        "Disease Type": "NTRK-fusion-positive or NTRK resistance mutations",
         "Protocol Status": "Active",
         "Phase": "1/2",
         "Trial Type": "INTERVENTION"
