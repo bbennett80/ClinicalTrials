@@ -1710,7 +1710,7 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03952585\">A Randomized Phase II/III Trial of De-Intensified Radiation Therapy for Patients with Early-Stage, P16-Positive, Non-Smoking Associated Oropharyngeal Cancer</a>",
         "Disease Type": "Head and Neck Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
+        "Protocol Status": "Temporarily Closed to Accrual*",
         "Phase": "II/III",
         "Trial Type": "INTERVENTION"
     },
@@ -2222,13 +2222,6 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05174169\">Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease (CIRCULATE-US)</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active*",
-        "Phase": "II/III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03952585\">De-intensified Radiation Therapy With Chemotherapy (Cisplatin) or Immunotherapy (Nivolumab) in Treating Patients With Early-Stage, HPV-Positive, Non-Smoking Associated Oropharyngeal Cancer</a>",
-        "Disease Type": "Head and Neck Cancer",
-        "Protocol Status": "TEMPORARITLY CLOSED",
         "Phase": "II/III",
         "Trial Type": "INTERVENTION"
     },
