@@ -147,10 +147,10 @@
         "Trial Type": "SCREENING, INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691478\">A Feasibility and Randomized Phase 2/3 Study of the VEFGR2/MET Inhibitor Cabozantinib in Combination with Cytotoxic Chemotherapy for Newly Diagnosed Osteosarcoma</a>",
-        "Disease Type": "Bone Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II/III",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05287295\">Phase 2 Study of Tovorafenib (DAY101) in Relapsed and Refractory Langerhans Cell Histiocytosis</a>",
+        "Disease Type": "Hematopoietic Neoplasm (excluding Leukemia, Lymphoma and Myeloma)",
+        "Protocol Status": "Active",
+        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -324,7 +324,7 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04092270\">A Phase I/Ib Dose Escalation Study of Pegylated Liposomal Doxorubicin (PLD) with Peposertib (M3814) in Platinum - Resistant or Ineligible Ovarian and Related Cancers with Planned Expansions in High Grade Serous (HGSOC) and Low Grade Serous Ovarian Cancer (LGSOC)</a>",
         "Disease Type": "Female Reproductive System Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
@@ -350,6 +350,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691465\">A Phase II Study of Lutetium Lu 177 Dotatate in Metastatic Prostate Cancer with Neuroendocrine Differentiation</a>",
+        "Disease Type": "Male Reproductive System Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05172258\">A Phase 2 Study of Ipatasertib in Combination with Pembrolizumab for First Line Treatment of Recurrent or Metastatic Squamous Cell Cancer of the Head and Neck</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
@@ -359,6 +366,13 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05272384\">A Phase 1 Study of Nivolumab in Combination with ASTX727 in B-cell Lymphoma (NHL or HL) with an Expansion Cohort in Relapsed or Refractory Diffuse Large B-Cell Lymphoma (DLBCL)</a>",
         "Disease Type": "Lymphoma",
+        "Protocol Status": "Active",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05372640\">A Phase 1 Study of BET Bromodomain Inhibitor ZEN003694 in Combination with the CDK4/6 Inhibitor Abemaciclib in Patients with NUT Carcinoma and Other Solid Tumors</a>",
+        "Disease Type": "Miscellaneous and Metastatic Cancer;Solid Tumor",
         "Protocol Status": "Active",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
@@ -854,6 +868,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691478\">A Feasibility and Randomized Phase 2/3 Study of the VEFGR2/MET Inhibitor Cabozantinib in Combination with Cytotoxic Chemotherapy for Newly Diagnosed Osteosarcoma</a>",
+        "Disease Type": "Bone Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04994132\">A Randomized Phase 3 Trial of Vinorelbine, Dactinomycin, and Cyclophosphamide (VINO-AC) Plus Maintenance Chemotherapy with Vinorelbine and Oral Cyclophosphamide (VINO-CPO) vs Vincristine, Dactinomycin and Cyclophosphamide (VAC) Plus VINO-CPO Maintenance in Patients with High Risk Rhabdomyosarcoma (HR-RMS)</a>",
         "Disease Type": "Soft Tissue Cancer/Sarcoma",
         "Protocol Status": "Active",
@@ -1295,6 +1316,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05600894\">Venetoclax In Combination with ASTX727, an All-ORal TherapY for Chronic Myelomonocytic Leukemia and Other MDS/MPN with Excess Blasts (VICTORY-MDS/MPN): a Randomized, Phase 2 Trial</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03609216\">A Phase II Study of Gemcitabine Plus Cisplatin Chemotherapy in Patients with Muscle-Invasive Bladder Cancer with Bladder Preservation for Those Patients Whose Tumors Harbor Deleterious DNA Damage Response (DDR) Gene Alterations</a>",
         "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -1708,13 +1736,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03952585\">A Randomized Phase II/III Trial of De-Intensified Radiation Therapy for Patients with Early-Stage, P16-Positive, Non-Smoking Associated Oropharyngeal Cancer</a>",
-        "Disease Type": "Head and Neck Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual*",
-        "Phase": "II/III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04402788\">RAndomized Phase II/III Trial of Consolidation Radiation + Immunotherapy for ES-SCLC: RAPTOR Trial</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
@@ -1848,13 +1869,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05372640\">A Phase 1 Study of BET Bromodomain Inhibitor ZEN003694 in Combination with the CDK4/6 Inhibitor Abemaciclib in Patients with NUT Carcinoma and Other Solid Tumors</a>",
-        "Disease Type": "Miscellaneous and Metastatic Cancer;Solid Tumor",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05198830\">A Phase 2 Randomized Study of the BER Inhibitor TRC102 in Combination with Standard Pemetrexed-Platinum-Radiation in Stage III Non-Squamous Non-Small Cell Lung Cancer</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
@@ -1899,6 +1913,13 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02582697\">A Randomized Phase 3 Trial of Accelerated Versus Standard BEP Chemotherapy for Patients with Intermediate and Poor-Risk Metastatic Germ Cell Tumors</a>",
         "Disease Type": "Germ Cell Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05675410\">A Randomized Phase 3 Interim Response Adapted Trial Comparing Standard Therapy with Immuno-oncology Therapy for Children and Adults with Newly Diagnosed Stage I and II Classic Hodgkin Lymphoma</a>",
+        "Disease Type": "Lymphoma",
         "Protocol Status": "Active",
         "Phase": "III",
         "Trial Type": "INTERVENTION"
@@ -2222,6 +2243,13 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05174169\">Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease (CIRCULATE-US)</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active*",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03952585\">A Randomized Phase II/III Trial of De-Intensified Radiation Therapy for Patients with Early-Stage, P16-Positive, Non-Smoking Associated Oropharyngeal Cancer</a>",
+        "Disease Type": "Head and Neck Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual*",
         "Phase": "II/III",
         "Trial Type": "INTERVENTION"
     },
