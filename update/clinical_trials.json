@@ -133,13 +133,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Blinded Reference Set For Multicancer Early Detection Blood Tests</a>",
-        "Disease Type": "Miscellaneous and Metastatic Cancer",
-        "Protocol Status": "Active",
-        "Phase": "Other",
-        "Trial Type": "OTHER"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05077527\">Axicabtagene Ciloleucel in Relapsed or Refractory HIV-Associated Aggressive B-Cell Non-Hodgkin Lymphoma</a>",
         "Disease Type": "AIDS-related Malignancy and Condition",
         "Protocol Status": "Temporarily Closed to Accrual",
@@ -162,6 +155,13 @@
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04266249\">EA1181 (CompassHER2-pCR): Preoperative THP and Postoperative HP in Patients Who Achieve a Pathologic Complete Response Part 1 Component of: The CompassHER2 Trials (COMprehensive Use of Pathologic Response ASSessment to Optimize Therapy in HER2-Positive Breast Cancer)</a>",
+        "Disease Type": "Breast Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05710328\">Interim FDG-PET/CT for PreDIcting REsponse of HER2+ Breast Cancer to Neoadjuvant Therapy: DIRECT Trial</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
@@ -800,14 +800,7 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04941287\">A Randomized Phase 2 Study of Combination Atezolizumab and CDX-1127 (Varlilumab) with or Without Addition of Cobimetinib in Previously Treated Unresectable Biliary Tract Cancers</a>",
         "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05327010\">Phase 2 Trial of the Combination of the BET inhibitor, ZEN003694 (ZEN-3694), and the PARP Inhibitor Talazoparib, in Patients with Molecularly-Selected Solid Tumors (ComBET)</a>",
-        "Disease Type": "Solid Tumor",
-        "Protocol Status": "Active",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
@@ -1078,6 +1071,13 @@
         "Trial Type": "SCREENING, INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05327010\">Phase 2 Trial of the Combination of the BET Inhibitor, ZEN003694 (ZEN-3694), and the PARP Inhibitor Talazoparib, in Patients with Molecularly-Selected Solid Tumors (ComBET)</a>",
+        "Disease Type": "Solid Tumor",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05053971\">Phase Ib/II Study of ZEN003694 and Entinostat in Advanced and Refractory Solid Tumors and Lymphomas</a>",
         "Disease Type": "Gastrointestinal Cancer;Lymphoma;Solid Tumor",
         "Protocol Status": "Active",
@@ -1183,9 +1183,9 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05211323\">A Randomized Phase II Trial Evaluating Chemotherapy vs Chemotherapy Plus Bevacizumab and Atezolizumab in Advanced Combined Hepatocellular Carcinoma-Cholangiocarcinoma</a>",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04751370\">A Phase II Study of Neoadjuvant Nivolumab Plus Ipilimumab and Short-Course Radiation in MSI-H/dMMR Locally Advanced Rectal Adenocarcinoma</a>",
         "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
@@ -1201,13 +1201,6 @@
         "Disease Type": "Female Reproductive System Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04588246\">Phase III Trial of Salvage Stereotactic Radiosurgery (SRS) or SRS + Hippocampal-Avoidant Whole Brain Radiotherapy (HA-WBRT) for First or Second Distant Brain Relapse After Upfront SRS with Brain Metastasis Velocity >/= 4 Brain Metastases/Year</a>",
-        "Disease Type": "Miscellaneous and Metastatic Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1320,6 +1313,13 @@
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
         "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05812807\">OptimICE-PCR: De-Escalation of Therapy in Early-Stage TNBC Patients Who Achieve pCR After Neoadjuvant Chemotherapy with Checkpoint Inhibitor Therapy</a>",
+        "Disease Type": "Breast Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1474,6 +1474,13 @@
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05624996\">Phase III Prospective Randomized Trial of Primary Lung Tumor Stereotactic Body Radiation Therapy Followed by Concurrent Mediastinal Chemoradiation for Locally-Advanced Non-Small Cell Lung Cancer</a>",
+        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1925,9 +1932,9 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04751370\">A Phase II Study of Neoadjuvant Nivolumab Plus Ipilimumab and Short-Course Radiation in MSI-H/dMMR Locally Advanced Rectal Adenocarcinoma</a>",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05211323\">A Randomized Phase II Trial Evaluating Chemotherapy vs Chemotherapy Plus Bevacizumab and Atezolizumab in Advanced Combined Hepatocellular Carcinoma-Cholangiocarcinoma</a>",
         "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
@@ -1979,6 +1986,13 @@
         "Protocol Status": "Active",
         "Phase": "III",
         "Trial Type": "SCREENING, INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04588246\">Phase III Trial of Stereotactic Radiosurgery (SRS) or Hippocampal-Avoidant Whole Brain Radiotherapy (HA-WBRT) for Distant Brain Relapse with Brain Metastasis Velocity >/= 4 Brain Metastases/Year</a>",
+        "Disease Type": "Miscellaneous and Metastatic Cancer",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05438212\">A Randomized Phase III Trial of Pre-Operative Compared to Post-Operative Stereotactic Radiosurgery in Patients with Resectable Brain Metastases</a>",
@@ -2184,13 +2198,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/1b+Open-label,+Multicenter+Study+to+Investigate+the+Safety,+Tolerability,+Pharmacokinetics,+and+Antitumor+Activity+of+KIN-2787+in+Participants+with+BRAF+and/or+NRAS+Mutation-positive+Solid+Tumors&cntry=US\">A Phase 1/1b Open-label, Multicenter Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Antitumor Activity of KIN-2787 in Participants with BRAF and/or NRAS Mutation-positive Solid Tumors</a>",
-        "Disease Type": "BRAF Class II and III; Melanoma NRAS mutations",
-        "Protocol Status": "Active",
-        "Phase": "1",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+Master+Protocol+to+assess+the+efficacy+and+safety+of+FORE8394,+an+inhibitor+of+BRAF+class+1+and+class+2+alterations,+in+participants+with+cancer+harboring+BRAF+alterations&cntry=US\">A Phase 2 Master Protocol to assess the efficacy and safety of FORE8394, an inhibitor of BRAF class 1 and class 2 alterations, in participants with cancer harboring BRAF alterations</a>",
         "Disease Type": "BRAF",
         "Protocol Status": "Active",
@@ -2202,6 +2209,13 @@
         "Disease Type": "PTCH1",
         "Protocol Status": "Active",
         "Phase": "2",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+phase+Ia/Ib,+open-label,+dose+escalation+study+of+the+combination+of+BI+907828+with+BI+754091+(ezabenlimab)+and+BI+754111+and+the+combination+of+BI+907828+with+BI+754091+(ezabenlimab)+followed+by+expansion+cohorts,+in+patients+with+advanced+solid+tumors.&cntry=US\">A phase Ia/Ib, open-label, dose escalation study of the combination of BI 907828 with BI 754091 (ezabenlimab) and BI 754111 and the combination of BI 907828 with BI 754091 (ezabenlimab) followed by expansion cohorts, in patients with advanced solid tumors.</a>",
+        "Disease Type": "PT53wt",
+        "Protocol Status": "Active",
+        "Phase": "1/2",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2308,5 +2322,12 @@
         "Protocol Status": "Active*",
         "Phase": "Other",
         "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05334069\">Blinded Reference Set For Multicancer Early Detection Blood Tests</a>",
+        "Disease Type": "Multiple",
+        "Protocol Status": "Active*",
+        "Phase": "Other",
+        "Trial Type": "REFERENCE"
     }
 ]
