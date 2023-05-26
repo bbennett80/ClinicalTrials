@@ -14,6 +14,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03878095\">A Phase II Study of Olaparib and AZD6738 in Isocitrate Dehydrogenase (IDH) Mutant Solid Tumors</a>",
+        "Disease Type": "Gastrointestinal Cancer;Solid Tumor",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03983824\">A Phase I Study of M3814 in Combination with MEC in Patients with Relapsed or Refractory Acute Myeloid Leukemia</a>",
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
@@ -44,6 +51,13 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04340843\">A Phase 2 Study of Belinostat and SGI-110 (Guadecitabine) or ASTX727 for the Treatment of Unresectable and Metastatic Conventional Chondrosarcoma</a>",
         "Disease Type": "Bone Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04284787\">BLockade of PD-1 Added to Standard Therapy to Target Measurable Residual Disease in Acute Myeloid Leukemia 2 (BLAST MRD AML-2): A Randomized Phase 2 Study of the Venetoclax, Azacitadine, and Pembrolizumab (VAP) Versus Venetoclax and Azacitadine as First Line Therapy in Older Patients with Acute Myeloid Leukemia (AML) Who Are Ineligible or Who Refuse Intensive Chemotherapy</a>",
+        "Disease Type": "Leukemia",
         "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
@@ -144,6 +158,13 @@
         "Disease Type": "Hematopoietic Neoplasm (excluding Leukemia, Lymphoma and Myeloma)",
         "Protocol Status": "Active",
         "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691478\">A Feasibility and Randomized Phase 2/3 Study of the VEFGR2/MET Inhibitor Cabozantinib in Combination with Cytotoxic Chemotherapy for Newly Diagnosed Osteosarcoma</a>",
+        "Disease Type": "Bone Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II/III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -324,7 +345,7 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04092270\">A Phase I/Ib Dose Escalation Study of Pegylated Liposomal Doxorubicin (PLD) with Peposertib (M3814) in Platinum - Resistant or Ineligible Ovarian and Related Cancers with Planned Expansions in High Grade Serous (HGSOC) and Low Grade Serous Ovarian Cancer (LGSOC)</a>",
         "Disease Type": "Female Reproductive System Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
+        "Protocol Status": "Active",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
@@ -756,13 +777,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04284787\">BLockade of PD-1 Added to Standard Therapy to Target Measurable Residual Disease in Acute Myeloid Leukemia 2 (BLAST MRD AML-2): A Randomized Phase 2 Study of the Venetoclax, Azacitadine, and Pembrolizumab (VAP) Versus Venetoclax and Azacitadine as First Line Therapy in Older Patients with Acute Myeloid Leukemia (AML) Who Are Ineligible or Who Refuse Intensive Chemotherapy</a>",
-        "Disease Type": "Leukemia",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04652960\">A Phase I Study with an Expansion Cohort of Duvelisib and Nivolumab in Mycosis Fungoides (MF) and S\u00e9zary Syndrome (SS)</a>",
         "Disease Type": "Lymphoma",
         "Protocol Status": "Temporarily Closed to Accrual",
@@ -858,13 +872,6 @@
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
         "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691478\">A Feasibility and Randomized Phase 2/3 Study of the VEFGR2/MET Inhibitor Cabozantinib in Combination with Cytotoxic Chemotherapy for Newly Diagnosed Osteosarcoma</a>",
-        "Disease Type": "Bone Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II/III",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1316,6 +1323,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05711615\">A Phase 1 Study of Peposertib (M3814) and Low-Dose Liposomal Doxorubicin (Doxil\u00ae) in Patients with Metastatic Leiomyosarcoma and Other Soft Tissue Sarcomas</a>",
+        "Disease Type": "Female Reproductive System Cancer;Soft Tissue Cancer/Sarcoma",
+        "Protocol Status": "Active",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05812807\">OptimICE-PCR: De-Escalation of Therapy in Early-Stage TNBC Patients Who Achieve pCR After Neoadjuvant Chemotherapy with Checkpoint Inhibitor Therapy</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
@@ -1631,6 +1645,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691504\">A Phase 1 Study of APG-1252 (Pelcitoclax) and Cobimetinib in Recurrent Ovarian and Endometrial Cancers</a>",
+        "Disease Type": "Female Reproductive System Cancer",
+        "Protocol Status": "Active",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05241860\">A Phase 2 Trial of ADT Interruption in Patients Responding Exceptionally to AR-Pathway Inhibitor in Metastatic Hormone-Sensitive Prostate Cancer (MHSPC): A-DREAM</a>",
         "Disease Type": "Male Reproductive System Cancer",
         "Protocol Status": "Active",
@@ -1838,13 +1859,6 @@
         "Disease Type": "CNS Cancer (Primary tumor)",
         "Protocol Status": "Active",
         "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03878095\">A Phase II Study of Olaparib and AZD6738 in Isocitrate Dehydrogenase (IDH) Mutant Solid Tumors</a>",
-        "Disease Type": "Gastrointestinal Cancer;Solid Tumor",
-        "Protocol Status": "Active",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2177,13 +2191,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+Basket+Study+of+Milademetan+in+Advanced/Metastatic+Solid+Tumors&cntry=US\">A Phase 2 Basket Study of Milademetan in Advanced/Metastatic Solid Tumors</a>",
-        "Disease Type": "Wild-type (WT) TP53 and MDM2",
-        "Protocol Status": "Active",
-        "Phase": "2",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=PBI-200-101+A+Phase+1/2+Study+of+PBI-200+in+Subjects+with+NTRK-Fusion-Positive+Advanced+or+Metastatic+Solid+Tumors&cntry=US\">PBI-200-101 A Phase 1/2 Study of PBI-200 in Subjects with NTRK-Fusion-Positive Advanced or Metastatic Solid Tumors</a>",
         "Disease Type": "NTRK-fusion-positive or NTRK resistance mutations",
         "Protocol Status": "Active",
@@ -2213,7 +2220,7 @@
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+phase+Ia/Ib,+open-label,+dose+escalation+study+of+the+combination+of+BI+907828+with+BI+754091+(ezabenlimab)+and+BI+754111+and+the+combination+of+BI+907828+with+BI+754091+(ezabenlimab)+followed+by+expansion+cohorts,+in+patients+with+advanced+solid+tumors.&cntry=US\">A phase Ia/Ib, open-label, dose escalation study of the combination of BI 907828 with BI 754091 (ezabenlimab) and BI 754111 and the combination of BI 907828 with BI 754091 (ezabenlimab) followed by expansion cohorts, in patients with advanced solid tumors.</a>",
-        "Disease Type": "PT53wt",
+        "Disease Type": "TP53 wt",
         "Protocol Status": "Active",
         "Phase": "1/2",
         "Trial Type": "INTERVENTION"
