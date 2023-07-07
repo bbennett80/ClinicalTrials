@@ -14,6 +14,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03604978\">A Phase I/II Study of Nivolumab Plus or Minus Ipilimumab in Combination with Multi-Fraction Stereotactic Radiosurgery for Recurrent High-Grade Radiation-Relapsed Meningioma</a>",
+        "Disease Type": "CNS Cancer (Primary tumor)",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I/II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03878095\">A Phase II Study of Olaparib and AZD6738 in Isocitrate Dehydrogenase (IDH) Mutant Solid Tumors</a>",
         "Disease Type": "Gastrointestinal Cancer;Solid Tumor",
         "Protocol Status": "Temporarily Closed to Accrual",
@@ -25,13 +32,6 @@
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
         "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03939897\">A Randomized Phase I/II Trial of Fulvestrant and Abemaciclib in Combination with Copanlisib (FAC) Versus Fulvestrant and Abemaciclib Alone (FA) for Endocrine-Resistant, Hormone Receptor Positive, HER2 Negative Metastatic Breast Cancer (FAC vs FA)</a>",
-        "Disease Type": "Breast Cancer",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -53,6 +53,13 @@
         "Disease Type": "Bone Cancer",
         "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04616534\">Phase 1 Trial of Gemcitabine Combined with the Elimusertib (BAY 1895344) ATR Inhibitor with Expansion Cohorts in Advanced Pancreatic and Ovarian Cancer</a>",
+        "Disease Type": "Female Reproductive System Cancer;Gastrointestinal Cancer;Solid Tumor",
+        "Protocol Status": "Active",
+        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -266,20 +273,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04870944\">A Phase 1/2 Trial of CBL0137 (NSC# 825802) in Patients with Relapsed or Refractory Solid Tumors Including CNS Tumors and Lymphoma</a>",
-        "Disease Type": "Bone Cancer;CNS Cancer (Primary tumor);Lymphoma;Solid Tumor",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT01349881\">A Double Blind Placebo-Controlled Trial of Eflornithine and Sulindac to Prevent Recurrence of High Risk Adenomas and Second Primary Colorectal Cancers in Patients with Stage 0-III Colon or Rectal Cancer, Phase III- Preventing Adenomas of the Colon with Eflornithine and Sulindac (PACES)</a>",
-        "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Prospective Evaluation of Carvedilol in Prevention of Cardiac Toxicity in Patients with Metastatic HER-2+ Breast Cancer, Phase III</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
@@ -320,6 +313,13 @@
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "OTHER"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05890352\">Randomized Phase II Study of the Addition of Targeted Therapeutic Agents to Tafasitamab-Based Therapy in Non-Transplant-Eligible Patients with Relapsed/Refractory Large B-Cell Lymphoma</a>",
+        "Disease Type": "Lymphoma",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05561387\">A Phase III Randomized Trial for Newly Diagnosed Multiple Myeloma (NDMM) Patients Considered Frail or in a Subset of \"Intermediate Fit\" Comparing Upfront Three-Drug Induction Regimens Followed by Double or Single-Agent Maintenance</a>",
@@ -413,6 +413,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05715281\">Rapid Analysis and Response Evaluation of Combination Anti-Neoplastic Agents in Rare Tumors (RARE CANCER) Trial: RARE 3 Tiragolumab + Atezolizumab</a>",
+        "Disease Type": "Solid Tumor",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04457596\">The COMPASSHER2 Trials (COMprehensive Use of Pathologic Response ASSessment to Optimize Therapy in HER2-Positive Breast Cancer): COMPASSHER2 Residual Disease (RD), A Double-Blinded, Phase III Randomized Trial of T-DM1 and Placebo Compared with T-DM1 and Tucatinib</a>",
         "Disease Type": "Breast Cancer",
         "Protocol Status": "Active",
@@ -481,6 +488,13 @@
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "SCREENING, INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04729959\">A Safety Run-In and Phase II Study Evaluating the Efficacy, Safety, and Impact on the Tumor Microenvironment of the Combination of Tocilizumab, Atezolizumab, and Fractionated Stereotactic Radiotherapy in Recurrent Glioblastoma</a>",
+        "Disease Type": "CNS Cancer (Primary tumor)",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05050084\">Parallel Phase III Randomized Trials of Genomic-Risk Stratified Unfavorable Intermediate Risk Prostate Cancer: De-Intensification And Intensification Clinical Trial Evaluation (GUIDANCE)</a>",
@@ -700,13 +714,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05554341\">Nilotinib and Paclitaxel in Patients with Prior Taxane-Treated Solid Tumors: A ComboMATCH Treatment Trial</a>",
-        "Disease Type": "Solid Tumor",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05554380\">Phase 2 Study of Paclitaxel (NSC #673089) + Ipatasertib (NSC #781451) in Taxane-Refractory Participants with AKT-Altered Advanced Non-Breast Solid Tumors: A ComboMATCH Treatment Trial</a>",
         "Disease Type": "Bone Cancer;CNS Cancer (Primary tumor);Endocrine Cancer;Female Reproductive System Cancer;Gastrointestinal Cancer;Germ Cell Cancer;Head and Neck Cancer;Kidney Cancer;Lung, Mediastinal, and Pleural Cancer;Male Reproductive System Cancer;Miscellaneous and Metastatic Cancer;Skin Cancer;Soft Tissue Cancer/Sarcoma;Solid Tumor;Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -732,13 +739,6 @@
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
         "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04751383\">Phase 1 Trial of Hu5F9-G4 (Magrolimab) Combined with Dinutuximab in Children and Young Adults with Relapsed and Refractory Neuroblastoma or Relapsed Osteosarcoma</a>",
-        "Disease Type": "Bone Cancer;Nervous System Cancer (CNS-excluded)",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -791,24 +791,10 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04616534\">Phase 1 Trial of Gemcitabine Combined with the BAY 1895344 ATR Inhibitor with Expansion Cohorts in Advanced Pancreatic and Ovarian Cancer</a>",
-        "Disease Type": "Female Reproductive System Cancer;Gastrointestinal Cancer;Solid Tumor",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05687123\">A Phase I Dose Escalation-Expansion Trial of Sunitinib Malate Plus Lutetium Lu 177 Dotatate (Lutathera) in Somatostatin Receptor Positive Pancreatic Neuroendocrine Tumors</a>",
+        "Disease Type": "Endocrine Cancer",
         "Protocol Status": "Active",
         "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04576091\">Phase I Trial of BAY 1895344 ATR Inhibitor Combined with Stereotactic Body Radiation Therapy and Pembrolizumab for Recurrent Head and Neck Squamous Cell Carcinoma</a>",
-        "Disease Type": "Head and Neck Cancer",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04941287\">A Randomized Phase 2 Study of Combination Atezolizumab and CDX-1127 (Varlilumab) with or Without Addition of Cobimetinib in Previously Treated Unresectable Biliary Tract Cancers</a>",
-        "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -889,13 +875,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04893018\">Phase 1 Study of NT-I7 (rhIL-7-hyFc) for the Treatment of Kaposi Sarcoma in Patients with or Without Infection with HIV</a>",
-        "Disease Type": "AIDS-related Malignancy and Condition",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04233866\">A Randomized Phase II Study of Gemcitabine and Nab-Paclitaxel Compared with 5-Fluorouracil, Leucovorin, and Liposomal Irinotecan in Older Patients with Treatment Naive Metastatic Pancreatic Cancer (GIANT)</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -931,6 +910,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05554341\">Nilotinib and Paclitaxel in Patients with Prior Taxane-Treated Solid Tumors: A ComboMATCH Treatment Trial</a>",
+        "Disease Type": "Solid Tumor",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03851445\">A Master Protocol to Evaluate Biomarker-Driven Therapies and Immunotherapies in Previously-Treated Non-Small Cell Lung Cancer (Lung-MAP Screening Study)</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
@@ -949,13 +935,6 @@
         "Disease Type": "Female Reproductive System Cancer",
         "Protocol Status": "Active",
         "Phase": "Other",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03660826\">A Randomized Phase II Study Comparing Single-Agent Olaparib, Single Agent Cediranib, and the Combinations of Cediranib/Olaparib, Olaparib/Durvalumab (MEDI4736), Cediranib/Durvalumab (MEDI4736), Olaparib/AZD5363 (Capivasertib) in Women with Recurrent, Persistent or Metastatic Endometrial Cancer.: A Platform Trial for Women with Recurrent or Persistent Endometrial Cancer</a>",
-        "Disease Type": "Female Reproductive System Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1005,6 +984,13 @@
         "Disease Type": "Leukemia;Lymphoma",
         "Protocol Status": "Active",
         "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04511013\">A Randomized Phase II Trial of Encorafenib + Binimetinib + Nivolumab Vs Ipilimumab + Nivolumab in BRAF-V600 Mutant Melanoma with Symptomatic Brain Metastases</a>",
+        "Disease Type": "Skin Cancer",
+        "Protocol Status": "Active",
+        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1113,8 +1099,8 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02595879\">Phase I Dose-Escalation Bioavailability Study of Oral Triapine in Combination with Concurrent Chemoradiation for Locally Advanced Cervical Cancer (LACC) and Vaginal Cancer</a>",
-        "Disease Type": "AIDS-related Malignancy and Condition;Female Reproductive System Cancer",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05711615\">A Phase 1 Study of Peposertib (M3814) and Low-Dose Liposomal Doxorubicin (Doxil\u00ae) in Patients with Metastatic Leiomyosarcoma and Other Soft Tissue Sarcomas</a>",
+        "Disease Type": "Female Reproductive System Cancer;Soft Tissue Cancer/Sarcoma",
         "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
@@ -1267,13 +1253,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04511013\">A Randomized Phase 2 Trial of Encorafenib + Binimetinib + Nivolumab Vs Ipilimumab + Nivolumab in BRAF-V600 Mutant Melanoma with Brain Metastases</a>",
-        "Disease Type": "Skin Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04871529\">Randomized Phase II Trial of Gemcitabine, Avelumab and Carboplatin vs. No Neoadjuvant Therapy Preceding Surgery for Cisplatin-Ineligible Muscle-Invasive Urothelial Carcinoma: SWOG GAP TRIAL</a>",
         "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -1348,13 +1327,6 @@
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
         "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05711615\">A Phase 1 Study of Peposertib (M3814) and Low-Dose Liposomal Doxorubicin (Doxil\u00ae) in Patients with Metastatic Leiomyosarcoma and Other Soft Tissue Sarcomas</a>",
-        "Disease Type": "Female Reproductive System Cancer;Soft Tissue Cancer/Sarcoma",
-        "Protocol Status": "Active",
-        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1477,13 +1449,6 @@
         "Trial Type": "SCREENING, INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04729959\">A Safety Run-In and Phase II Study Evaluating the Efficacy, Safety, and Impact on the Tumor Microenvironment of the Combination of Tocilizumab, Atezolizumab, and Fractionated Stereotactic Radiotherapy in Recurrent Glioblastoma</a>",
-        "Disease Type": "CNS Cancer (Primary tumor)",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04037254\">Randomized Phase II Trial of Niraparib with Standard Combination Radiotherapy and Androgen DeprIvation Therapy (ADT) in High Risk Prostate Cancer (with Initial Phase I) (NADIR*)</a>",
         "Disease Type": "Male Reproductive System Cancer",
         "Protocol Status": "Active",
@@ -1547,18 +1512,18 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04751383\">Phase 1 Trial of Hu5F9-G4 (Magrolimab) Combined with Dinutuximab in Children and Young Adults with Relapsed and Refractory Neuroblastoma or Relapsed Osteosarcoma</a>",
+        "Disease Type": "Bone Cancer;Nervous System Cancer (CNS-excluded)",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT01810913\">Randomized Phase II/III Trial of Adjuvant Radiation Therapy with Cisplatin, Docetaxel-Cetuximab, or Cisplatin-Atezolizumab in Pathologic High-Risk Squamous Cell Cancer of the Head and Neck</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
         "Phase": "II/III",
         "Trial Type": "SCREENING, INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05364645\">A Randomized Phase II Study of Carboplatin and Pemetrexed with or Without Selpercatinib (LY3527723) in Participants with Non-Squamous RET Fusion-Positive Stage IV Non-Small Cell Lung Cancer and Progression of Disease on Prior RET Directed Therapy (Lung-MAP Sub-Study)</a>",
-        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05040360\">Randomized Phase II Trial of Postoperative Adjuvant Capecitabine and Temozolomide Versus Observation in High-Risk Pancreatic Neuroendocrine Tumors</a>",
@@ -1603,10 +1568,10 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04052555\">A Phase 1b Study of Berzosertib in Combination with Radiation Therapy to Overcome Therapeutic Resistance in Chemotherapy Resistant Triple Negative and Estrogen and/or Progesterone Receptor Positive, HER2 Negative Breast Cancer</a>",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03939897\">A Randomized Phase I/II Trial of Fulvestrant and Abemaciclib in Combination with Copanlisib (FAC) Versus Fulvestrant and Abemaciclib Alone (FA) for Endocrine-Resistant, Hormone Receptor Positive, HER2 Negative Metastatic Breast Cancer (FAC vs FA)</a>",
         "Disease Type": "Breast Cancer",
-        "Protocol Status": "Active",
-        "Phase": "I",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I/II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1766,7 +1731,7 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04068103\">Phase II/III Study of Circulating Tumor DNA as a Predictive Biomarker in Adjuvant Chemotherapy in Patients with Stage IIA Colon Cancer (COBRA)</a>",
         "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II/III",
         "Trial Type": "INTERVENTION"
     },
@@ -1876,13 +1841,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03604978\">A Phase I/II Study of Nivolumab Plus or Minus Ipilimumab in Combination with Multi-Fraction Stereotactic Radiosurgery for Recurrent High-Grade Radiation-Relapsed Meningioma</a>",
-        "Disease Type": "CNS Cancer (Primary tumor)",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03953898\">The PRIME Trial: PARP Inhibition in IDH Mutant Effectiveness Trial. A Phase II Study of Olaparib in Isocitrate Dehydrogenase (IDH) Mutant Relapsed/Refractory Acute Myeloid Leukemia and Myelodysplastic Syndrome</a>",
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
@@ -1894,6 +1852,13 @@
         "Disease Type": "Gastrointestinal Cancer;Solid Tumor",
         "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "I/II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04576091\">Phase I Trial of BAY 1895344 ATR Inhibitor Combined with Stereotactic Body Radiation Therapy and Pembrolizumab for Recurrent Head and Neck Squamous Cell Carcinoma</a>",
+        "Disease Type": "Head and Neck Cancer",
+        "Protocol Status": "Active",
+        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2093,6 +2058,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04870944\">A Phase 1/2 Trial of CBL0137 (NSC# 825802) in Patients with Relapsed or Refractory Solid Tumors Including CNS Tumors and Lymphoma</a>",
+        "Disease Type": "Bone Cancer;CNS Cancer (Primary tumor);Lymphoma;Solid Tumor",
+        "Protocol Status": "Active",
+        "Phase": "I/II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">A Randomized Phase III Double-Blind Clinical Trial Evaluating The Effect Of Immune-Enhancing Nutrition On Radical Cystectomy Outcomes (SIMmune)</a>",
         "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -2122,7 +2094,7 @@
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=Tumor-Agnostic+Precision+Immunooncology+and+Somatic+Targeting+Rational+for+You+(TAPISTRY)+Phase+II+Platform+Trial&cntry=US\">Tumor-Agnostic Precision Immunooncology and Somatic Targeting Rational for You (TAPISTRY) Phase II Platform Trial</a>",
-        "Disease Type": "NTRK, ROS1, ALK, AKT, PIK3CA, BRAF II/III, RET",
+        "Disease Type": "NTRK, ROS1, ALK, BRAF III, RET, KRAS G12C, ATM,SETD2",
         "Protocol Status": "Active",
         "Phase": "2",
         "Trial Type": "INTERVENTION"
@@ -2235,6 +2207,13 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2,+Multi-Center+Study+Evaluating+the+Safety+and+Efficacy+of+ENV-101+(Taladegib)+in+Patients+with+Advanced+Solid+Tumors+Harboring+PTCH1+Loss+of+Function+Mutations&cntry=US\">A Phase 2, Multi-Center Study Evaluating the Safety and Efficacy of ENV-101 (Taladegib) in Patients with Advanced Solid Tumors Harboring PTCH1 Loss of Function Mutations</a>",
         "Disease Type": "PTCH1",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+Open-Label,+Multicenter+Study+to+Evaluate+Efficacy+and+Safety+of+ZN-c3+in+Subjects+with+High-Grade+Serous+Ovarian,+Fallopian+Tube,+or+Primary+Peritoneal+Cancer&cntry=US\">A Phase 2 Open-Label, Multicenter Study to Evaluate Efficacy and Safety of ZN-c3 in Subjects with High-Grade Serous Ovarian, Fallopian Tube, or Primary Peritoneal Cancer</a>",
+        "Disease Type": "CCNE1 Amplifications or Cyclin E1 protein expressions",
         "Protocol Status": "Active",
         "Phase": "2",
         "Trial Type": "INTERVENTION"
