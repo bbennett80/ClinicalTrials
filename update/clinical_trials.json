@@ -168,6 +168,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691478\">A Feasibility and Randomized Phase 2/3 Study of the VEFGR2/MET Inhibitor Cabozantinib in Combination with Cytotoxic Chemotherapy for Newly Diagnosed Osteosarcoma</a>",
+        "Disease Type": "Bone Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Use of a Clinical Trial Screening Tool to Address Cancer Health Disparities in the NCI Community Oncology Research Program (NCORP)</a>",
         "Disease Type": "Hematopoietic Neoplasm (excluding Leukemia, Lymphoma and Myeloma);Solid Tumor",
         "Protocol Status": "Active",
@@ -532,17 +539,17 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04871529\">Randomized Phase II Trial of Gemcitabine, Avelumab and Carboplatin vs. No Neoadjuvant Therapy Preceding Surgery for Cisplatin-Ineligible Muscle-Invasive Urothelial Carcinoma: SWOG GAP TRIAL</a>",
+        "Disease Type": "Urothelial/ Bladder Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Internet-delivered Management of Pain Among Cancer Treatment Survivors (IMPACTS)</a>",
         "Disease Type": "Hematopoietic Neoplasm (excluding Leukemia, Lymphoma and Myeloma);Solid Tumor",
         "Protocol Status": "Active",
         "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02978625\">A Phase II Study of Talimogene Laherparepvec Followed by Talimogene Laherparepvec + Nivolumab in Refractory T Cell and NK Cell Lymphomas, Cutaneous Squamous Cell Carcinoma, Merkel Cell Carcinoma, and Other Rare Skin Tumors</a>",
-        "Disease Type": "Female Reproductive System Cancer;Lymphoma;Skin Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -630,6 +637,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691491\">A Phase 1/2 Trial Evaluating the Combination of Temozolomide and the Ataxia Telangiectasia and Rad3-Related Inhibitor M1774</a>",
+        "Disease Type": "Solid Tumor",
+        "Protocol Status": "Active",
+        "Phase": "I/II",
+        "Trial Type": "SCREENING, INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03866382\">A Phase II Study of Ipilimumab, Cabozantinib, and Nivolumab in Rare Genitourinary Cancers (ICONIC)</a>",
         "Disease Type": "Germ Cell Cancer;Kidney Cancer;Male Reproductive System Cancer;Miscellaneous and Metastatic Cancer;Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
@@ -676,6 +690,13 @@
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
         "Phase": "II/III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05211323\">A Randomized Phase II Trial Evaluating Chemotherapy Plus Atezolizumab vs Chemotherapy Plus Bevacizumab and Atezolizumab in Advanced Combined Hepatocellular Carcinoma-Cholangiocarcinoma</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -861,13 +882,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05691478\">A Feasibility and Randomized Phase 2/3 Study of the VEFGR2/MET Inhibitor Cabozantinib in Combination with Cytotoxic Chemotherapy for Newly Diagnosed Osteosarcoma</a>",
-        "Disease Type": "Bone Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II/III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04994132\">A Randomized Phase 3 Trial of Vinorelbine, Dactinomycin, and Cyclophosphamide (VINO-AC) Plus Maintenance Chemotherapy with Vinorelbine and Oral Cyclophosphamide (VINO-CPO) vs Vincristine, Dactinomycin and Cyclophosphamide (VAC) Plus VINO-CPO Maintenance in Patients with High Risk Rhabdomyosarcoma (HR-RMS)</a>",
         "Disease Type": "Soft Tissue Cancer/Sarcoma",
         "Protocol Status": "Active",
@@ -1026,13 +1040,6 @@
         "Disease Type": "Solid Tumor",
         "Protocol Status": "Active",
         "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04317105\">A Phase I/II Biomarker Driven Combination Trial of Copanlisib and Immune Checkpoint Inhibitors in Patients with Advanced Solid Tumors</a>",
-        "Disease Type": "Solid Tumor",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1248,13 +1255,6 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05642572\">A Randomized Phase II Study of INC280 (Capmatinib) Plus Osimertinib with or Without Ramucirumab in Participants with EGFR-Mutant, MET-Amplified Stage IV or Recurrent Non-Small Cell Lung Cancer (Lung-MAP Sub-Study)</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04871529\">Randomized Phase II Trial of Gemcitabine, Avelumab and Carboplatin vs. No Neoadjuvant Therapy Preceding Surgery for Cisplatin-Ineligible Muscle-Invasive Urothelial Carcinoma: SWOG GAP TRIAL</a>",
-        "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
@@ -1834,13 +1834,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03854474\">A Pilot Study of Tazemetostat and Pembrolizumab (MK-3475) in Advanced Urothelial Carcinoma</a>",
-        "Disease Type": "Urothelial/ Bladder Cancer",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03953898\">The PRIME Trial: PARP Inhibition in IDH Mutant Effectiveness Trial. A Phase II Study of Olaparib in Isocitrate Dehydrogenase (IDH) Mutant Relapsed/Refractory Acute Myeloid Leukemia and Myelodysplastic Syndrome</a>",
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
@@ -1929,13 +1922,6 @@
         "Disease Type": "Lymphoma",
         "Protocol Status": "Active",
         "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05211323\">A Randomized Phase II Trial Evaluating Chemotherapy vs Chemotherapy Plus Bevacizumab and Atezolizumab in Advanced Combined Hepatocellular Carcinoma-Cholangiocarcinoma</a>",
-        "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2216,6 +2202,13 @@
         "Disease Type": "CCNE1 Amplifications or Cyclin E1 protein expressions",
         "Protocol Status": "Active",
         "Phase": "2",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Global,+Phase+3,+Randomized,+Multicenter,+Open-Label+Study+to+Investigate+the+Efficacy+and+Safety+of+Furmonertinib+Compared+to+Platinum-Based+Chemotherapy+as+First-Line+Treatment+for+Patients+with+Locally+Advanced+or+Metastatic+Non-Small+Cell+Lung+Cancer+with+Epidermal+Growth+Factor+Receptor+Exon+20+Insertion+Mutations&cntry=US\">A Global, Phase 3, Randomized, Multicenter, Open-Label Study to Investigate the Efficacy and Safety of Furmonertinib Compared to Platinum-Based Chemotherapy as First-Line Treatment for Patients with Locally Advanced or Metastatic Non-Small Cell Lung Cancer with Epidermal Growth Factor Receptor Exon 20 Insertion Mutations</a>",
+        "Disease Type": "EGFR Exon 20 insertion mutation",
+        "Protocol Status": "Active",
+        "Phase": "3",
         "Trial Type": "INTERVENTION"
     },
     {
