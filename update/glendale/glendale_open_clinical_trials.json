@@ -24,12 +24,6 @@
         "Principal Investigator": "Dennis Holmes, MD"
     },
     {
-        "Sponsor": "Astra Zeneca",
-        "NCT #": "NCT04873362",
-        "Protocol Title": "A Phase III, Randomized, Double-Blind, Placebo-Controlled Clinical Trial to Evaluate the Efficacy and Safety of Adjuvant Atezolizumab or Placebo and Trastuzumab Emtansine for HER2-Positive Breast Cancer at High Risk of Recurrence Following Preoperative Therapy",
-        "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
         "Sponsor": "Pfizer",
         "NCT #": "NCT04821622",
         "Protocol Title": "TALAPRO-3: A PHASE 3, RANDOMIZED, DOUBLE-BLIND, STUDY OF TALAZOPARIB WITH ENZALUTAMIDE VERSUS PLACEBO WITH ENZALUTAMIDE IN MEN WITH DDR GENE MUTATED METASTATIC CASTRATION-SENSITIVE PROSTATE CANCER",
@@ -86,7 +80,7 @@
     {
         "Sponsor": "Dilon Technologies",
         "NCT #": "\u00a0NCT05377229",
-        "Protocol Title": "MarginProbe 2",
+        "Protocol Title": "MarginProbe\u00ae 2.0 Data Collection Study  ",
         "Principal Investigator": "Dennis Holmes, MD"
     },
     {
@@ -94,12 +88,6 @@
         "NCT #": "NCT05563220",
         "Protocol Title": "Open-Label Umbrella Study to Evaluate Safety and Efficacy of Elacastrant in Various Combination In Patients with Metastatic Breast Cancer (ELEVATE)",
         "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
-        "Sponsor": "Shionogi",
-        "NCT #": "NCT05563220",
-        "Protocol Title": "A Phase 1b/2, Open-label Umbrella Study to Evaluate Safety and Efficacy of Elacestrant in Various Combinations in Patients with Metastatic Breast Cancer (ELEVATE)",
-        "Principal Investigator": "Lance Lee, MD"
     },
     {
         "Sponsor": "Philips",
@@ -116,7 +104,19 @@
     {
         "Sponsor": "Prostate Conditions Education Council (PCEC)",
         "NCT #": "NA--Screening study",
-        "Protocol Title": "Prostate Cancer Awareness Screening",
+        "Protocol Title": "Prostate   Cancer   Awareness Screening    ",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "DiaMedica",
+        "NCT #": "NCT05065216",
+        "Protocol Title": "Phase 2/3 Adaptive Design, Randomized Double-blind Placebo-controlled Study to Evaluate the Safety and Efficacy of DM199 for the Treatment of Acute Ischemic Stroke (ReMEDy2 Trial)",
+        "Principal Investigator": "Lance Lee, MD"
+    },
+    {
+        "Sponsor": "xCures Vaccine study",
+        "NCT #": "NA--Expanded Access Study",
+        "Protocol Title": "\"Expanded access to neoantigen synthetic long peptide vaccine in an indivicual patient with advanced malignancy\"",
         "Principal Investigator": "Mihran Shirinian, MD"
     }
 ]
