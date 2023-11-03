@@ -1,20 +1,32 @@
 [
     {
         "Sponsor": "Hologic",
-        "NCT#": "TBD",
+        "NCT #": "TBD",
         "Protocol Title": "Multi-Center Prospective Non-Randomized Two-Arm Clinical Trial Evaluating Cryoablation for the Treatment of Stage 1 Invasive Breast Cancer in Lieu of Surgical Resection",
         "Principal Investigator": "Dennis Holmes, MD"
     },
     {
-        "Sponsor": "xCures Vaccine study",
-        "NCT#": "NA--Expanded Access Study",
-        "Protocol Title": "\"Expanded access to neoantigen synthetic long peptide vaccine in an indivicual patient with advanced malignancy\"",
+        "Sponsor": "Summit",
+        "NCT #": null,
+        "Protocol Title": null,
         "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
-        "Sponsor": "Biogen",
-        "NCT#": "NCT05764122",
-        "Protocol Title": "A Study to Evaluate the Efficacy and Safety of BIIB131 for Participants With Ischemic Stroke Between 4.5 and 24 Hours After Last Known Well (DAISY)",
+        "Sponsor": "ProLong Pharmaceuticals",
+        "NCT #": null,
+        "Protocol Title": null,
         "Principal Investigator": "Mikayel Grigoryan, MD"
+    },
+    {
+        "Sponsor": "AbbVie",
+        "NCT #": "In process",
+        "Protocol Title": "Protocol Title: A Phase 2, Open-Label Trial to Evaluate Safety of Epcoritamab monotherapy in Subjects with Relapsed or Refractory Diffuse Large B-Cell Lymphoma and Classic Follicular Lymphoma (Previously Grade 1-3a) when Administered in the Outpatient Setting",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "Johnson & Johnson",
+        "NCT #": "In Process ",
+        "Protocol Title": "Open-Label, Multi-Center, Randomized Study Evaluating the Efficacy andSafety of the TAR-210 Intravesical Erdafitinib Delivery System VersusInvestigator\u2019s Choice of Single Agent Intravesical Chemotherapy inParticipants with Intermediate-Risk Non-Muscle Invasive Bladder Cancer(IR-NMIBC) and Select FGFR Alterations",
+        "Principal Investigator": "Mihran Shirinian, MD"
     }
 ]
