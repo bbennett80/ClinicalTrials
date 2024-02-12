@@ -1,32 +1,32 @@
 [
     {
-        "Sponsor": "Hologic",
+        "Sponsor": "Cryoablation 2",
         "NCT #": "TBD",
-        "Protocol Title": "Multi-Center Prospective Non-Randomized Two-Arm Clinical Trial Evaluating Cryoablation for the Treatment of Stage 1 Invasive Breast Cancer in Lieu of Surgical Resection",
+        "Protocol Title": null,
         "Principal Investigator": "Dennis Holmes, MD"
     },
     {
-        "Sponsor": "Summit",
-        "NCT #": "NCT05899608",
-        "Protocol Title": "A Randomized, Controlled, Multiregional Phase 3 Study of Ivonescimab Combined With Chemotherapy Versus Pembrolizumab Combined With Chemotherapy for the First-line Treatment of Metastatic Squamous Non-small Cell Lung Cancer (HARMONi-3)",
-        "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
-        "Sponsor": "ProLong Pharmaceuticals",
-        "NCT #": "NCT04677777",
-        "Protocol Title": "A Randomized, Phase 1, Contemporaneously Controlled, Multicenter Study to Assess the Safety of PP-007 in Subjects with Acute Ischemic Stroke (HEMERA-1)",
+        "Sponsor": "MeThinks",
+        "NCT #": "TBD",
+        "Protocol Title": null,
         "Principal Investigator": "Mikayel Grigoryan, MD"
     },
     {
-        "Sponsor": "AbbVie",
-        "NCT #": "In process",
-        "Protocol Title": "Protocol Title: A Phase 2, Open-Label Trial to Evaluate Safety of Epcoritamab monotherapy in Subjects with Relapsed or Refractory Diffuse Large B-Cell Lymphoma and Classic Follicular Lymphoma (Previously Grade 1-3a) when Administered in the Outpatient Setting",
-        "Principal Investigator": "Mihran Shirinian, MD"
+        "Sponsor": "Trial Library",
+        "NCT #": "NA ",
+        "Protocol Title": null,
+        "Principal Investigator": "TBD"
     },
     {
-        "Sponsor": "Johnson & Johnson",
-        "NCT #": "In Process ",
-        "Protocol Title": "Open-Label, Multi-Center, Randomized Study Evaluating the Efficacy andSafety of the TAR-210 Intravesical Erdafitinib Delivery System VersusInvestigator\u2019s Choice of Single Agent Intravesical Chemotherapy inParticipants with Intermediate-Risk Non-Muscle Invasive Bladder Cancer(IR-NMIBC) and Select FGFR Alterations",
+        "Sponsor": "BMS",
+        "NCT #": "TBD",
+        "Protocol Title": null,
+        "Principal Investigator": "Lance Lee, MD"
+    },
+    {
+        "Sponsor": "Ferring Pharma",
+        "NCT #": "TBD",
+        "Protocol Title": null,
         "Principal Investigator": "Mihran Shirinian, MD"
     }
 ]
