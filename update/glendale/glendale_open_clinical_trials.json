@@ -6,12 +6,6 @@
         "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
-        "Sponsor": "PREMIA",
-        "NCT #": "NCT03012776",
-        "Protocol Title": "A Clinical Study to Assess the Safety and Effectiveness of the Premia Spine TOPSTM System \u00a0",
-        "Principal Investigator": "Jared Ament, MD"
-    },
-    {
         "Sponsor": "ImmunityBio",
         "NCT #": "NCT03520686",
         "Protocol Title": "A Phase 2, Open-Label, Randomize Stuy of ALT-803, A Fusion Protein Activator of Natural Killer and T Cells, in Combination with Pembrolizumab vs Pmbrolizumab Alone as First-Line Treatment for Patient with Metastatic Non-Small Cell Lung Cancer (NSCLC)",
@@ -55,7 +49,7 @@
     },
     {
         "Sponsor": "ABIOMED",
-        "NCT #": "NCT05334784",
+        "NCT #": "\u00a0NCT05334784",
         "Protocol Title": "Use of the Impella ECP\u2122 in Patients Undergoing an Elective or Urgent High-Risk Percutaneous Coronary Intervention",
         "Principal Investigator": "Hambik Tankazyan, DO"
     },
@@ -76,12 +70,6 @@
         "NCT #": "NCT05702034",
         "Protocol Title": "\u201cA Phase 3, Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Study to Demonstrate the Efficacy and Safety of Milvexian, an Oral Factor XIa Inhibitor, for Stroke Prevention after an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack LIBREXIA-STROKE\u201d",
         "Principal Investigator": "Lance Lee, MD"
-    },
-    {
-        "Sponsor": "Dilon Technologies",
-        "NCT #": "NCT05377229",
-        "Protocol Title": "MarginProbe\u00ae 2.0 Data Collection Study  ",
-        "Principal Investigator": "Dennis Holmes, MD"
     },
     {
         "Sponsor": "Stemline Therapeutics",
@@ -117,6 +105,18 @@
         "Sponsor": "xCures Vaccine study",
         "NCT #": "NA--Expanded Access Study",
         "Protocol Title": "\"Expanded access to neoantigen synthetic long peptide vaccine in an indivicual patient with advanced malignancy\"",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "F. Hoffmann-La Roche",
+        "NCT #": "In process",
+        "Protocol Title": "A PHASE III, RANDOMIZED, DOUBLE-BLIND STUDY OF TIRAGOLUMAB PLUS ATEZOLIZUMAB COMPARED WITH PLACEBO PLUS ATEZOLIZUMAB IN PArticipants WITH COMPLETELY RESECTED STAGE IIB, IIIA, OR SELECT IIIB, PD-L1 POSiTIVE, NON-SMALL CELL LUNG CANCER WHO HAVE RECEIVED ADJUVANT PLATINUM\u2011BASED CHEMOTHERAPY",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "Teligene",
+        "NCT #": "NCT060210342",
+        "Protocol Title": "A Phase 2 Study of TL118 for the Treatment of Patients with Solid Tumors Harboring NTRK Gene Fusions",
         "Principal Investigator": "Mihran Shirinian, MD"
     }
 ]
