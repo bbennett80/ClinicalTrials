@@ -476,6 +476,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT06169124\">A Phase II Study of Androgen Receptor (AR) Inhibition by Darolutamide in Combination with Leuprolide Acetate and Exemestane in Recurrent Adult-Type Ovarian Granulosa Cell Tumor</a>",
+        "Disease Type": "Female Reproductive System Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT06029270\">A Randomized Phase II Study of Nivolumab Versus Nivolumab and BMS-986016 (Relatlimab) as Maintenance Treatment After First-Line Treatment with Platinum-Gemcitabine-Nivolumab for Patients with Epstein-Barr Virus-Associated Recurrent/Metastatic Nasopharyngeal Carcinoma (REMAIN)</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
@@ -693,13 +700,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04751383\">Phase 1 Trial of Hu5F9-G4 (Magrolimab) Combined with Dinutuximab in Children and Young Adults with Relapsed and Refractory Neuroblastoma or Relapsed Osteosarcoma</a>",
-        "Disease Type": "Bone Cancer;Nervous System Cancer (CNS-excluded)",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04205968\">Randomized Phase II Selection Study of Ramucirumab and Paclitaxel Versus FOLFIRI in Refractory Small Bowel Adenocarcinoma</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -731,13 +731,6 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05687123\">A Phase I Dose Escalation-Expansion Trial of Sunitinib Malate Plus Lutetium Lu 177 Dotatate (Lutathera) in Somatostatin Receptor Positive Pancreatic Neuroendocrine Tumors</a>",
         "Disease Type": "Endocrine Cancer",
         "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05807126\">A Phase I/Ib Study of Anti-CD47 Hu5F9-G4 (Magrolimab) in Combination with Olaparib in Patients with BRCA1/2-Mutant Tumors</a>",
-        "Disease Type": "Breast Cancer;Male Reproductive System Cancer;Solid Tumor",
-        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
@@ -1673,6 +1666,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT06172296\">A Phase 3 Study of Dinutuximab Added to Intensive Multimodal Therapy for Children with Newly Diagnosed High-Risk Neuroblastoma</a>",
+        "Disease Type": "Nervous System Cancer (CNS-excluded)",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05451004\">SPECT-CT Guided Elective Contralateral Neck Treatment [SELECT] for Patients with Lateralized Oropharyngeal Cancer: A Phase III Randomized Controlled Trial</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
@@ -2002,13 +2002,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT06169124\">A Phase II Study of Androgen Receptor (AR) Inhibition by Darolutamide in Combination with Leuprolide Acetate and Exemestane in Recurrent Adult-Type Ovarian Granulosa Cell Tumor</a>",
-        "Disease Type": "Female Reproductive System Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05050162\">Randomized Phase II/III Trial of Radiation with Cisplatin at 100 mg/m2 Every Three Weeks Versus Radiation with Weekly Cisplatin at 40 mg/m2 for Patients with Locoregionally Advanced Squamous Cell Carcinoma of the Head and Neck (SCCHN)</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
@@ -2055,13 +2048,6 @@
         "Disease Type": "KRAS G12C",
         "Protocol Status": "Active",
         "Phase": "3",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=Tumor-Agnostic+Precision+Immunooncology+and+Somatic+Targeting+Rational+for+You+(TAPISTRY)+Phase+II+Platform+Trial&cntry=US\">Tumor-Agnostic Precision Immunooncology and Somatic Targeting Rational for You (TAPISTRY) Phase II Platform Trial</a>",
-        "Disease Type": "NTRK, ROS1, ALK",
-        "Protocol Status": "Active",
-        "Phase": "2",
         "Trial Type": "INTERVENTION"
     },
     {
