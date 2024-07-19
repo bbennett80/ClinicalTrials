@@ -35,6 +35,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05432804\">A Phase 1 and Randomized Phase 2 Trial of Selinexor and Temozolomide in Recurrent Glioblastoma</a>",
+        "Disease Type": "CNS Cancer (Primary tumor)",
+        "Protocol Status": "Active",
+        "Phase": "I/II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05019716\">A Phase 1/2 Study of the Bromodomain Inhibitor ZEN003694 in Combination with Etoposide/Platinum in Patients with NUT Carcinoma</a>",
         "Disease Type": "Miscellaneous and Metastatic Cancer",
         "Protocol Status": "Active",
@@ -798,13 +805,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04994132\">A Randomized Phase 3 Trial of Vinorelbine, Dactinomycin, and Cyclophosphamide (VINO-AC) Plus Maintenance Chemotherapy with Vinorelbine and Oral Cyclophosphamide (VINO-CPO) vs Vincristine, Dactinomycin and Cyclophosphamide (VAC) Plus VINO-CPO Maintenance in Patients with High Risk Rhabdomyosarcoma (HR-RMS)</a>",
-        "Disease Type": "Soft Tissue Cancer/Sarcoma",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05836584\">A Randomized Phase II Study of Perioperative Atezolizumab +/- Chemotherapy in Resectable MSI-H/dMMR Gastric and Gastroesophageal Junction (GEJ) Cancer</a>",
         "Disease Type": "Gastrointestinal Cancer",
         "Protocol Status": "Active",
@@ -1246,13 +1246,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05432804\">A Phase 1 and Randomized Phase 2 Trial of Selinexor and Temozolomide in Recurrent Glioblastoma</a>",
-        "Disease Type": "CNS Cancer (Primary tumor)",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05687136\">A Molecularly Driven Phase 1b Dose Escalation and Dose Expansion Study of the DNA-PK Inhibitor Peposertib (M3814) in Combination with the ATR Inhibitor M1774</a>",
         "Disease Type": "Solid Tumor",
         "Protocol Status": "Active",
@@ -1417,6 +1410,13 @@
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05554341\">Nilotinib and Paclitaxel in Patients with Prior Taxane-Treated Solid Tumors: A ComboMATCH Treatment Trial</a>",
         "Disease Type": "Solid Tumor",
         "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05554393\">A Measurable Residual Disease (MRD) Focused, Phase II Study of Venetoclax Plus Chemotherapy for Newly Diagnosed Younger Patients with Intermediate Risk Acute Myeloid Leukemia: A Tier 1 MYELOMATCH Clinical Trial</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
@@ -1624,6 +1624,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04994132\">A Randomized Phase 3 Trial of Vinorelbine, Dactinomycin, and Cyclophosphamide (VINO-AC) Plus Maintenance Chemotherapy with Vinorelbine and Oral Cyclophosphamide (VINO-CPO) vs Vincristine, Dactinomycin and Cyclophosphamide (VAC) Plus VINO-CPO Maintenance in Patients with High Risk Rhabdomyosarcoma (HR-RMS)</a>",
+        "Disease Type": "Soft Tissue Cancer/Sarcoma",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05451004\">SPECT-CT Guided Elective Contralateral Neck Treatment [SELECT] for Patients with Lateralized Oropharyngeal Cancer: A Phase III Randomized Controlled Trial</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
@@ -1698,13 +1705,6 @@
         "Disease Type": "CNS Cancer (Primary tumor);Kidney Cancer;Solid Tumor",
         "Protocol Status": "Active",
         "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03269669\">Randomized Phase II Trial in Early Relapsing or Refractory Follicular Lymphoma</a>",
-        "Disease Type": "Lymphoma",
-        "Protocol Status": "Active",
-        "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1981,13 +1981,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/2,+Open-Label,+Safety,+Tolerability,+Pharmacokinetics,+and+Anti-Tumor+Activity+Study+of+Repotrectinib+in+Pediatric+and+Young+Adult+Subjects+With+Advanced+or+Metastatic+Malignancies+Harboring+ALK,+ROS1,+NTRK1-3+Alterations&cntry=US\">A Phase 1/2, Open-Label, Safety, Tolerability, Pharmacokinetics, and Anti-Tumor Activity Study of Repotrectinib in Pediatric and Young Adult Subjects With Advanced or Metastatic Malignancies Harboring ALK, ROS1, NTRK1-3 Alterations</a>",
-        "Disease Type": "NTRK FUSIONS",
-        "Protocol Status": "Active",
-        "Phase": "2",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+2+Master+Protocol+to+assess+the+efficacy+and+safety+of+FORE8394,+an+inhibitor+of+BRAF+class+1+and+class+2+alterations,+in+participants+with+cancer+harboring+BRAF+alterations&cntry=US\">A Phase 2 Master Protocol to assess the efficacy and safety of FORE8394, an inhibitor of BRAF class 1 and class 2 alterations, in participants with cancer harboring BRAF alterations</a>",
         "Disease Type": "BRAF V600E",
         "Protocol Status": "Active",
@@ -1999,6 +1992,13 @@
         "Disease Type": "HRR mutations (BARD1, BRIP1, CHEK1, FANCL, PALB2, RAD51B, RAD51C, RAD51D, and RAD54L)",
         "Protocol Status": "Active",
         "Phase": "",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=An+Open-Label,+Multicenter,+First-in-Human,+Dose-Escalation+and+Dose-Expansion,+Phase+1/2+Study+of+BBI-355+and+BBI-355+in+Combination+with+Select+Targeted+Therapies+in+Subjects+with+Locally+Advanced+or+Metastatic+Solid+Tumors+with+Oncogene+Amplifications.&cntry=US\">An Open-Label, Multicenter, First-in-Human, Dose-Escalation and Dose-Expansion, Phase 1/2 Study of BBI-355 and BBI-355 in Combination with Select Targeted Therapies in Subjects with Locally Advanced or Metastatic Solid Tumors with Oncogene Amplifications.</a>",
+        "Disease Type": "EGFR, FGFR2",
+        "Protocol Status": "Active",
+        "Phase": "1",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -2037,6 +2037,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=A+Phase+1/2,+Open-Label,+Safety,+Tolerability,+Pharmacokinetics,+and+Anti-Tumor+Activity+Study+of+Repotrectinib+in+Pediatric+and+Young+Adult+Subjects+With+Advanced+or+Metastatic+Malignancies+Harboring+ALK,+ROS1,+NTRK1-3+Alterations&cntry=US\">A Phase 1/2, Open-Label, Safety, Tolerability, Pharmacokinetics, and Anti-Tumor Activity Study of Repotrectinib in Pediatric and Young Adult Subjects With Advanced or Metastatic Malignancies Harboring ALK, ROS1, NTRK1-3 Alterations</a>",
+        "Disease Type": "NTRK FUSIONS",
+        "Protocol Status": "Active",
+        "Phase": "2",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=***REFERRAL+ONLY***A+Global,+Phase+3,+Randomized,+Multicenter,+Open-Label+Study+to+Investigate+the+Efficacy+and+Safety+of+Furmonertinib+Compared+to+Platinum-Based+Chemotherapy+as+First-Line+Treatment+for+Patients+with+Locally+Advanced+or+Metastatic+Non-Small+Cell+Lung+Cancer+with+Epidermal+Growth+Factor+Receptor+Exon+20+Insertion+Mutations&cntry=US\">***REFERRAL ONLY***A Global, Phase 3, Randomized, Multicenter, Open-Label Study to Investigate the Efficacy and Safety of Furmonertinib Compared to Platinum-Based Chemotherapy as First-Line Treatment for Patients with Locally Advanced or Metastatic Non-Small Cell Lung Cancer with Epidermal Growth Factor Receptor Exon 20 Insertion Mutations</a>",
         "Disease Type": "EGFR Exon 20 insertion mutation",
         "Protocol Status": "Active",
@@ -2048,13 +2055,6 @@
         "Disease Type": "TP53 R175H; HLA-A*02:01",
         "Protocol Status": "Active",
         "Phase": "1",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=***REFERRAL+ONLY***+A+Phase+2+Open-Label,+Multicenter+Study+to+Evaluate+Efficacy+and+Safety+of+ZN-c3+in+Subjects+with+High-Grade+Serous+Ovarian,+Fallopian+Tube,+or+Primary+Peritoneal+Cancer&cntry=US\">***REFERRAL ONLY*** A Phase 2 Open-Label, Multicenter Study to Evaluate Efficacy and Safety of ZN-c3 in Subjects with High-Grade Serous Ovarian, Fallopian Tube, or Primary Peritoneal Cancer</a>",
-        "Disease Type": "n/a",
-        "Protocol Status": "Active",
-        "Phase": "2",
         "Trial Type": "INTERVENTION"
     },
     {
