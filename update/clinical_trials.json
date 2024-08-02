@@ -7,13 +7,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03878095\">A Phase II Study of Olaparib and AZD6738 in Isocitrate Dehydrogenase (IDH) Mutant Solid Tumors</a>",
-        "Disease Type": "Gastrointestinal Cancer;Solid Tumor",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03907475\">DURVA+ : Evaluation of the Safety and Pharmacodynamics of Anti-PD-L1 Antibody Durvalumab in Combination with Chemotherapy in Patients with Advanced Solid Tumors</a>",
         "Disease Type": "Solid Tumor",
         "Protocol Status": "Active",
@@ -567,17 +560,17 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04172532\">A Phase 1/2 Study of M3814 (Peposertib) in Combination with Hypofractionated Radiotherapy for the Treatment of Locally Advanced Pancreatic Adenocarcinoma</a>",
-        "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
-        "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04802161\">Randomized Phase 2 Study of Daunorubicin and Cytarabine Liposome + Pomalidomide Versus Daunorubicin and Cytarabine Liposome in Newly Diagnosed AML with MDS-Related Changes</a>",
         "Disease Type": "Leukemia",
         "Protocol Status": "Active",
         "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05353439\">Phase I Dose Escalation and Expansion Study of Tazemetostat in Combination with Topotecan and Pembrolizumab in Recurrent Small Cell Lung Cancer</a>",
+        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -728,6 +721,20 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT06337318\">Randomized Phase III Study of Mosunetuzumab vs. Rituximab for Low Tumor Burden Follicular Lymphoma</a>",
+        "Disease Type": "Lymphoma",
+        "Protocol Status": "Active",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04172532\">A Phase 1/2 Study of M3814 (Peposertib) in Combination with Hypofractionated Radiotherapy for the Treatment of Locally Advanced Pancreatic Adenocarcinoma</a>",
+        "Disease Type": "Gastrointestinal Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "I/II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05687123\">A Phase I Dose Escalation-Expansion Trial of Sunitinib Malate Plus Lutetium Lu 177 Dotatate (Lutathera) in Somatostatin Receptor Positive Pancreatic Neuroendocrine Tumors</a>",
         "Disease Type": "Endocrine Cancer",
         "Protocol Status": "Active",
@@ -772,13 +779,6 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05610163\">The Janus Rectal Cancer Trial: A Randomized Phase II/III Trial Testing the Efficacy of Triplet Versus Doublet Chemotherapy Regarding Clinical Complete Response and Disease-Free Survival in Patients with Locally Advanced Rectal Cancer</a>",
         "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04936230\">Phase II Randomized Trial of Immunotherapy Versus Immunotherapy and Radiation Therapy for Platinum Ineligible/Refractory Metastatic Urothelial Cancer (IMMORTAL)</a>",
-        "Disease Type": "Urothelial/ Bladder Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
@@ -1211,13 +1211,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03317392\">A Phase 1/2 Study of Combination Olaparib and Radium-223 in Men with Metastatic Castration-Resistant Prostate Cancer with Bone Metastases (COMRADE)</a>",
-        "Disease Type": "Male Reproductive System Cancer",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I/II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04704661\">Phase 1/1B Study of DS-8201a in Combination with ATR Inhibition (AZD6738) in Advanced Solid Tumors with HER2 Expression (DASH Trial)</a>",
         "Disease Type": "Gastrointestinal Cancer;Solid Tumor",
         "Protocol Status": "Active",
@@ -1227,13 +1220,6 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04840589\">Phase I/Ib Trial Evaluating the Safety and Efficacy of BET Inhibitor, ZEN003694 with PD-1 Inhibitor, Nivolumab with or Without CTLA-4 Inhibitor, Ipilimumab in Solid Tumors</a>",
         "Disease Type": "Female Reproductive System Cancer;Solid Tumor",
-        "Protocol Status": "Active",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05353439\">Phase I Dose Escalation and Expansion Study of Tazemetostat in Combination with Topotecan and Pembrolizumab in Recurrent Small Cell Lung Cancer</a>",
-        "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
@@ -1360,13 +1346,6 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04248452\">A Phase III Study of Consolidative Radiotherapy in Patients with Oligometastatic HER2 Negative Esophageal and Gastric Adenocarcinoma (EGA)</a>",
         "Disease Type": "Gastrointestinal Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03811015\">A Phase III Randomized Study of Maintenance Nivolumab Versus Observation in Patients with Locally Advanced, Intermediate Risk HPV Positive OPSCC</a>",
-        "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
         "Phase": "III",
         "Trial Type": "INTERVENTION"
@@ -1523,13 +1502,6 @@
         "Disease Type": "Male Reproductive System Cancer",
         "Protocol Status": "Active",
         "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03031730\">A Phase 1 Dose-Escalation and Exploratory Dose Expansion Study of KRT-232 (AMG 232) in Combination with Carfilzomib, Lenalidomide, and Dexamethasone in Relapsed and/or Refractory Myeloma</a>",
-        "Disease Type": "Myeloma",
-        "Protocol Status": "Active",
-        "Phase": "I",
         "Trial Type": "INTERVENTION"
     },
     {
@@ -1841,6 +1813,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03811015\">A Phase III Randomized Study of Maintenance Nivolumab Versus Observation in Patients with Locally Advanced, Intermediate Risk HPV Positive OPSCC</a>",
+        "Disease Type": "Head and Neck Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05721755\">Phase III Randomized Trial of Immunotherapy with or Without Consolidative Radiotherapy for Oligometastatic Head and Neck Squamous Cell Carcinoma</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Active",
@@ -1999,6 +1978,13 @@
         "Disease Type": "EGFR, FGFR2",
         "Protocol Status": "Active",
         "Phase": "1",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/results?term=The+Caris+Biorepository+Research+Protocol&cntry=US\">The Caris Biorepository Research Protocol</a>",
+        "Disease Type": "N/A",
+        "Protocol Status": "Active",
+        "Phase": "",
         "Trial Type": "INTERVENTION"
     },
     {
