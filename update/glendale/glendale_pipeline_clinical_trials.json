@@ -1,32 +1,26 @@
 [
     {
-        "Sponsor": "Cryoablation 2",
-        "NCT #": "TBD",
-        "Protocol Title": null,
-        "Principal Investigator": "Dennis Holmes, MD"
+        "Sponsor": "ISOThrive",
+        "NCT #": "NCT05556824",
+        "Protocol Title": "Multi-Center Study of Panosyl-Isomaltooliogsaccharides Adjunctive to PPI Therapy to Treat GERD",
+        "Principal Investigator": "James Tabibian, MD"
     },
     {
-        "Sponsor": "MeThinks",
-        "NCT #": "TBD",
-        "Protocol Title": null,
-        "Principal Investigator": "Mikayel Grigoryan, MD"
+        "Sponsor": "Stemline",
+        "NCT #": "NCT06492616",
+        "Protocol Title": "Elacestrant versus Standard Endocrine Therapy in Women and Men with Node-positive, Estrogen Receptor-positive, HER2-negative, Early Breast Cancer with High Risk of Recurrence - A Global, Multicenter, Randomized, Open-label Phase 3 Study (ELEGANT)",
+        "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
-        "Sponsor": "Trial Library",
-        "NCT #": "NA ",
-        "Protocol Title": null,
-        "Principal Investigator": "TBD"
+        "Sponsor": "AstraZeneca",
+        "NCT #": "NCT06380751",
+        "Protocol Title": "Saruparib (AZD5305) Plus Camizestrant Compared With CDK4/\u200b6 Inhibitor Plus Endocrine Therapy or Plus Camizestrant in HR-Positive, HER2-Negative (IHC 0, 1+, 2+/\u200b ISH Non-amplified), BRCA1, BRCA2, or PALB2m Advanced Breast Cancer (EvoPAR-BR01)",
+        "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
-        "Sponsor": "BMS",
+        "Sponsor": "Johnson and Johnson",
         "NCT #": "TBD",
-        "Protocol Title": null,
-        "Principal Investigator": "Lance Lee, MD"
-    },
-    {
-        "Sponsor": "Ferring Pharma",
-        "NCT #": "TBD",
-        "Protocol Title": null,
+        "Protocol Title": "(COPERNICUS) A Phase 2, Open-Label, Multi-cohort Study of Subcutaneous\u00a0Amivantamab\u00a0in Combination with Lazertinib as First-Line Treatment, or Subcutaneous\u00a0Amivantamab\u00a0in Combination with Platinum-based Chemo as Second-line Treatment, in Participants with EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer\u00a0",
         "Principal Investigator": "Mihran Shirinian, MD"
     }
 ]
