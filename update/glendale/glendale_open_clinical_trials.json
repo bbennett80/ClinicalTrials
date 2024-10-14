@@ -1,9 +1,9 @@
 [
     {
-        "Sponsor": "TP Therapeutics",
-        "NCT #": "NCT03093116",
-        "Protocol Title": "A Phase 1/2, Open-Label, Multi-Center, First-in-Human Study of the Safety, Tolerability, Pharmacokinetics, and Anti-Tumor Activity of TPX-0005 in Patients with Advanced Solid Tumors Harboring ALK, ROS1, or NTRK1-3 Rearrangements (TRIDENT-1",
-        "Principal Investigator": "Mihran Shirinian, MD"
+        "Sponsor": "DiaMedica",
+        "NCT #": "NCT05065216",
+        "Protocol Title": "Phase 2/3 Adaptive Design, Randomized Double-blind Placebo-controlled Study to Evaluate the Safety, Tolerability, and Efficacy of DM199 for the Treatment of Acute Ischemic Stroke (ReMEDy2 Trial) Protocol Number: DM199-2021-001",
+        "Principal Investigator": "Lance Lee, MD"
     },
     {
         "Sponsor": "ImmunityBio",
@@ -27,12 +27,6 @@
         "Sponsor": "Pfizer",
         "NCT #": "NCT03395197",
         "Protocol Title": "A Phase 3, Randomized, Double\u2011Blind, Placebo\u2011Controlled Study of Talazoparib WITH ENZALUTAMIDE in Metastatic Castration\u2011Resistant Prostate Cancer TALAPRO2",
-        "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
-        "Sponsor": "RADIUS",
-        "NCT #": "NCT03778931",
-        "Protocol Title": "Elacestrant Monotherapy vs. Standard of Care for the Treatment of Patients with ER+/HER2- Advanced Breast Cancer Following CDK4/6 Inhibitor Therapy: A Phase 3 Randomized, Open-Label, Active-Controlled, Multicenter Trial (EMERALD)",
         "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
@@ -85,38 +79,50 @@
     },
     {
         "Sponsor": "University of Pittsburg",
-        "NCT #": "In process",
+        "NCT #": "NCT05983757",
         "Protocol Title": "Combined Thrombectomy for Distal MediUm Vessel Occlusion StroKe (DUSK)",
         "Principal Investigator": "Mikayel Grigoryan, MD"
     },
     {
-        "Sponsor": "Prostate Conditions Education Council (PCEC)",
-        "NCT #": "NA--Screening study",
+        "Sponsor": "PCEC",
+        "NCT #": null,
         "Protocol Title": "Prostate   Cancer   Awareness Screening    ",
         "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
-        "Sponsor": "DiaMedica",
-        "NCT #": "NCT05065216",
-        "Protocol Title": "Phase 2/3 Adaptive Design, Randomized Double-blind Placebo-controlled Study to Evaluate the Safety and Efficacy of DM199 for the Treatment of Acute Ischemic Stroke (ReMEDy2 Trial)",
-        "Principal Investigator": "Lance Lee, MD"
-    },
-    {
-        "Sponsor": "xCures Vaccine study",
-        "NCT #": "NA--Expanded Access Study",
-        "Protocol Title": "\"Expanded access to neoantigen synthetic long peptide vaccine in an indivicual patient with advanced malignancy\"",
-        "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
-        "Sponsor": "F. Hoffmann-La Roche",
-        "NCT #": "In process",
-        "Protocol Title": "A PHASE III, RANDOMIZED, DOUBLE-BLIND STUDY OF TIRAGOLUMAB PLUS ATEZOLIZUMAB COMPARED WITH PLACEBO PLUS ATEZOLIZUMAB IN PArticipants WITH COMPLETELY RESECTED STAGE IIB, IIIA, OR SELECT IIIB, PD-L1 POSiTIVE, NON-SMALL CELL LUNG CANCER WHO HAVE RECEIVED ADJUVANT PLATINUM\u2011BASED CHEMOTHERAPY",
-        "Principal Investigator": "Mihran Shirinian, MD"
+        "Sponsor": "MeThinks",
+        "NCT #": "NCT06216457",
+        "Protocol Title": "Study on the Performance of a Machine Learning Algorithm Recognizing and Triaging Large Vessel Occlusions Using Non-contrast CT Scans (SMART-LVO)",
+        "Principal Investigator": "Mikayel Grigoryan, MD"
     },
     {
         "Sponsor": "Teligene",
         "NCT #": "NCT060210342",
         "Protocol Title": "A Phase 2 Study of TL118 for the Treatment of Patients with Solid Tumors Harboring NTRK Gene Fusions",
         "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "TrialLibrary",
+        "NCT #": "NCT04995198",
+        "Protocol Title": "PROMISE Registry: A Prostate cancer Registry of Outcomes and Germline Mutations for Improved Survival and Tretment Effectiveness  ",
+        "Principal Investigator": "NA--Registry"
+    },
+    {
+        "Sponsor": "TrialLibrary",
+        "NCT #": "NCT04658862",
+        "Protocol Title": "SunRISe-2: A Study of TAR-200 in Combination with Cetrelimab Versus Concurrent Chemoradiotherapy in Participants With Muscle-invasive Bladder Cancere (MIBC) of the Bladder",
+        "Principal Investigator": "NA--Referral Site"
+    },
+    {
+        "Sponsor": "Weill Medical College of Cornell University",
+        "NCT #": "NCT06399705",
+        "Protocol Title": "REvascularization CHoices Among Under-Represented Groups Evaluation: The\u00a0RECHARGE\u00a0Trial (RECHARGE:M)",
+        "Principal Investigator": "Hambik Tankazyan, DO"
+    },
+    {
+        "Sponsor": "Mercy Health Ohio",
+        "NCT #": "NCT05611242",
+        "Protocol Title": "Proximal Internal Carotid Artery Acute Stroke Secondary to Tandem or Local Occlusion Thrombectomy Trial",
+        "Principal Investigator": "Mikayel Grigoryan, MD"
     }
 ]
