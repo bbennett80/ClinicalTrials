@@ -78,12 +78,6 @@
         "Principal Investigator": "Hambik Tankazyan, DO"
     },
     {
-        "Sponsor": "University of Pittsburg",
-        "NCT #": "NCT05983757",
-        "Protocol Title": "Combined Thrombectomy for Distal MediUm Vessel Occlusion StroKe (DUSK)",
-        "Principal Investigator": "Mikayel Grigoryan, MD"
-    },
-    {
         "Sponsor": "PCEC",
         "NCT #": null,
         "Protocol Title": "Prostate   Cancer   Awareness Screening    ",
@@ -103,26 +97,38 @@
     },
     {
         "Sponsor": "TrialLibrary",
-        "NCT #": "NCT04995198",
-        "Protocol Title": "PROMISE Registry: A Prostate cancer Registry of Outcomes and Germline Mutations for Improved Survival and Tretment Effectiveness  ",
+        "NCT #": "NCT05514054",
+        "Protocol Title": "EMBER 4: A Study of Imlunestrant Versus Standard Endocrine Therapy in Participants With Early Breast Cancer",
         "Principal Investigator": "NA--Registry"
-    },
-    {
-        "Sponsor": "TrialLibrary",
-        "NCT #": "NCT04658862",
-        "Protocol Title": "SunRISe-2: A Study of TAR-200 in Combination with Cetrelimab Versus Concurrent Chemoradiotherapy in Participants With Muscle-invasive Bladder Cancere (MIBC) of the Bladder",
-        "Principal Investigator": "NA--Referral Site"
     },
     {
         "Sponsor": "Weill Medical College of Cornell University",
         "NCT #": "NCT06399705",
-        "Protocol Title": "REvascularization CHoices Among Under-Represented Groups Evaluation: The\u00a0RECHARGE\u00a0Trial (RECHARGE:M)",
+        "Protocol Title": "REvascularization CHoices Among Under-Represented Groups Evaluation: The\u00a0RECHARGE\u00a0Trial (RECHARGE)",
         "Principal Investigator": "Hambik Tankazyan, DO"
     },
     {
         "Sponsor": "Mercy Health Ohio",
         "NCT #": "NCT05611242",
-        "Protocol Title": "Proximal Internal Carotid Artery Acute Stroke Secondary to Tandem or Local Occlusion Thrombectomy Trial",
+        "Protocol Title": "Proximal Internal Carotid Artery Acute Stroke Secondary to Tandem or Local Occlusion Thrombectomy Trial (PICASSO)",
         "Principal Investigator": "Mikayel Grigoryan, MD"
+    },
+    {
+        "Sponsor": "Johnson and Johnson",
+        "NCT #": "NCT06667076",
+        "Protocol Title": "A Study of Amivantamab in Combination With Lazertinib, or Amivantamab in Combination With Platinum-Based Chemotherapy, for Common Epidermal Growth Factor Receptor (EGFR)-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) (COPERNICUS)",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "AstraZeneca",
+        "NCT #": "NCT06380751",
+        "Protocol Title": "Saruparib (AZD5305) Plus Camizestrant Compared With CDK4/\u200b6 Inhibitor Plus Endocrine Therapy or Plus Camizestrant in HR-Positive, HER2-Negative (IHC 0, 1+, 2+/\u200b ISH Non-amplified), BRCA1, BRCA2, or PALB2m Advanced Breast Cancer (EvoPAR-BR01)",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "Medtronic/Orchestra BioMed",
+        "NCT #": "NCT06059638",
+        "Protocol Title": "BradycArdia paCemaKer With AV Interval Modulation for Blood prEssure treAtmenT (BACKBEAT)",
+        "Principal Investigator": "John P. McKenzie, MD"
     }
 ]
