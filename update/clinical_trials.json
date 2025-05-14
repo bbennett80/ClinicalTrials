@@ -98,13 +98,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03739814\">A Phase II Study of Inotuzumab Ozogamicin Followed by Blinatumomab for Ph-Negative, CD22-Positive B-Lineage Acute Lymphoblastic Leukemia in Newly Diagnosed Older Adults or Adults with Relapsed or Refractory Disease</a>",
-        "Disease Type": "Leukemia",
-        "Protocol Status": "Active",
-        "Phase": "II",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04803201\">A Randomized Phase II Study of CHO(E)P vs CC-486-CHO(E)P vs Duvelisib-CHO(E)P in Previously Untreated CD30 Negative Peripheral T-Cell Lymphomas</a>",
         "Disease Type": "Lymphoma",
         "Protocol Status": "Active",
@@ -259,13 +252,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05896189\">Cognitive Training For Cancer Related Cognitive Impairment In Breast Cancer Survivors: A Multi-Center Randomized Double-Blinded Controlled Trial</a>",
-        "Disease Type": "Breast Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05327686\">Randomized Phase II Stereotactic Ablative Radiation Therapy (SABR) for Metastatic Unresected Renal Cell Carcinoma (RCC) Receiving Immunotherapy (SAMURAI)</a>",
         "Disease Type": "Kidney Cancer",
         "Protocol Status": "Active",
@@ -322,7 +308,7 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/\">Immune Checkpoint Inhibitor Toxicity (I-CHECKIT): A Prospective Observational Study</a>",
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04871542\">Immune Checkpoint Inhibitor Toxicity (I-CHECKIT): A Prospective Observational Study</a>",
         "Disease Type": "N/A",
         "Protocol Status": "Active",
         "Phase": "Other",
@@ -574,13 +560,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05627245\">Phase 1/Expansion Study of Tazemetostat Plus Belinostat for the Treatment of Relapsed or Refractory Lymphoma</a>",
-        "Disease Type": "Lymphoma",
-        "Protocol Status": "Temporarily Closed to Accrual",
-        "Phase": "I",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05198830\">A Phase 2 Randomized Study of the BER Inhibitor TRC102 in Combination with Standard Pemetrexed-Platinum-Radiation in Stage III Non-Squamous Non-Small Cell Lung Cancer</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
@@ -686,13 +665,6 @@
         "Trial Type": "INTERVENTION"
     },
     {
-        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04095364\">A Randomized Phase III, Two-Arm Trial of Paclitaxel/Carboplatin/Maintenance Letrozole Versus Letrozole Monotherapy in Patients with Stage II-IV, Primary Low-Grade Serous Carcinoma of the Ovary or Peritoneum</a>",
-        "Disease Type": "Female Reproductive System Cancer",
-        "Protocol Status": "Active",
-        "Phase": "III",
-        "Trial Type": "INTERVENTION"
-    },
-    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04333537\">Randomized Phase II/III Trial of Sentinel Lymph Node Biopsy Versus Elective Neck Dissection for Early-Stage Oral Cavity Cancer</a>",
         "Disease Type": "Head and Neck Cancer",
         "Protocol Status": "Temporarily Closed to Accrual",
@@ -777,6 +749,13 @@
         "Trial Type": "OTHER"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT03739814\">A Phase II Study of Inotuzumab Ozogamicin Followed by Blinatumomab for Ph-Negative, CD22-Positive B-Lineage Acute Lymphoblastic Leukemia in Newly Diagnosed Older Adults or Adults with Relapsed or Refractory Disease</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05001880\">Phase 2 Randomized Trial of Neoadjuvant or Palliative Chemotherapy with or Without Immunotherapy for Peritoneal Mesothelioma</a>",
         "Disease Type": "Lung, Mediastinal, and Pleural Cancer",
         "Protocol Status": "Active",
@@ -838,6 +817,13 @@
         "Protocol Status": "Active",
         "Phase": "Other",
         "Trial Type": "SCREENING"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05896189\">Cognitive Training For Cancer Related Cognitive Impairment In Breast Cancer Survivors: A Multi-Center Randomized Double-Blinded Controlled Trial</a>",
+        "Disease Type": "Breast Cancer",
+        "Protocol Status": "Temporarily Closed to Accrual",
+        "Phase": "III",
+        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT02997228\">Colorectal Cancer Metastatic dMMR/MSI-H Immuno-Therapy (COMMIT) Study: A Randomized Phase III Study of mFOLFOX6/Bevacizumab/Atezolizumab Combination Versus Single Agent Atezolizumab in the First-Line Treatment of Patients with Deficient DNA Mismatch Repair (dMMR)/Microsatellite Instability-High (MSI-H) Metastatic Colorectal Cancer</a>",
@@ -1020,6 +1006,13 @@
         "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "I/II",
         "Trial Type": "SCREENING, INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT06661915\">A Randomized Phase 2 Trial of ASTX727 +/- Iadademstat in Accelerated/Blast-Phase Philadelphia Chromosome-Negative Myeloproliferative Neoplasms (MPNs)</a>",
+        "Disease Type": "Leukemia",
+        "Protocol Status": "Active",
+        "Phase": "II",
+        "Trial Type": "INTERVENTION"
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT06671912\">LoTam: A Randomized, Phase III Clinical Trial of Low-Dose Tamoxifen for Selected Patients with Molecular Low-Risk Early-Stage Breast Cancer</a>",
@@ -1241,7 +1234,7 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05947500\">A Randomized Phase 2 Study of ATR Inhibition in Advanced PD-(L)1-Refractory Merkel Cell Carcinoma: The MATRiX Trial</a>",
         "Disease Type": "Skin Cancer",
-        "Protocol Status": "Active",
+        "Protocol Status": "Temporarily Closed to Accrual",
         "Phase": "II",
         "Trial Type": "INTERVENTION"
     },
@@ -1514,6 +1507,13 @@
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04633239\">A Phase 1/1b Dose Escalation Study of Abemaciclib and Olaparib for Recurrent Platinum-Resistant Ovarian Cancer</a>",
         "Disease Type": "Female Reproductive System Cancer",
+        "Protocol Status": "Active",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05627245\">Phase 1/Expansion Study of Tazemetostat Plus Belinostat for the Treatment of Relapsed or Refractory Lymphoma</a>",
+        "Disease Type": "Lymphoma",
         "Protocol Status": "Active",
         "Phase": "I",
         "Trial Type": "INTERVENTION"
@@ -1918,6 +1918,13 @@
         "Trial Type": "INTERVENTION"
     },
     {
+        "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT06894979\">A Phase I Study to Assess the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of AZD1390 (NSC# 852149, IND# 172675) When Combined with Focal Radiation in Pediatric Patients with High Grade Glioma</a>",
+        "Disease Type": "CNS Cancer (Primary tumor)",
+        "Protocol Status": "Active",
+        "Phase": "I",
+        "Trial Type": "INTERVENTION"
+    },
+    {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT04799275\">A Phase II/III Randomized Study of R-MiniCHOP with or Without CC-486 (Oral Azacitidine) in Participants Age 75 Years or Older with Newly Diagnosed Diffuse Large B Cell Lymphoma, Grade IIIB Follicular Lymphoma, Transformed Lymphoma, and High-Grade B-Cell Lymphomas with MYC AND BCL2 and/or BCL6 Rearrangements</a>",
         "Disease Type": "Lymphoma",
         "Protocol Status": "Temporarily Closed to Accrual",
@@ -1982,7 +1989,7 @@
     },
     {
         "Title": "<a target=\"_blank\" href=\"https://clinicaltrials.gov/ct2/show/NCT05174169\">Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease (CIRCULATE-NORTH AMERICA)</a>",
-        "Disease Type": "Gastrointestinal Cancer",
+        "Disease Type": "Colorectal Cancer",
         "Protocol Status": "Active*",
         "Phase": "II/III",
         "Trial Type": "INTERVENTION"
