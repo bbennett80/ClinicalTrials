@@ -24,12 +24,6 @@
         "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
-        "Sponsor": "Pfizer",
-        "NCT #": "NCT03395197",
-        "Protocol Title": "A Phase 3, Randomized, Double\u2011Blind, Placebo\u2011Controlled Study of Talazoparib WITH ENZALUTAMIDE in Metastatic Castration\u2011Resistant Prostate Cancer TALAPRO2",
-        "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
         "Sponsor": "ABIOMED ",
         "NCT #": "NCT04763200",
         "Protocol Title": "Impella\u00ae-Supported PCI in High-Risk Patients with Complex Coronary Artery Disease and Reduced Left Ventricular Function: The PROTECT IV Trial",
@@ -66,12 +60,6 @@
         "Principal Investigator": "Lance Lee, MD"
     },
     {
-        "Sponsor": "Stemline Therapeutics",
-        "NCT #": "NCT05563220",
-        "Protocol Title": "Open-Label Umbrella Study to Evaluate Safety and Efficacy of Elacastrant in Various Combination In Patients with Metastatic Breast Cancer (ELEVATE)",
-        "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
         "Sponsor": "Philips",
         "NCT #": "NCT04451044",
         "Protocol Title": "Multi-center, prospective, randomized controlled study comparing PCI guided by angiography versus iFR Co-Registration using commercially available Philips pressure guidewires and the SyncVision co-registration system, employing an adaptive design study for interim sample size re-estimation.",
@@ -84,22 +72,10 @@
         "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
-        "Sponsor": "MeThinks",
-        "NCT #": "NCT06216457",
-        "Protocol Title": "Study on the Performance of a Machine Learning Algorithm Recognizing and Triaging Large Vessel Occlusions Using Non-contrast CT Scans (SMART-LVO)",
-        "Principal Investigator": "Mikayel Grigoryan, MD"
-    },
-    {
         "Sponsor": "Teligene",
         "NCT #": "NCT060210342",
         "Protocol Title": "A Phase 2 Study of TL118 for the Treatment of Patients with Solid Tumors Harboring NTRK Gene Fusions",
         "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
-        "Sponsor": "TrialLibrary",
-        "NCT #": "NCT05514054",
-        "Protocol Title": "EMBER 4: A Study of Imlunestrant Versus Standard Endocrine Therapy in Participants With Early Breast Cancer",
-        "Principal Investigator": "NA--Registry"
     },
     {
         "Sponsor": "Weill Medical College of Cornell University",
@@ -130,5 +106,17 @@
         "NCT #": "NCT06059638",
         "Protocol Title": "BradycArdia paCemaKer With AV Interval Modulation for Blood prEssure treAtmenT (BACKBEAT)",
         "Principal Investigator": "John P. McKenzie, MD"
+    },
+    {
+        "Sponsor": "StrokeDX",
+        "NCT #": "TBD",
+        "Protocol Title": "A multi-center, open-label, proof-of-concept study to optimize stroke detection by a protable neuroimaging device",
+        "Principal Investigator": "Lance Lee, MD"
+    },
+    {
+        "Sponsor": "Revalesio",
+        "NCT #": "TBD",
+        "Protocol Title": "A Phase 3 Double-blind, Randomized, Placebo-controlled Study to Evaluate the Efficacy and Safety of RNS60 in Participants with Acute Ischemic Stroke Undergoing Endovascular Thrombectomy",
+        "Principal Investigator": "Lance Lee, MD"
     }
 ]
