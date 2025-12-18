@@ -37,7 +37,7 @@
     },
     {
         "Sponsor": "ABIOMED",
-        "NCT #": "\u00a0NCT05334784",
+        "NCT #": "NCT05334784",
         "Protocol Title": "Use of the Impella ECP\u2122 in Patients Undergoing an Elective or Urgent High-Risk Percutaneous Coronary Intervention",
         "Principal Investigator": "Hambik Tankazyan, DO"
     },
@@ -67,7 +67,7 @@
     },
     {
         "Sponsor": "PCEC",
-        "NCT #": null,
+        "NCT #": "n/a",
         "Protocol Title": "Prostate   Cancer   Awareness Screening    ",
         "Principal Investigator": "Mihran Shirinian, MD"
     },
@@ -109,7 +109,7 @@
     },
     {
         "Sponsor": "StrokeDX",
-        "NCT #": "TBD",
+        "NCT #": "n/a",
         "Protocol Title": "A multi-center, open-label, proof-of-concept study to optimize stroke detection by a protable neuroimaging device",
         "Principal Investigator": "Lance Lee, MD"
     },
