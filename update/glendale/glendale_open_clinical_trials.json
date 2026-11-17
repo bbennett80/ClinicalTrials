@@ -6,22 +6,10 @@
         "Principal Investigator": "Lance Lee, MD"
     },
     {
-        "Sponsor": "ImmunityBio",
-        "NCT #": "NCT03520686",
-        "Protocol Title": "A Phase 2, Open-Label, Randomize Stuy of ALT-803, A Fusion Protein Activator of Natural Killer and T Cells, in Combination with Pembrolizumab vs Pmbrolizumab Alone as First-Line Treatment for Patient with Metastatic Non-Small Cell Lung Cancer (NSCLC)",
-        "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
         "Sponsor": "Doterra",
         "NCT #": "NCT05218044",
         "Protocol Title": "Cryoablation as a Minimally Invasive Alternative to Surgery for Managing Ductal Carcinoma In Situ",
         "Principal Investigator": "Dennis Holmes, MD"
-    },
-    {
-        "Sponsor": "Pfizer",
-        "NCT #": "NCT04821622",
-        "Protocol Title": "TALAPRO-3: A PHASE 3, RANDOMIZED, DOUBLE-BLIND, STUDY OF TALAZOPARIB WITH ENZALUTAMIDE VERSUS PLACEBO WITH ENZALUTAMIDE IN MEN WITH DDR GENE MUTATED METASTATIC CASTRATION-SENSITIVE PROSTATE CANCER",
-        "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
         "Sponsor": "ABIOMED ",
@@ -37,7 +25,7 @@
     },
     {
         "Sponsor": "ABIOMED",
-        "NCT #": "NCT05334784",
+        "NCT #": "\u00a0NCT05334784",
         "Protocol Title": "Use of the Impella ECP\u2122 in Patients Undergoing an Elective or Urgent High-Risk Percutaneous Coronary Intervention",
         "Principal Investigator": "Hambik Tankazyan, DO"
     },
@@ -54,20 +42,20 @@
         "Principal Investigator": "Artin Minaeian, MD"
     },
     {
-        "Sponsor": "Janssen",
-        "NCT #": "NCT05702034",
-        "Protocol Title": "\u201cA Phase 3, Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Study to Demonstrate the Efficacy and Safety of Milvexian, an Oral Factor XIa Inhibitor, for Stroke Prevention after an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack LIBREXIA-STROKE\u201d",
-        "Principal Investigator": "Lance Lee, MD"
-    },
-    {
         "Sponsor": "Philips",
         "NCT #": "NCT04451044",
         "Protocol Title": "Multi-center, prospective, randomized controlled study comparing PCI guided by angiography versus iFR Co-Registration using commercially available Philips pressure guidewires and the SyncVision co-registration system, employing an adaptive design study for interim sample size re-estimation.",
         "Principal Investigator": "Hambik Tankazyan, DO"
     },
     {
+        "Sponsor": "University of Pittsburg",
+        "NCT #": "NCT05983757",
+        "Protocol Title": "Combined Thrombectomy for Distal MediUm Vessel Occlusion StroKe (DUSK)",
+        "Principal Investigator": "Mikayel Grigoryan, MD"
+    },
+    {
         "Sponsor": "PCEC",
-        "NCT #": "n/a",
+        "NCT #": null,
         "Protocol Title": "Prostate   Cancer   Awareness Screening    ",
         "Principal Investigator": "Mihran Shirinian, MD"
     },
@@ -80,7 +68,7 @@
     {
         "Sponsor": "Weill Medical College of Cornell University",
         "NCT #": "NCT06399705",
-        "Protocol Title": "REvascularization CHoices Among Under-Represented Groups Evaluation: The\u00a0RECHARGE\u00a0Trial (RECHARGE)",
+        "Protocol Title": "REvascularization CHoices Among Under-Represented Groups Evaluation: The\u00a0RECHARGE\u00a0Trial (RECHARGE:M)",
         "Principal Investigator": "Hambik Tankazyan, DO"
     },
     {
@@ -90,33 +78,57 @@
         "Principal Investigator": "Mikayel Grigoryan, MD"
     },
     {
-        "Sponsor": "Johnson and Johnson",
-        "NCT #": "NCT06667076",
-        "Protocol Title": "A Study of Amivantamab in Combination With Lazertinib, or Amivantamab in Combination With Platinum-Based Chemotherapy, for Common Epidermal Growth Factor Receptor (EGFR)-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) (COPERNICUS)",
-        "Principal Investigator": "Mihran Shirinian, MD"
-    },
-    {
         "Sponsor": "AstraZeneca",
         "NCT #": "NCT06380751",
         "Protocol Title": "Saruparib (AZD5305) Plus Camizestrant Compared With CDK4/\u200b6 Inhibitor Plus Endocrine Therapy or Plus Camizestrant in HR-Positive, HER2-Negative (IHC 0, 1+, 2+/\u200b ISH Non-amplified), BRCA1, BRCA2, or PALB2m Advanced Breast Cancer (EvoPAR-BR01)",
         "Principal Investigator": "Mihran Shirinian, MD"
     },
     {
-        "Sponsor": "Medtronic/Orchestra BioMed",
+        "Sponsor": "Johnson and Johnson (Janssen)",
+        "NCT #": "NCT06667076",
+        "Protocol Title": "(COPERNICUS) A Phase 2, Open-Label, Multi-cohort Study of Subcutaneous\u00a0Amivantamab\u00a0in Combination with Lazertinib as First-Line Treatment, or Subcutaneous\u00a0Amivantamab\u00a0in Combination with Platinum-based Chemo as Second-line Treatment, in Participants with EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer\u00a0",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "OrchestraBioMed",
         "NCT #": "NCT06059638",
         "Protocol Title": "BradycArdia paCemaKer With AV Interval Modulation for Blood prEssure treAtmenT (BACKBEAT)",
-        "Principal Investigator": "John P. McKenzie, MD"
+        "Principal Investigator": "John McKenzie"
     },
     {
-        "Sponsor": "StrokeDX",
-        "NCT #": "n/a",
-        "Protocol Title": "A multi-center, open-label, proof-of-concept study to optimize stroke detection by a protable neuroimaging device",
-        "Principal Investigator": "Lance Lee, MD"
-    },
-    {
-        "Sponsor": "Revalesio",
+        "Sponsor": "Revalasio",
         "NCT #": "TBD",
-        "Protocol Title": "A Phase 3 Double-blind, Randomized, Placebo-controlled Study to Evaluate the Efficacy and Safety of RNS60 in Participants with Acute Ischemic Stroke Undergoing Endovascular Thrombectomy",
+        "Protocol Title": "\u201cRESTORE: A Phase 3 Double-blind, Randomized, Placebo-controlled Study to Evaluate the Efficacy and Safety of RNS60 in Participants with Acute Ischemic Stroke Undergoing Endovascular Thrombectomy\u201d ",
         "Principal Investigator": "Lance Lee, MD"
+    },
+    {
+        "Sponsor": "SVLPAL",
+        "NCT #": "HUD H060002",
+        "Protocol Title": "Spiration Valves as a treatment option for patinets with post-operative prolonged aire leaks",
+        "Principal Investigator": "Ramyar Mahdavi, MD"
+    },
+    {
+        "Sponsor": "Ice Cure Medical Inc",
+        "NCT #": "NCT07629206",
+        "Protocol Title": "Post-Marketing Study for Early-Stage Low-Risk Breast Cancer Treatment Using ProSense\u00ae Cryoablation (ChoICE Trial)",
+        "Principal Investigator": "Dennis Holmes, MD"
+    },
+    {
+        "Sponsor": "AstraZeneca",
+        "NCT #": null,
+        "Protocol Title": "A Global Real-World Data Program Exploring Longitudinal Outcomes, Biomarker Testing, and Treatment Patterns in Advanced and Resectable GC/GEJC Patients",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "Novartis",
+        "NCT #": "TBD",
+        "Protocol Title": "A Phase 3, Multicenter, Randomized, Double Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Abelacimab for Stroke Prevention in Patients after Non-Cardioembolic Ischemic Stroke or High-Risk Transient Ischemic Attack",
+        "Principal Investigator": "Lance Lee, MD"
+    },
+    {
+        "Sponsor": "AstraZeneca",
+        "NCT #": "TBD",
+        "Protocol Title": "A Phase III Prospective, Randomised, Open Label, Blinded Endpoint (PROBE) Study to Assess the Effect of Fixed Dose Combination Laroprovstat/Rosuvastatin on Major Adverse Cardiovascular Events in Patients Hospitalised with Acute Myocardial Infarction",
+        "Principal Investigator": "Hambik Tankazyan, DO"
     }
 ]
