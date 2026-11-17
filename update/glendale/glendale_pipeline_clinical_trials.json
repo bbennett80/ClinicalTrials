@@ -1,8 +1,20 @@
 [
     {
-        "Sponsor": "ISOThrive",
-        "NCT#": "NCT05556824",
-        "Protocol Title": "Multi-Center Study of Panosyl-Isomaltooliogsaccharides Adjunctive to PPI Therapy to Treat GERD",
-        "Principal Investigator": "James Tabibian, MD"
+        "Sponsor": "Merck",
+        "NCT#": "TBD",
+        "Protocol Title": "MK7240-020: A Phase 3, Randomized, Double-blind, Double-dummy, Active-controlled Study to Evaluate the Efficacy and Safety of Tulisokibart Compared to Comparator in Adult Participants with Moderately to Severely Active Ulcerative Colitis\u00a0",
+        "Principal Investigator": "Tina Storage, MD"
     },
+    {
+        "Sponsor": "GSK",
+        "NCT#": "TBD",
+        "Protocol Title": "A Phase 2, Open-label Platform Study Utilizing a Master Protocol to Study Risvutatug Rezetecan as Monotherapy or in Combination with Other Treatments in Adult Male Participants with Prostate Cancer (EMBOLD Prostate-203)",
+        "Principal Investigator": "Mihran Shirinian, MD"
+    },
+    {
+        "Sponsor": "Serenity Medical",
+        "NCT#": "TBD",
+        "Protocol Title": "HDE:  River stend for IIH",
+        "Principal Investigator": "Tigran Khachatryan, MD"
+    }
 ]
